@@ -1,0 +1,8094 @@
+Country,Date,Cases
+Thailand,2020-01-22,2
+Japan,2020-01-22,2
+Singapur,2020-01-22,0
+Nepal,2020-01-22,0
+Malaysia,2020-01-22,0
+Kanada,2020-01-22,0
+Australien,2020-01-22,0
+Kambodscha,2020-01-22,0
+Sri Lanka,2020-01-22,0
+Deutschland,2020-01-22,0
+Finnland,2020-01-22,0
+Vereinigte Arabische Emirate,2020-01-22,0
+Philippinen,2020-01-22,0
+Indien,2020-01-22,0
+Italien,2020-01-22,0
+Schweden,2020-01-22,0
+Spanien,2020-01-22,0
+Belgien,2020-01-22,0
+Ägypten,2020-01-22,0
+Libanon,2020-01-22,0
+Irak,2020-01-22,0
+Oman,2020-01-22,0
+Afghanistan,2020-01-22,0
+Bahrain,2020-01-22,0
+Kuwait,2020-01-22,0
+Algerien,2020-01-22,0
+Kroatien,2020-01-22,0
+Schweiz,2020-01-22,0
+Österreich,2020-01-22,0
+Israel,2020-01-22,0
+Pakistan,2020-01-22,0
+Brasilien,2020-01-22,0
+Georgien,2020-01-22,0
+Griechenland,2020-01-22,0
+Mazedonien,2020-01-22,0
+Norwegen,2020-01-22,0
+Rumänien,2020-01-22,0
+Estland,2020-01-22,0
+Niederlande,2020-01-22,0
+San Marino,2020-01-22,0
+Weißrussland,2020-01-22,0
+Island,2020-01-22,0
+Litauen,2020-01-22,0
+Mexiko,2020-01-22,0
+Neuseeland,2020-01-22,0
+Nigeria,2020-01-22,0
+Irland,2020-01-22,0
+Luxemburg,2020-01-22,0
+Monaco,2020-01-22,0
+Katar,2020-01-22,0
+Ecuador,2020-01-22,0
+Aserbaidschan,2020-01-22,0
+Armenien,2020-01-22,0
+Dominikanische Republik,2020-01-22,0
+Indonesien,2020-01-22,0
+Portugal,2020-01-22,0
+Andorra,2020-01-22,0
+Lettland,2020-01-22,0
+Marokko,2020-01-22,0
+Saudi Arabien,2020-01-22,0
+Senegal,2020-01-22,0
+Argentinien,2020-01-22,0
+Chile,2020-01-22,0
+Jordanien,2020-01-22,0
+Ukraine,2020-01-22,0
+Ungarn,2020-01-22,0
+Liechtenstein,2020-01-22,0
+Polen,2020-01-22,0
+Tunesien,2020-01-22,0
+Bosnien und Herzegowina,2020-01-22,0
+Slowenien,2020-01-22,0
+Südafrika,2020-01-22,0
+Bhutan,2020-01-22,0
+Kamerun,2020-01-22,0
+Kolumbien,2020-01-22,0
+Costa Rica,2020-01-22,0
+Peru,2020-01-22,0
+Serbien,2020-01-22,0
+Slowakei,2020-01-22,0
+Togo,2020-01-22,0
+Malta,2020-01-22,0
+Martinique,2020-01-22,0
+Bulgarien,2020-01-22,0
+Malediven,2020-01-22,0
+Bangladesch,2020-01-22,0
+Paraguay,2020-01-22,0
+Albanien,2020-01-22,0
+Zypern,2020-01-22,0
+Brunei Darussalam,2020-01-22,0
+Vereinigte Staaten,2020-01-22,1
+Burkina Faso,2020-01-22,0
+Vatikanstaat,2020-01-22,0
+Mongolei,2020-01-22,0
+Panama,2020-01-22,0
+China,2020-01-22,548
+Iran,2020-01-22,0
+Südkorea,2020-01-22,1
+Frankreich,2020-01-22,0
+NA,2020-01-22,0
+Dänemark,2020-01-22,0
+Tschechische Republik,2020-01-22,0
+Taiwan,2020-01-22,1
+Vietnam,2020-01-22,0
+Russische Föderation,2020-01-22,0
+Republik Moldau,2020-01-22,0
+Bolivien,2020-01-22,0
+Honduras,2020-01-22,0
+Großbritannien,2020-01-22,0
+Demokratische Republik Kongo,2020-01-22,0
+Elfenbeinküste,2020-01-22,0
+Jamaika,2020-01-22,0
+Reunion,2020-01-22,0
+Türkei,2020-01-22,0
+Kuba,2020-01-22,0
+Guyana,2020-01-22,0
+Kasachstan,2020-01-22,0
+Cayman Inseln,2020-01-22,0
+Guadeloupe,2020-01-22,0
+Äthiopien,2020-01-22,0
+Sudan,2020-01-22,0
+Guinea,2020-01-22,0
+Aruba,2020-01-22,0
+Kenia,2020-01-22,0
+Antigua und Barbuda,2020-01-22,0
+Uruguay,2020-01-22,0
+Ghana,2020-01-22,0
+Jersey,2020-01-22,0
+Namibia,2020-01-22,0
+Seychellen,2020-01-22,0
+Trinidad und Tobago,2020-01-22,0
+Venezuela,2020-01-22,0
+Curacao,2020-01-22,0
+Swasiland,2020-01-22,0
+Gabun,2020-01-22,0
+Guatemala,2020-01-22,0
+Guernsey,2020-01-22,0
+Mauretanien,2020-01-22,0
+Ruanda,2020-01-22,0
+Saint Lucia,2020-01-22,0
+St. Vincent und die Grenadinen,2020-01-22,0
+Surinam,2020-01-22,0
+Palästina,2020-01-22,0
+Kosovo,2020-01-22,0
+Zentralafrikanische Republik,2020-01-22,0
+Kongo,2020-01-22,0
+Äquatorialguinea,2020-01-22,0
+Usbekistan,2020-01-22,0
+Thailand,2020-01-23,3
+Japan,2020-01-23,1
+Singapur,2020-01-23,1
+Nepal,2020-01-23,0
+Malaysia,2020-01-23,0
+Kanada,2020-01-23,0
+Australien,2020-01-23,0
+Kambodscha,2020-01-23,0
+Sri Lanka,2020-01-23,0
+Deutschland,2020-01-23,0
+Finnland,2020-01-23,0
+Vereinigte Arabische Emirate,2020-01-23,0
+Philippinen,2020-01-23,0
+Indien,2020-01-23,0
+Italien,2020-01-23,0
+Schweden,2020-01-23,0
+Spanien,2020-01-23,0
+Belgien,2020-01-23,0
+Ägypten,2020-01-23,0
+Libanon,2020-01-23,0
+Irak,2020-01-23,0
+Oman,2020-01-23,0
+Afghanistan,2020-01-23,0
+Bahrain,2020-01-23,0
+Kuwait,2020-01-23,0
+Algerien,2020-01-23,0
+Kroatien,2020-01-23,0
+Schweiz,2020-01-23,0
+Österreich,2020-01-23,0
+Israel,2020-01-23,0
+Pakistan,2020-01-23,0
+Brasilien,2020-01-23,0
+Georgien,2020-01-23,0
+Griechenland,2020-01-23,0
+Mazedonien,2020-01-23,0
+Norwegen,2020-01-23,0
+Rumänien,2020-01-23,0
+Estland,2020-01-23,0
+Niederlande,2020-01-23,0
+San Marino,2020-01-23,0
+Weißrussland,2020-01-23,0
+Island,2020-01-23,0
+Litauen,2020-01-23,0
+Mexiko,2020-01-23,0
+Neuseeland,2020-01-23,0
+Nigeria,2020-01-23,0
+Irland,2020-01-23,0
+Luxemburg,2020-01-23,0
+Monaco,2020-01-23,0
+Katar,2020-01-23,0
+Ecuador,2020-01-23,0
+Aserbaidschan,2020-01-23,0
+Armenien,2020-01-23,0
+Dominikanische Republik,2020-01-23,0
+Indonesien,2020-01-23,0
+Portugal,2020-01-23,0
+Andorra,2020-01-23,0
+Lettland,2020-01-23,0
+Marokko,2020-01-23,0
+Saudi Arabien,2020-01-23,0
+Senegal,2020-01-23,0
+Argentinien,2020-01-23,0
+Chile,2020-01-23,0
+Jordanien,2020-01-23,0
+Ukraine,2020-01-23,0
+Ungarn,2020-01-23,0
+Liechtenstein,2020-01-23,0
+Polen,2020-01-23,0
+Tunesien,2020-01-23,0
+Bosnien und Herzegowina,2020-01-23,0
+Slowenien,2020-01-23,0
+Südafrika,2020-01-23,0
+Bhutan,2020-01-23,0
+Kamerun,2020-01-23,0
+Kolumbien,2020-01-23,0
+Costa Rica,2020-01-23,0
+Peru,2020-01-23,0
+Serbien,2020-01-23,0
+Slowakei,2020-01-23,0
+Togo,2020-01-23,0
+Malta,2020-01-23,0
+Martinique,2020-01-23,0
+Bulgarien,2020-01-23,0
+Malediven,2020-01-23,0
+Bangladesch,2020-01-23,0
+Paraguay,2020-01-23,0
+Albanien,2020-01-23,0
+Zypern,2020-01-23,0
+Brunei Darussalam,2020-01-23,0
+Vereinigte Staaten,2020-01-23,1
+Burkina Faso,2020-01-23,0
+Vatikanstaat,2020-01-23,0
+Mongolei,2020-01-23,0
+Panama,2020-01-23,0
+China,2020-01-23,643
+Iran,2020-01-23,0
+Südkorea,2020-01-23,1
+Frankreich,2020-01-23,0
+NA,2020-01-23,0
+Dänemark,2020-01-23,0
+Tschechische Republik,2020-01-23,0
+Taiwan,2020-01-23,1
+Vietnam,2020-01-23,2
+Russische Föderation,2020-01-23,0
+Republik Moldau,2020-01-23,0
+Bolivien,2020-01-23,0
+Honduras,2020-01-23,0
+Großbritannien,2020-01-23,0
+Demokratische Republik Kongo,2020-01-23,0
+Elfenbeinküste,2020-01-23,0
+Jamaika,2020-01-23,0
+Reunion,2020-01-23,0
+Türkei,2020-01-23,0
+Kuba,2020-01-23,0
+Guyana,2020-01-23,0
+Kasachstan,2020-01-23,0
+Cayman Inseln,2020-01-23,0
+Guadeloupe,2020-01-23,0
+Äthiopien,2020-01-23,0
+Sudan,2020-01-23,0
+Guinea,2020-01-23,0
+Aruba,2020-01-23,0
+Kenia,2020-01-23,0
+Antigua und Barbuda,2020-01-23,0
+Uruguay,2020-01-23,0
+Ghana,2020-01-23,0
+Jersey,2020-01-23,0
+Namibia,2020-01-23,0
+Seychellen,2020-01-23,0
+Trinidad und Tobago,2020-01-23,0
+Venezuela,2020-01-23,0
+Curacao,2020-01-23,0
+Swasiland,2020-01-23,0
+Gabun,2020-01-23,0
+Guatemala,2020-01-23,0
+Guernsey,2020-01-23,0
+Mauretanien,2020-01-23,0
+Ruanda,2020-01-23,0
+Saint Lucia,2020-01-23,0
+St. Vincent und die Grenadinen,2020-01-23,0
+Surinam,2020-01-23,0
+Palästina,2020-01-23,0
+Kosovo,2020-01-23,0
+Zentralafrikanische Republik,2020-01-23,0
+Kongo,2020-01-23,0
+Äquatorialguinea,2020-01-23,0
+Usbekistan,2020-01-23,0
+Thailand,2020-01-24,5
+Japan,2020-01-24,2
+Singapur,2020-01-24,3
+Nepal,2020-01-24,0
+Malaysia,2020-01-24,0
+Kanada,2020-01-24,0
+Australien,2020-01-24,0
+Kambodscha,2020-01-24,0
+Sri Lanka,2020-01-24,0
+Deutschland,2020-01-24,0
+Finnland,2020-01-24,0
+Vereinigte Arabische Emirate,2020-01-24,0
+Philippinen,2020-01-24,0
+Indien,2020-01-24,0
+Italien,2020-01-24,0
+Schweden,2020-01-24,0
+Spanien,2020-01-24,0
+Belgien,2020-01-24,0
+Ägypten,2020-01-24,0
+Libanon,2020-01-24,0
+Irak,2020-01-24,0
+Oman,2020-01-24,0
+Afghanistan,2020-01-24,0
+Bahrain,2020-01-24,0
+Kuwait,2020-01-24,0
+Algerien,2020-01-24,0
+Kroatien,2020-01-24,0
+Schweiz,2020-01-24,0
+Österreich,2020-01-24,0
+Israel,2020-01-24,0
+Pakistan,2020-01-24,0
+Brasilien,2020-01-24,0
+Georgien,2020-01-24,0
+Griechenland,2020-01-24,0
+Mazedonien,2020-01-24,0
+Norwegen,2020-01-24,0
+Rumänien,2020-01-24,0
+Estland,2020-01-24,0
+Niederlande,2020-01-24,0
+San Marino,2020-01-24,0
+Weißrussland,2020-01-24,0
+Island,2020-01-24,0
+Litauen,2020-01-24,0
+Mexiko,2020-01-24,0
+Neuseeland,2020-01-24,0
+Nigeria,2020-01-24,0
+Irland,2020-01-24,0
+Luxemburg,2020-01-24,0
+Monaco,2020-01-24,0
+Katar,2020-01-24,0
+Ecuador,2020-01-24,0
+Aserbaidschan,2020-01-24,0
+Armenien,2020-01-24,0
+Dominikanische Republik,2020-01-24,0
+Indonesien,2020-01-24,0
+Portugal,2020-01-24,0
+Andorra,2020-01-24,0
+Lettland,2020-01-24,0
+Marokko,2020-01-24,0
+Saudi Arabien,2020-01-24,0
+Senegal,2020-01-24,0
+Argentinien,2020-01-24,0
+Chile,2020-01-24,0
+Jordanien,2020-01-24,0
+Ukraine,2020-01-24,0
+Ungarn,2020-01-24,0
+Liechtenstein,2020-01-24,0
+Polen,2020-01-24,0
+Tunesien,2020-01-24,0
+Bosnien und Herzegowina,2020-01-24,0
+Slowenien,2020-01-24,0
+Südafrika,2020-01-24,0
+Bhutan,2020-01-24,0
+Kamerun,2020-01-24,0
+Kolumbien,2020-01-24,0
+Costa Rica,2020-01-24,0
+Peru,2020-01-24,0
+Serbien,2020-01-24,0
+Slowakei,2020-01-24,0
+Togo,2020-01-24,0
+Malta,2020-01-24,0
+Martinique,2020-01-24,0
+Bulgarien,2020-01-24,0
+Malediven,2020-01-24,0
+Bangladesch,2020-01-24,0
+Paraguay,2020-01-24,0
+Albanien,2020-01-24,0
+Zypern,2020-01-24,0
+Brunei Darussalam,2020-01-24,0
+Vereinigte Staaten,2020-01-24,2
+Burkina Faso,2020-01-24,0
+Vatikanstaat,2020-01-24,0
+Mongolei,2020-01-24,0
+Panama,2020-01-24,0
+China,2020-01-24,920
+Iran,2020-01-24,0
+Südkorea,2020-01-24,2
+Frankreich,2020-01-24,2
+NA,2020-01-24,0
+Dänemark,2020-01-24,0
+Tschechische Republik,2020-01-24,0
+Taiwan,2020-01-24,3
+Vietnam,2020-01-24,2
+Russische Föderation,2020-01-24,0
+Republik Moldau,2020-01-24,0
+Bolivien,2020-01-24,0
+Honduras,2020-01-24,0
+Großbritannien,2020-01-24,0
+Demokratische Republik Kongo,2020-01-24,0
+Elfenbeinküste,2020-01-24,0
+Jamaika,2020-01-24,0
+Reunion,2020-01-24,0
+Türkei,2020-01-24,0
+Kuba,2020-01-24,0
+Guyana,2020-01-24,0
+Kasachstan,2020-01-24,0
+Cayman Inseln,2020-01-24,0
+Guadeloupe,2020-01-24,0
+Äthiopien,2020-01-24,0
+Sudan,2020-01-24,0
+Guinea,2020-01-24,0
+Aruba,2020-01-24,0
+Kenia,2020-01-24,0
+Antigua und Barbuda,2020-01-24,0
+Uruguay,2020-01-24,0
+Ghana,2020-01-24,0
+Jersey,2020-01-24,0
+Namibia,2020-01-24,0
+Seychellen,2020-01-24,0
+Trinidad und Tobago,2020-01-24,0
+Venezuela,2020-01-24,0
+Curacao,2020-01-24,0
+Swasiland,2020-01-24,0
+Gabun,2020-01-24,0
+Guatemala,2020-01-24,0
+Guernsey,2020-01-24,0
+Mauretanien,2020-01-24,0
+Ruanda,2020-01-24,0
+Saint Lucia,2020-01-24,0
+St. Vincent und die Grenadinen,2020-01-24,0
+Surinam,2020-01-24,0
+Palästina,2020-01-24,0
+Kosovo,2020-01-24,0
+Zentralafrikanische Republik,2020-01-24,0
+Kongo,2020-01-24,0
+Äquatorialguinea,2020-01-24,0
+Usbekistan,2020-01-24,0
+Thailand,2020-01-25,7
+Japan,2020-01-25,2
+Singapur,2020-01-25,3
+Nepal,2020-01-25,1
+Malaysia,2020-01-25,3
+Kanada,2020-01-25,0
+Australien,2020-01-25,0
+Kambodscha,2020-01-25,0
+Sri Lanka,2020-01-25,0
+Deutschland,2020-01-25,0
+Finnland,2020-01-25,0
+Vereinigte Arabische Emirate,2020-01-25,0
+Philippinen,2020-01-25,0
+Indien,2020-01-25,0
+Italien,2020-01-25,0
+Schweden,2020-01-25,0
+Spanien,2020-01-25,0
+Belgien,2020-01-25,0
+Ägypten,2020-01-25,0
+Libanon,2020-01-25,0
+Irak,2020-01-25,0
+Oman,2020-01-25,0
+Afghanistan,2020-01-25,0
+Bahrain,2020-01-25,0
+Kuwait,2020-01-25,0
+Algerien,2020-01-25,0
+Kroatien,2020-01-25,0
+Schweiz,2020-01-25,0
+Österreich,2020-01-25,0
+Israel,2020-01-25,0
+Pakistan,2020-01-25,0
+Brasilien,2020-01-25,0
+Georgien,2020-01-25,0
+Griechenland,2020-01-25,0
+Mazedonien,2020-01-25,0
+Norwegen,2020-01-25,0
+Rumänien,2020-01-25,0
+Estland,2020-01-25,0
+Niederlande,2020-01-25,0
+San Marino,2020-01-25,0
+Weißrussland,2020-01-25,0
+Island,2020-01-25,0
+Litauen,2020-01-25,0
+Mexiko,2020-01-25,0
+Neuseeland,2020-01-25,0
+Nigeria,2020-01-25,0
+Irland,2020-01-25,0
+Luxemburg,2020-01-25,0
+Monaco,2020-01-25,0
+Katar,2020-01-25,0
+Ecuador,2020-01-25,0
+Aserbaidschan,2020-01-25,0
+Armenien,2020-01-25,0
+Dominikanische Republik,2020-01-25,0
+Indonesien,2020-01-25,0
+Portugal,2020-01-25,0
+Andorra,2020-01-25,0
+Lettland,2020-01-25,0
+Marokko,2020-01-25,0
+Saudi Arabien,2020-01-25,0
+Senegal,2020-01-25,0
+Argentinien,2020-01-25,0
+Chile,2020-01-25,0
+Jordanien,2020-01-25,0
+Ukraine,2020-01-25,0
+Ungarn,2020-01-25,0
+Liechtenstein,2020-01-25,0
+Polen,2020-01-25,0
+Tunesien,2020-01-25,0
+Bosnien und Herzegowina,2020-01-25,0
+Slowenien,2020-01-25,0
+Südafrika,2020-01-25,0
+Bhutan,2020-01-25,0
+Kamerun,2020-01-25,0
+Kolumbien,2020-01-25,0
+Costa Rica,2020-01-25,0
+Peru,2020-01-25,0
+Serbien,2020-01-25,0
+Slowakei,2020-01-25,0
+Togo,2020-01-25,0
+Malta,2020-01-25,0
+Martinique,2020-01-25,0
+Bulgarien,2020-01-25,0
+Malediven,2020-01-25,0
+Bangladesch,2020-01-25,0
+Paraguay,2020-01-25,0
+Albanien,2020-01-25,0
+Zypern,2020-01-25,0
+Brunei Darussalam,2020-01-25,0
+Vereinigte Staaten,2020-01-25,2
+Burkina Faso,2020-01-25,0
+Vatikanstaat,2020-01-25,0
+Mongolei,2020-01-25,0
+Panama,2020-01-25,0
+China,2020-01-25,1406
+Iran,2020-01-25,0
+Südkorea,2020-01-25,2
+Frankreich,2020-01-25,3
+NA,2020-01-25,0
+Dänemark,2020-01-25,0
+Tschechische Republik,2020-01-25,0
+Taiwan,2020-01-25,3
+Vietnam,2020-01-25,2
+Russische Föderation,2020-01-25,0
+Republik Moldau,2020-01-25,0
+Bolivien,2020-01-25,0
+Honduras,2020-01-25,0
+Großbritannien,2020-01-25,0
+Demokratische Republik Kongo,2020-01-25,0
+Elfenbeinküste,2020-01-25,0
+Jamaika,2020-01-25,0
+Reunion,2020-01-25,0
+Türkei,2020-01-25,0
+Kuba,2020-01-25,0
+Guyana,2020-01-25,0
+Kasachstan,2020-01-25,0
+Cayman Inseln,2020-01-25,0
+Guadeloupe,2020-01-25,0
+Äthiopien,2020-01-25,0
+Sudan,2020-01-25,0
+Guinea,2020-01-25,0
+Aruba,2020-01-25,0
+Kenia,2020-01-25,0
+Antigua und Barbuda,2020-01-25,0
+Uruguay,2020-01-25,0
+Ghana,2020-01-25,0
+Jersey,2020-01-25,0
+Namibia,2020-01-25,0
+Seychellen,2020-01-25,0
+Trinidad und Tobago,2020-01-25,0
+Venezuela,2020-01-25,0
+Curacao,2020-01-25,0
+Swasiland,2020-01-25,0
+Gabun,2020-01-25,0
+Guatemala,2020-01-25,0
+Guernsey,2020-01-25,0
+Mauretanien,2020-01-25,0
+Ruanda,2020-01-25,0
+Saint Lucia,2020-01-25,0
+St. Vincent und die Grenadinen,2020-01-25,0
+Surinam,2020-01-25,0
+Palästina,2020-01-25,0
+Kosovo,2020-01-25,0
+Zentralafrikanische Republik,2020-01-25,0
+Kongo,2020-01-25,0
+Äquatorialguinea,2020-01-25,0
+Usbekistan,2020-01-25,0
+Thailand,2020-01-26,8
+Japan,2020-01-26,4
+Singapur,2020-01-26,4
+Nepal,2020-01-26,1
+Malaysia,2020-01-26,4
+Kanada,2020-01-26,1
+Australien,2020-01-26,4
+Kambodscha,2020-01-26,0
+Sri Lanka,2020-01-26,0
+Deutschland,2020-01-26,0
+Finnland,2020-01-26,0
+Vereinigte Arabische Emirate,2020-01-26,0
+Philippinen,2020-01-26,0
+Indien,2020-01-26,0
+Italien,2020-01-26,0
+Schweden,2020-01-26,0
+Spanien,2020-01-26,0
+Belgien,2020-01-26,0
+Ägypten,2020-01-26,0
+Libanon,2020-01-26,0
+Irak,2020-01-26,0
+Oman,2020-01-26,0
+Afghanistan,2020-01-26,0
+Bahrain,2020-01-26,0
+Kuwait,2020-01-26,0
+Algerien,2020-01-26,0
+Kroatien,2020-01-26,0
+Schweiz,2020-01-26,0
+Österreich,2020-01-26,0
+Israel,2020-01-26,0
+Pakistan,2020-01-26,0
+Brasilien,2020-01-26,0
+Georgien,2020-01-26,0
+Griechenland,2020-01-26,0
+Mazedonien,2020-01-26,0
+Norwegen,2020-01-26,0
+Rumänien,2020-01-26,0
+Estland,2020-01-26,0
+Niederlande,2020-01-26,0
+San Marino,2020-01-26,0
+Weißrussland,2020-01-26,0
+Island,2020-01-26,0
+Litauen,2020-01-26,0
+Mexiko,2020-01-26,0
+Neuseeland,2020-01-26,0
+Nigeria,2020-01-26,0
+Irland,2020-01-26,0
+Luxemburg,2020-01-26,0
+Monaco,2020-01-26,0
+Katar,2020-01-26,0
+Ecuador,2020-01-26,0
+Aserbaidschan,2020-01-26,0
+Armenien,2020-01-26,0
+Dominikanische Republik,2020-01-26,0
+Indonesien,2020-01-26,0
+Portugal,2020-01-26,0
+Andorra,2020-01-26,0
+Lettland,2020-01-26,0
+Marokko,2020-01-26,0
+Saudi Arabien,2020-01-26,0
+Senegal,2020-01-26,0
+Argentinien,2020-01-26,0
+Chile,2020-01-26,0
+Jordanien,2020-01-26,0
+Ukraine,2020-01-26,0
+Ungarn,2020-01-26,0
+Liechtenstein,2020-01-26,0
+Polen,2020-01-26,0
+Tunesien,2020-01-26,0
+Bosnien und Herzegowina,2020-01-26,0
+Slowenien,2020-01-26,0
+Südafrika,2020-01-26,0
+Bhutan,2020-01-26,0
+Kamerun,2020-01-26,0
+Kolumbien,2020-01-26,0
+Costa Rica,2020-01-26,0
+Peru,2020-01-26,0
+Serbien,2020-01-26,0
+Slowakei,2020-01-26,0
+Togo,2020-01-26,0
+Malta,2020-01-26,0
+Martinique,2020-01-26,0
+Bulgarien,2020-01-26,0
+Malediven,2020-01-26,0
+Bangladesch,2020-01-26,0
+Paraguay,2020-01-26,0
+Albanien,2020-01-26,0
+Zypern,2020-01-26,0
+Brunei Darussalam,2020-01-26,0
+Vereinigte Staaten,2020-01-26,5
+Burkina Faso,2020-01-26,0
+Vatikanstaat,2020-01-26,0
+Mongolei,2020-01-26,0
+Panama,2020-01-26,0
+China,2020-01-26,2075
+Iran,2020-01-26,0
+Südkorea,2020-01-26,3
+Frankreich,2020-01-26,3
+NA,2020-01-26,0
+Dänemark,2020-01-26,0
+Tschechische Republik,2020-01-26,0
+Taiwan,2020-01-26,4
+Vietnam,2020-01-26,2
+Russische Föderation,2020-01-26,0
+Republik Moldau,2020-01-26,0
+Bolivien,2020-01-26,0
+Honduras,2020-01-26,0
+Großbritannien,2020-01-26,0
+Demokratische Republik Kongo,2020-01-26,0
+Elfenbeinküste,2020-01-26,0
+Jamaika,2020-01-26,0
+Reunion,2020-01-26,0
+Türkei,2020-01-26,0
+Kuba,2020-01-26,0
+Guyana,2020-01-26,0
+Kasachstan,2020-01-26,0
+Cayman Inseln,2020-01-26,0
+Guadeloupe,2020-01-26,0
+Äthiopien,2020-01-26,0
+Sudan,2020-01-26,0
+Guinea,2020-01-26,0
+Aruba,2020-01-26,0
+Kenia,2020-01-26,0
+Antigua und Barbuda,2020-01-26,0
+Uruguay,2020-01-26,0
+Ghana,2020-01-26,0
+Jersey,2020-01-26,0
+Namibia,2020-01-26,0
+Seychellen,2020-01-26,0
+Trinidad und Tobago,2020-01-26,0
+Venezuela,2020-01-26,0
+Curacao,2020-01-26,0
+Swasiland,2020-01-26,0
+Gabun,2020-01-26,0
+Guatemala,2020-01-26,0
+Guernsey,2020-01-26,0
+Mauretanien,2020-01-26,0
+Ruanda,2020-01-26,0
+Saint Lucia,2020-01-26,0
+St. Vincent und die Grenadinen,2020-01-26,0
+Surinam,2020-01-26,0
+Palästina,2020-01-26,0
+Kosovo,2020-01-26,0
+Zentralafrikanische Republik,2020-01-26,0
+Kongo,2020-01-26,0
+Äquatorialguinea,2020-01-26,0
+Usbekistan,2020-01-26,0
+Thailand,2020-01-27,8
+Japan,2020-01-27,4
+Singapur,2020-01-27,5
+Nepal,2020-01-27,1
+Malaysia,2020-01-27,4
+Kanada,2020-01-27,1
+Australien,2020-01-27,5
+Kambodscha,2020-01-27,1
+Sri Lanka,2020-01-27,1
+Deutschland,2020-01-27,1
+Finnland,2020-01-27,0
+Vereinigte Arabische Emirate,2020-01-27,0
+Philippinen,2020-01-27,0
+Indien,2020-01-27,0
+Italien,2020-01-27,0
+Schweden,2020-01-27,0
+Spanien,2020-01-27,0
+Belgien,2020-01-27,0
+Ägypten,2020-01-27,0
+Libanon,2020-01-27,0
+Irak,2020-01-27,0
+Oman,2020-01-27,0
+Afghanistan,2020-01-27,0
+Bahrain,2020-01-27,0
+Kuwait,2020-01-27,0
+Algerien,2020-01-27,0
+Kroatien,2020-01-27,0
+Schweiz,2020-01-27,0
+Österreich,2020-01-27,0
+Israel,2020-01-27,0
+Pakistan,2020-01-27,0
+Brasilien,2020-01-27,0
+Georgien,2020-01-27,0
+Griechenland,2020-01-27,0
+Mazedonien,2020-01-27,0
+Norwegen,2020-01-27,0
+Rumänien,2020-01-27,0
+Estland,2020-01-27,0
+Niederlande,2020-01-27,0
+San Marino,2020-01-27,0
+Weißrussland,2020-01-27,0
+Island,2020-01-27,0
+Litauen,2020-01-27,0
+Mexiko,2020-01-27,0
+Neuseeland,2020-01-27,0
+Nigeria,2020-01-27,0
+Irland,2020-01-27,0
+Luxemburg,2020-01-27,0
+Monaco,2020-01-27,0
+Katar,2020-01-27,0
+Ecuador,2020-01-27,0
+Aserbaidschan,2020-01-27,0
+Armenien,2020-01-27,0
+Dominikanische Republik,2020-01-27,0
+Indonesien,2020-01-27,0
+Portugal,2020-01-27,0
+Andorra,2020-01-27,0
+Lettland,2020-01-27,0
+Marokko,2020-01-27,0
+Saudi Arabien,2020-01-27,0
+Senegal,2020-01-27,0
+Argentinien,2020-01-27,0
+Chile,2020-01-27,0
+Jordanien,2020-01-27,0
+Ukraine,2020-01-27,0
+Ungarn,2020-01-27,0
+Liechtenstein,2020-01-27,0
+Polen,2020-01-27,0
+Tunesien,2020-01-27,0
+Bosnien und Herzegowina,2020-01-27,0
+Slowenien,2020-01-27,0
+Südafrika,2020-01-27,0
+Bhutan,2020-01-27,0
+Kamerun,2020-01-27,0
+Kolumbien,2020-01-27,0
+Costa Rica,2020-01-27,0
+Peru,2020-01-27,0
+Serbien,2020-01-27,0
+Slowakei,2020-01-27,0
+Togo,2020-01-27,0
+Malta,2020-01-27,0
+Martinique,2020-01-27,0
+Bulgarien,2020-01-27,0
+Malediven,2020-01-27,0
+Bangladesch,2020-01-27,0
+Paraguay,2020-01-27,0
+Albanien,2020-01-27,0
+Zypern,2020-01-27,0
+Brunei Darussalam,2020-01-27,0
+Vereinigte Staaten,2020-01-27,5
+Burkina Faso,2020-01-27,0
+Vatikanstaat,2020-01-27,0
+Mongolei,2020-01-27,0
+Panama,2020-01-27,0
+China,2020-01-27,2877
+Iran,2020-01-27,0
+Südkorea,2020-01-27,4
+Frankreich,2020-01-27,3
+NA,2020-01-27,0
+Dänemark,2020-01-27,0
+Tschechische Republik,2020-01-27,0
+Taiwan,2020-01-27,5
+Vietnam,2020-01-27,2
+Russische Föderation,2020-01-27,0
+Republik Moldau,2020-01-27,0
+Bolivien,2020-01-27,0
+Honduras,2020-01-27,0
+Großbritannien,2020-01-27,0
+Demokratische Republik Kongo,2020-01-27,0
+Elfenbeinküste,2020-01-27,0
+Jamaika,2020-01-27,0
+Reunion,2020-01-27,0
+Türkei,2020-01-27,0
+Kuba,2020-01-27,0
+Guyana,2020-01-27,0
+Kasachstan,2020-01-27,0
+Cayman Inseln,2020-01-27,0
+Guadeloupe,2020-01-27,0
+Äthiopien,2020-01-27,0
+Sudan,2020-01-27,0
+Guinea,2020-01-27,0
+Aruba,2020-01-27,0
+Kenia,2020-01-27,0
+Antigua und Barbuda,2020-01-27,0
+Uruguay,2020-01-27,0
+Ghana,2020-01-27,0
+Jersey,2020-01-27,0
+Namibia,2020-01-27,0
+Seychellen,2020-01-27,0
+Trinidad und Tobago,2020-01-27,0
+Venezuela,2020-01-27,0
+Curacao,2020-01-27,0
+Swasiland,2020-01-27,0
+Gabun,2020-01-27,0
+Guatemala,2020-01-27,0
+Guernsey,2020-01-27,0
+Mauretanien,2020-01-27,0
+Ruanda,2020-01-27,0
+Saint Lucia,2020-01-27,0
+St. Vincent und die Grenadinen,2020-01-27,0
+Surinam,2020-01-27,0
+Palästina,2020-01-27,0
+Kosovo,2020-01-27,0
+Zentralafrikanische Republik,2020-01-27,0
+Kongo,2020-01-27,0
+Äquatorialguinea,2020-01-27,0
+Usbekistan,2020-01-27,0
+Thailand,2020-01-28,14
+Japan,2020-01-28,7
+Singapur,2020-01-28,7
+Nepal,2020-01-28,1
+Malaysia,2020-01-28,4
+Kanada,2020-01-28,2
+Australien,2020-01-28,5
+Kambodscha,2020-01-28,1
+Sri Lanka,2020-01-28,1
+Deutschland,2020-01-28,4
+Finnland,2020-01-28,0
+Vereinigte Arabische Emirate,2020-01-28,0
+Philippinen,2020-01-28,0
+Indien,2020-01-28,0
+Italien,2020-01-28,0
+Schweden,2020-01-28,0
+Spanien,2020-01-28,0
+Belgien,2020-01-28,0
+Ägypten,2020-01-28,0
+Libanon,2020-01-28,0
+Irak,2020-01-28,0
+Oman,2020-01-28,0
+Afghanistan,2020-01-28,0
+Bahrain,2020-01-28,0
+Kuwait,2020-01-28,0
+Algerien,2020-01-28,0
+Kroatien,2020-01-28,0
+Schweiz,2020-01-28,0
+Österreich,2020-01-28,0
+Israel,2020-01-28,0
+Pakistan,2020-01-28,0
+Brasilien,2020-01-28,0
+Georgien,2020-01-28,0
+Griechenland,2020-01-28,0
+Mazedonien,2020-01-28,0
+Norwegen,2020-01-28,0
+Rumänien,2020-01-28,0
+Estland,2020-01-28,0
+Niederlande,2020-01-28,0
+San Marino,2020-01-28,0
+Weißrussland,2020-01-28,0
+Island,2020-01-28,0
+Litauen,2020-01-28,0
+Mexiko,2020-01-28,0
+Neuseeland,2020-01-28,0
+Nigeria,2020-01-28,0
+Irland,2020-01-28,0
+Luxemburg,2020-01-28,0
+Monaco,2020-01-28,0
+Katar,2020-01-28,0
+Ecuador,2020-01-28,0
+Aserbaidschan,2020-01-28,0
+Armenien,2020-01-28,0
+Dominikanische Republik,2020-01-28,0
+Indonesien,2020-01-28,0
+Portugal,2020-01-28,0
+Andorra,2020-01-28,0
+Lettland,2020-01-28,0
+Marokko,2020-01-28,0
+Saudi Arabien,2020-01-28,0
+Senegal,2020-01-28,0
+Argentinien,2020-01-28,0
+Chile,2020-01-28,0
+Jordanien,2020-01-28,0
+Ukraine,2020-01-28,0
+Ungarn,2020-01-28,0
+Liechtenstein,2020-01-28,0
+Polen,2020-01-28,0
+Tunesien,2020-01-28,0
+Bosnien und Herzegowina,2020-01-28,0
+Slowenien,2020-01-28,0
+Südafrika,2020-01-28,0
+Bhutan,2020-01-28,0
+Kamerun,2020-01-28,0
+Kolumbien,2020-01-28,0
+Costa Rica,2020-01-28,0
+Peru,2020-01-28,0
+Serbien,2020-01-28,0
+Slowakei,2020-01-28,0
+Togo,2020-01-28,0
+Malta,2020-01-28,0
+Martinique,2020-01-28,0
+Bulgarien,2020-01-28,0
+Malediven,2020-01-28,0
+Bangladesch,2020-01-28,0
+Paraguay,2020-01-28,0
+Albanien,2020-01-28,0
+Zypern,2020-01-28,0
+Brunei Darussalam,2020-01-28,0
+Vereinigte Staaten,2020-01-28,5
+Burkina Faso,2020-01-28,0
+Vatikanstaat,2020-01-28,0
+Mongolei,2020-01-28,0
+Panama,2020-01-28,0
+China,2020-01-28,5509
+Iran,2020-01-28,0
+Südkorea,2020-01-28,4
+Frankreich,2020-01-28,4
+NA,2020-01-28,0
+Dänemark,2020-01-28,0
+Tschechische Republik,2020-01-28,0
+Taiwan,2020-01-28,8
+Vietnam,2020-01-28,2
+Russische Föderation,2020-01-28,0
+Republik Moldau,2020-01-28,0
+Bolivien,2020-01-28,0
+Honduras,2020-01-28,0
+Großbritannien,2020-01-28,0
+Demokratische Republik Kongo,2020-01-28,0
+Elfenbeinküste,2020-01-28,0
+Jamaika,2020-01-28,0
+Reunion,2020-01-28,0
+Türkei,2020-01-28,0
+Kuba,2020-01-28,0
+Guyana,2020-01-28,0
+Kasachstan,2020-01-28,0
+Cayman Inseln,2020-01-28,0
+Guadeloupe,2020-01-28,0
+Äthiopien,2020-01-28,0
+Sudan,2020-01-28,0
+Guinea,2020-01-28,0
+Aruba,2020-01-28,0
+Kenia,2020-01-28,0
+Antigua und Barbuda,2020-01-28,0
+Uruguay,2020-01-28,0
+Ghana,2020-01-28,0
+Jersey,2020-01-28,0
+Namibia,2020-01-28,0
+Seychellen,2020-01-28,0
+Trinidad und Tobago,2020-01-28,0
+Venezuela,2020-01-28,0
+Curacao,2020-01-28,0
+Swasiland,2020-01-28,0
+Gabun,2020-01-28,0
+Guatemala,2020-01-28,0
+Guernsey,2020-01-28,0
+Mauretanien,2020-01-28,0
+Ruanda,2020-01-28,0
+Saint Lucia,2020-01-28,0
+St. Vincent und die Grenadinen,2020-01-28,0
+Surinam,2020-01-28,0
+Palästina,2020-01-28,0
+Kosovo,2020-01-28,0
+Zentralafrikanische Republik,2020-01-28,0
+Kongo,2020-01-28,0
+Äquatorialguinea,2020-01-28,0
+Usbekistan,2020-01-28,0
+Thailand,2020-01-29,14
+Japan,2020-01-29,7
+Singapur,2020-01-29,7
+Nepal,2020-01-29,1
+Malaysia,2020-01-29,7
+Kanada,2020-01-29,2
+Australien,2020-01-29,6
+Kambodscha,2020-01-29,1
+Sri Lanka,2020-01-29,1
+Deutschland,2020-01-29,4
+Finnland,2020-01-29,1
+Vereinigte Arabische Emirate,2020-01-29,4
+Philippinen,2020-01-29,0
+Indien,2020-01-29,0
+Italien,2020-01-29,0
+Schweden,2020-01-29,0
+Spanien,2020-01-29,0
+Belgien,2020-01-29,0
+Ägypten,2020-01-29,0
+Libanon,2020-01-29,0
+Irak,2020-01-29,0
+Oman,2020-01-29,0
+Afghanistan,2020-01-29,0
+Bahrain,2020-01-29,0
+Kuwait,2020-01-29,0
+Algerien,2020-01-29,0
+Kroatien,2020-01-29,0
+Schweiz,2020-01-29,0
+Österreich,2020-01-29,0
+Israel,2020-01-29,0
+Pakistan,2020-01-29,0
+Brasilien,2020-01-29,0
+Georgien,2020-01-29,0
+Griechenland,2020-01-29,0
+Mazedonien,2020-01-29,0
+Norwegen,2020-01-29,0
+Rumänien,2020-01-29,0
+Estland,2020-01-29,0
+Niederlande,2020-01-29,0
+San Marino,2020-01-29,0
+Weißrussland,2020-01-29,0
+Island,2020-01-29,0
+Litauen,2020-01-29,0
+Mexiko,2020-01-29,0
+Neuseeland,2020-01-29,0
+Nigeria,2020-01-29,0
+Irland,2020-01-29,0
+Luxemburg,2020-01-29,0
+Monaco,2020-01-29,0
+Katar,2020-01-29,0
+Ecuador,2020-01-29,0
+Aserbaidschan,2020-01-29,0
+Armenien,2020-01-29,0
+Dominikanische Republik,2020-01-29,0
+Indonesien,2020-01-29,0
+Portugal,2020-01-29,0
+Andorra,2020-01-29,0
+Lettland,2020-01-29,0
+Marokko,2020-01-29,0
+Saudi Arabien,2020-01-29,0
+Senegal,2020-01-29,0
+Argentinien,2020-01-29,0
+Chile,2020-01-29,0
+Jordanien,2020-01-29,0
+Ukraine,2020-01-29,0
+Ungarn,2020-01-29,0
+Liechtenstein,2020-01-29,0
+Polen,2020-01-29,0
+Tunesien,2020-01-29,0
+Bosnien und Herzegowina,2020-01-29,0
+Slowenien,2020-01-29,0
+Südafrika,2020-01-29,0
+Bhutan,2020-01-29,0
+Kamerun,2020-01-29,0
+Kolumbien,2020-01-29,0
+Costa Rica,2020-01-29,0
+Peru,2020-01-29,0
+Serbien,2020-01-29,0
+Slowakei,2020-01-29,0
+Togo,2020-01-29,0
+Malta,2020-01-29,0
+Martinique,2020-01-29,0
+Bulgarien,2020-01-29,0
+Malediven,2020-01-29,0
+Bangladesch,2020-01-29,0
+Paraguay,2020-01-29,0
+Albanien,2020-01-29,0
+Zypern,2020-01-29,0
+Brunei Darussalam,2020-01-29,0
+Vereinigte Staaten,2020-01-29,5
+Burkina Faso,2020-01-29,0
+Vatikanstaat,2020-01-29,0
+Mongolei,2020-01-29,0
+Panama,2020-01-29,0
+China,2020-01-29,6087
+Iran,2020-01-29,0
+Südkorea,2020-01-29,4
+Frankreich,2020-01-29,5
+NA,2020-01-29,0
+Dänemark,2020-01-29,0
+Tschechische Republik,2020-01-29,0
+Taiwan,2020-01-29,8
+Vietnam,2020-01-29,2
+Russische Föderation,2020-01-29,0
+Republik Moldau,2020-01-29,0
+Bolivien,2020-01-29,0
+Honduras,2020-01-29,0
+Großbritannien,2020-01-29,0
+Demokratische Republik Kongo,2020-01-29,0
+Elfenbeinküste,2020-01-29,0
+Jamaika,2020-01-29,0
+Reunion,2020-01-29,0
+Türkei,2020-01-29,0
+Kuba,2020-01-29,0
+Guyana,2020-01-29,0
+Kasachstan,2020-01-29,0
+Cayman Inseln,2020-01-29,0
+Guadeloupe,2020-01-29,0
+Äthiopien,2020-01-29,0
+Sudan,2020-01-29,0
+Guinea,2020-01-29,0
+Aruba,2020-01-29,0
+Kenia,2020-01-29,0
+Antigua und Barbuda,2020-01-29,0
+Uruguay,2020-01-29,0
+Ghana,2020-01-29,0
+Jersey,2020-01-29,0
+Namibia,2020-01-29,0
+Seychellen,2020-01-29,0
+Trinidad und Tobago,2020-01-29,0
+Venezuela,2020-01-29,0
+Curacao,2020-01-29,0
+Swasiland,2020-01-29,0
+Gabun,2020-01-29,0
+Guatemala,2020-01-29,0
+Guernsey,2020-01-29,0
+Mauretanien,2020-01-29,0
+Ruanda,2020-01-29,0
+Saint Lucia,2020-01-29,0
+St. Vincent und die Grenadinen,2020-01-29,0
+Surinam,2020-01-29,0
+Palästina,2020-01-29,0
+Kosovo,2020-01-29,0
+Zentralafrikanische Republik,2020-01-29,0
+Kongo,2020-01-29,0
+Äquatorialguinea,2020-01-29,0
+Usbekistan,2020-01-29,0
+Thailand,2020-01-30,14
+Japan,2020-01-30,11
+Singapur,2020-01-30,10
+Nepal,2020-01-30,1
+Malaysia,2020-01-30,8
+Kanada,2020-01-30,2
+Australien,2020-01-30,9
+Kambodscha,2020-01-30,1
+Sri Lanka,2020-01-30,1
+Deutschland,2020-01-30,4
+Finnland,2020-01-30,1
+Vereinigte Arabische Emirate,2020-01-30,4
+Philippinen,2020-01-30,1
+Indien,2020-01-30,1
+Italien,2020-01-30,0
+Schweden,2020-01-30,0
+Spanien,2020-01-30,0
+Belgien,2020-01-30,0
+Ägypten,2020-01-30,0
+Libanon,2020-01-30,0
+Irak,2020-01-30,0
+Oman,2020-01-30,0
+Afghanistan,2020-01-30,0
+Bahrain,2020-01-30,0
+Kuwait,2020-01-30,0
+Algerien,2020-01-30,0
+Kroatien,2020-01-30,0
+Schweiz,2020-01-30,0
+Österreich,2020-01-30,0
+Israel,2020-01-30,0
+Pakistan,2020-01-30,0
+Brasilien,2020-01-30,0
+Georgien,2020-01-30,0
+Griechenland,2020-01-30,0
+Mazedonien,2020-01-30,0
+Norwegen,2020-01-30,0
+Rumänien,2020-01-30,0
+Estland,2020-01-30,0
+Niederlande,2020-01-30,0
+San Marino,2020-01-30,0
+Weißrussland,2020-01-30,0
+Island,2020-01-30,0
+Litauen,2020-01-30,0
+Mexiko,2020-01-30,0
+Neuseeland,2020-01-30,0
+Nigeria,2020-01-30,0
+Irland,2020-01-30,0
+Luxemburg,2020-01-30,0
+Monaco,2020-01-30,0
+Katar,2020-01-30,0
+Ecuador,2020-01-30,0
+Aserbaidschan,2020-01-30,0
+Armenien,2020-01-30,0
+Dominikanische Republik,2020-01-30,0
+Indonesien,2020-01-30,0
+Portugal,2020-01-30,0
+Andorra,2020-01-30,0
+Lettland,2020-01-30,0
+Marokko,2020-01-30,0
+Saudi Arabien,2020-01-30,0
+Senegal,2020-01-30,0
+Argentinien,2020-01-30,0
+Chile,2020-01-30,0
+Jordanien,2020-01-30,0
+Ukraine,2020-01-30,0
+Ungarn,2020-01-30,0
+Liechtenstein,2020-01-30,0
+Polen,2020-01-30,0
+Tunesien,2020-01-30,0
+Bosnien und Herzegowina,2020-01-30,0
+Slowenien,2020-01-30,0
+Südafrika,2020-01-30,0
+Bhutan,2020-01-30,0
+Kamerun,2020-01-30,0
+Kolumbien,2020-01-30,0
+Costa Rica,2020-01-30,0
+Peru,2020-01-30,0
+Serbien,2020-01-30,0
+Slowakei,2020-01-30,0
+Togo,2020-01-30,0
+Malta,2020-01-30,0
+Martinique,2020-01-30,0
+Bulgarien,2020-01-30,0
+Malediven,2020-01-30,0
+Bangladesch,2020-01-30,0
+Paraguay,2020-01-30,0
+Albanien,2020-01-30,0
+Zypern,2020-01-30,0
+Brunei Darussalam,2020-01-30,0
+Vereinigte Staaten,2020-01-30,5
+Burkina Faso,2020-01-30,0
+Vatikanstaat,2020-01-30,0
+Mongolei,2020-01-30,0
+Panama,2020-01-30,0
+China,2020-01-30,8141
+Iran,2020-01-30,0
+Südkorea,2020-01-30,4
+Frankreich,2020-01-30,5
+NA,2020-01-30,0
+Dänemark,2020-01-30,0
+Tschechische Republik,2020-01-30,0
+Taiwan,2020-01-30,9
+Vietnam,2020-01-30,2
+Russische Föderation,2020-01-30,0
+Republik Moldau,2020-01-30,0
+Bolivien,2020-01-30,0
+Honduras,2020-01-30,0
+Großbritannien,2020-01-30,0
+Demokratische Republik Kongo,2020-01-30,0
+Elfenbeinküste,2020-01-30,0
+Jamaika,2020-01-30,0
+Reunion,2020-01-30,0
+Türkei,2020-01-30,0
+Kuba,2020-01-30,0
+Guyana,2020-01-30,0
+Kasachstan,2020-01-30,0
+Cayman Inseln,2020-01-30,0
+Guadeloupe,2020-01-30,0
+Äthiopien,2020-01-30,0
+Sudan,2020-01-30,0
+Guinea,2020-01-30,0
+Aruba,2020-01-30,0
+Kenia,2020-01-30,0
+Antigua und Barbuda,2020-01-30,0
+Uruguay,2020-01-30,0
+Ghana,2020-01-30,0
+Jersey,2020-01-30,0
+Namibia,2020-01-30,0
+Seychellen,2020-01-30,0
+Trinidad und Tobago,2020-01-30,0
+Venezuela,2020-01-30,0
+Curacao,2020-01-30,0
+Swasiland,2020-01-30,0
+Gabun,2020-01-30,0
+Guatemala,2020-01-30,0
+Guernsey,2020-01-30,0
+Mauretanien,2020-01-30,0
+Ruanda,2020-01-30,0
+Saint Lucia,2020-01-30,0
+St. Vincent und die Grenadinen,2020-01-30,0
+Surinam,2020-01-30,0
+Palästina,2020-01-30,0
+Kosovo,2020-01-30,0
+Zentralafrikanische Republik,2020-01-30,0
+Kongo,2020-01-30,0
+Äquatorialguinea,2020-01-30,0
+Usbekistan,2020-01-30,0
+Thailand,2020-01-31,19
+Japan,2020-01-31,15
+Singapur,2020-01-31,13
+Nepal,2020-01-31,1
+Malaysia,2020-01-31,8
+Kanada,2020-01-31,4
+Australien,2020-01-31,9
+Kambodscha,2020-01-31,1
+Sri Lanka,2020-01-31,1
+Deutschland,2020-01-31,5
+Finnland,2020-01-31,1
+Vereinigte Arabische Emirate,2020-01-31,4
+Philippinen,2020-01-31,1
+Indien,2020-01-31,1
+Italien,2020-01-31,2
+Schweden,2020-01-31,1
+Spanien,2020-01-31,0
+Belgien,2020-01-31,0
+Ägypten,2020-01-31,0
+Libanon,2020-01-31,0
+Irak,2020-01-31,0
+Oman,2020-01-31,0
+Afghanistan,2020-01-31,0
+Bahrain,2020-01-31,0
+Kuwait,2020-01-31,0
+Algerien,2020-01-31,0
+Kroatien,2020-01-31,0
+Schweiz,2020-01-31,0
+Österreich,2020-01-31,0
+Israel,2020-01-31,0
+Pakistan,2020-01-31,0
+Brasilien,2020-01-31,0
+Georgien,2020-01-31,0
+Griechenland,2020-01-31,0
+Mazedonien,2020-01-31,0
+Norwegen,2020-01-31,0
+Rumänien,2020-01-31,0
+Estland,2020-01-31,0
+Niederlande,2020-01-31,0
+San Marino,2020-01-31,0
+Weißrussland,2020-01-31,0
+Island,2020-01-31,0
+Litauen,2020-01-31,0
+Mexiko,2020-01-31,0
+Neuseeland,2020-01-31,0
+Nigeria,2020-01-31,0
+Irland,2020-01-31,0
+Luxemburg,2020-01-31,0
+Monaco,2020-01-31,0
+Katar,2020-01-31,0
+Ecuador,2020-01-31,0
+Aserbaidschan,2020-01-31,0
+Armenien,2020-01-31,0
+Dominikanische Republik,2020-01-31,0
+Indonesien,2020-01-31,0
+Portugal,2020-01-31,0
+Andorra,2020-01-31,0
+Lettland,2020-01-31,0
+Marokko,2020-01-31,0
+Saudi Arabien,2020-01-31,0
+Senegal,2020-01-31,0
+Argentinien,2020-01-31,0
+Chile,2020-01-31,0
+Jordanien,2020-01-31,0
+Ukraine,2020-01-31,0
+Ungarn,2020-01-31,0
+Liechtenstein,2020-01-31,0
+Polen,2020-01-31,0
+Tunesien,2020-01-31,0
+Bosnien und Herzegowina,2020-01-31,0
+Slowenien,2020-01-31,0
+Südafrika,2020-01-31,0
+Bhutan,2020-01-31,0
+Kamerun,2020-01-31,0
+Kolumbien,2020-01-31,0
+Costa Rica,2020-01-31,0
+Peru,2020-01-31,0
+Serbien,2020-01-31,0
+Slowakei,2020-01-31,0
+Togo,2020-01-31,0
+Malta,2020-01-31,0
+Martinique,2020-01-31,0
+Bulgarien,2020-01-31,0
+Malediven,2020-01-31,0
+Bangladesch,2020-01-31,0
+Paraguay,2020-01-31,0
+Albanien,2020-01-31,0
+Zypern,2020-01-31,0
+Brunei Darussalam,2020-01-31,0
+Vereinigte Staaten,2020-01-31,7
+Burkina Faso,2020-01-31,0
+Vatikanstaat,2020-01-31,0
+Mongolei,2020-01-31,0
+Panama,2020-01-31,0
+China,2020-01-31,9802
+Iran,2020-01-31,0
+Südkorea,2020-01-31,11
+Frankreich,2020-01-31,5
+NA,2020-01-31,0
+Dänemark,2020-01-31,0
+Tschechische Republik,2020-01-31,0
+Taiwan,2020-01-31,10
+Vietnam,2020-01-31,2
+Russische Föderation,2020-01-31,2
+Republik Moldau,2020-01-31,0
+Bolivien,2020-01-31,0
+Honduras,2020-01-31,0
+Großbritannien,2020-01-31,2
+Demokratische Republik Kongo,2020-01-31,0
+Elfenbeinküste,2020-01-31,0
+Jamaika,2020-01-31,0
+Reunion,2020-01-31,0
+Türkei,2020-01-31,0
+Kuba,2020-01-31,0
+Guyana,2020-01-31,0
+Kasachstan,2020-01-31,0
+Cayman Inseln,2020-01-31,0
+Guadeloupe,2020-01-31,0
+Äthiopien,2020-01-31,0
+Sudan,2020-01-31,0
+Guinea,2020-01-31,0
+Aruba,2020-01-31,0
+Kenia,2020-01-31,0
+Antigua und Barbuda,2020-01-31,0
+Uruguay,2020-01-31,0
+Ghana,2020-01-31,0
+Jersey,2020-01-31,0
+Namibia,2020-01-31,0
+Seychellen,2020-01-31,0
+Trinidad und Tobago,2020-01-31,0
+Venezuela,2020-01-31,0
+Curacao,2020-01-31,0
+Swasiland,2020-01-31,0
+Gabun,2020-01-31,0
+Guatemala,2020-01-31,0
+Guernsey,2020-01-31,0
+Mauretanien,2020-01-31,0
+Ruanda,2020-01-31,0
+Saint Lucia,2020-01-31,0
+St. Vincent und die Grenadinen,2020-01-31,0
+Surinam,2020-01-31,0
+Palästina,2020-01-31,0
+Kosovo,2020-01-31,0
+Zentralafrikanische Republik,2020-01-31,0
+Kongo,2020-01-31,0
+Äquatorialguinea,2020-01-31,0
+Usbekistan,2020-01-31,0
+Thailand,2020-02-01,19
+Japan,2020-02-01,20
+Singapur,2020-02-01,16
+Nepal,2020-02-01,1
+Malaysia,2020-02-01,8
+Kanada,2020-02-01,4
+Australien,2020-02-01,12
+Kambodscha,2020-02-01,1
+Sri Lanka,2020-02-01,1
+Deutschland,2020-02-01,8
+Finnland,2020-02-01,1
+Vereinigte Arabische Emirate,2020-02-01,4
+Philippinen,2020-02-01,1
+Indien,2020-02-01,1
+Italien,2020-02-01,2
+Schweden,2020-02-01,1
+Spanien,2020-02-01,1
+Belgien,2020-02-01,0
+Ägypten,2020-02-01,0
+Libanon,2020-02-01,0
+Irak,2020-02-01,0
+Oman,2020-02-01,0
+Afghanistan,2020-02-01,0
+Bahrain,2020-02-01,0
+Kuwait,2020-02-01,0
+Algerien,2020-02-01,0
+Kroatien,2020-02-01,0
+Schweiz,2020-02-01,0
+Österreich,2020-02-01,0
+Israel,2020-02-01,0
+Pakistan,2020-02-01,0
+Brasilien,2020-02-01,0
+Georgien,2020-02-01,0
+Griechenland,2020-02-01,0
+Mazedonien,2020-02-01,0
+Norwegen,2020-02-01,0
+Rumänien,2020-02-01,0
+Estland,2020-02-01,0
+Niederlande,2020-02-01,0
+San Marino,2020-02-01,0
+Weißrussland,2020-02-01,0
+Island,2020-02-01,0
+Litauen,2020-02-01,0
+Mexiko,2020-02-01,0
+Neuseeland,2020-02-01,0
+Nigeria,2020-02-01,0
+Irland,2020-02-01,0
+Luxemburg,2020-02-01,0
+Monaco,2020-02-01,0
+Katar,2020-02-01,0
+Ecuador,2020-02-01,0
+Aserbaidschan,2020-02-01,0
+Armenien,2020-02-01,0
+Dominikanische Republik,2020-02-01,0
+Indonesien,2020-02-01,0
+Portugal,2020-02-01,0
+Andorra,2020-02-01,0
+Lettland,2020-02-01,0
+Marokko,2020-02-01,0
+Saudi Arabien,2020-02-01,0
+Senegal,2020-02-01,0
+Argentinien,2020-02-01,0
+Chile,2020-02-01,0
+Jordanien,2020-02-01,0
+Ukraine,2020-02-01,0
+Ungarn,2020-02-01,0
+Liechtenstein,2020-02-01,0
+Polen,2020-02-01,0
+Tunesien,2020-02-01,0
+Bosnien und Herzegowina,2020-02-01,0
+Slowenien,2020-02-01,0
+Südafrika,2020-02-01,0
+Bhutan,2020-02-01,0
+Kamerun,2020-02-01,0
+Kolumbien,2020-02-01,0
+Costa Rica,2020-02-01,0
+Peru,2020-02-01,0
+Serbien,2020-02-01,0
+Slowakei,2020-02-01,0
+Togo,2020-02-01,0
+Malta,2020-02-01,0
+Martinique,2020-02-01,0
+Bulgarien,2020-02-01,0
+Malediven,2020-02-01,0
+Bangladesch,2020-02-01,0
+Paraguay,2020-02-01,0
+Albanien,2020-02-01,0
+Zypern,2020-02-01,0
+Brunei Darussalam,2020-02-01,0
+Vereinigte Staaten,2020-02-01,8
+Burkina Faso,2020-02-01,0
+Vatikanstaat,2020-02-01,0
+Mongolei,2020-02-01,0
+Panama,2020-02-01,0
+China,2020-02-01,11891
+Iran,2020-02-01,0
+Südkorea,2020-02-01,12
+Frankreich,2020-02-01,6
+NA,2020-02-01,0
+Dänemark,2020-02-01,0
+Tschechische Republik,2020-02-01,0
+Taiwan,2020-02-01,10
+Vietnam,2020-02-01,6
+Russische Föderation,2020-02-01,2
+Republik Moldau,2020-02-01,0
+Bolivien,2020-02-01,0
+Honduras,2020-02-01,0
+Großbritannien,2020-02-01,2
+Demokratische Republik Kongo,2020-02-01,0
+Elfenbeinküste,2020-02-01,0
+Jamaika,2020-02-01,0
+Reunion,2020-02-01,0
+Türkei,2020-02-01,0
+Kuba,2020-02-01,0
+Guyana,2020-02-01,0
+Kasachstan,2020-02-01,0
+Cayman Inseln,2020-02-01,0
+Guadeloupe,2020-02-01,0
+Äthiopien,2020-02-01,0
+Sudan,2020-02-01,0
+Guinea,2020-02-01,0
+Aruba,2020-02-01,0
+Kenia,2020-02-01,0
+Antigua und Barbuda,2020-02-01,0
+Uruguay,2020-02-01,0
+Ghana,2020-02-01,0
+Jersey,2020-02-01,0
+Namibia,2020-02-01,0
+Seychellen,2020-02-01,0
+Trinidad und Tobago,2020-02-01,0
+Venezuela,2020-02-01,0
+Curacao,2020-02-01,0
+Swasiland,2020-02-01,0
+Gabun,2020-02-01,0
+Guatemala,2020-02-01,0
+Guernsey,2020-02-01,0
+Mauretanien,2020-02-01,0
+Ruanda,2020-02-01,0
+Saint Lucia,2020-02-01,0
+St. Vincent und die Grenadinen,2020-02-01,0
+Surinam,2020-02-01,0
+Palästina,2020-02-01,0
+Kosovo,2020-02-01,0
+Zentralafrikanische Republik,2020-02-01,0
+Kongo,2020-02-01,0
+Äquatorialguinea,2020-02-01,0
+Usbekistan,2020-02-01,0
+Thailand,2020-02-02,19
+Japan,2020-02-02,20
+Singapur,2020-02-02,18
+Nepal,2020-02-02,1
+Malaysia,2020-02-02,8
+Kanada,2020-02-02,4
+Australien,2020-02-02,12
+Kambodscha,2020-02-02,1
+Sri Lanka,2020-02-02,1
+Deutschland,2020-02-02,10
+Finnland,2020-02-02,1
+Vereinigte Arabische Emirate,2020-02-02,5
+Philippinen,2020-02-02,2
+Indien,2020-02-02,2
+Italien,2020-02-02,2
+Schweden,2020-02-02,1
+Spanien,2020-02-02,1
+Belgien,2020-02-02,0
+Ägypten,2020-02-02,0
+Libanon,2020-02-02,0
+Irak,2020-02-02,0
+Oman,2020-02-02,0
+Afghanistan,2020-02-02,0
+Bahrain,2020-02-02,0
+Kuwait,2020-02-02,0
+Algerien,2020-02-02,0
+Kroatien,2020-02-02,0
+Schweiz,2020-02-02,0
+Österreich,2020-02-02,0
+Israel,2020-02-02,0
+Pakistan,2020-02-02,0
+Brasilien,2020-02-02,0
+Georgien,2020-02-02,0
+Griechenland,2020-02-02,0
+Mazedonien,2020-02-02,0
+Norwegen,2020-02-02,0
+Rumänien,2020-02-02,0
+Estland,2020-02-02,0
+Niederlande,2020-02-02,0
+San Marino,2020-02-02,0
+Weißrussland,2020-02-02,0
+Island,2020-02-02,0
+Litauen,2020-02-02,0
+Mexiko,2020-02-02,0
+Neuseeland,2020-02-02,0
+Nigeria,2020-02-02,0
+Irland,2020-02-02,0
+Luxemburg,2020-02-02,0
+Monaco,2020-02-02,0
+Katar,2020-02-02,0
+Ecuador,2020-02-02,0
+Aserbaidschan,2020-02-02,0
+Armenien,2020-02-02,0
+Dominikanische Republik,2020-02-02,0
+Indonesien,2020-02-02,0
+Portugal,2020-02-02,0
+Andorra,2020-02-02,0
+Lettland,2020-02-02,0
+Marokko,2020-02-02,0
+Saudi Arabien,2020-02-02,0
+Senegal,2020-02-02,0
+Argentinien,2020-02-02,0
+Chile,2020-02-02,0
+Jordanien,2020-02-02,0
+Ukraine,2020-02-02,0
+Ungarn,2020-02-02,0
+Liechtenstein,2020-02-02,0
+Polen,2020-02-02,0
+Tunesien,2020-02-02,0
+Bosnien und Herzegowina,2020-02-02,0
+Slowenien,2020-02-02,0
+Südafrika,2020-02-02,0
+Bhutan,2020-02-02,0
+Kamerun,2020-02-02,0
+Kolumbien,2020-02-02,0
+Costa Rica,2020-02-02,0
+Peru,2020-02-02,0
+Serbien,2020-02-02,0
+Slowakei,2020-02-02,0
+Togo,2020-02-02,0
+Malta,2020-02-02,0
+Martinique,2020-02-02,0
+Bulgarien,2020-02-02,0
+Malediven,2020-02-02,0
+Bangladesch,2020-02-02,0
+Paraguay,2020-02-02,0
+Albanien,2020-02-02,0
+Zypern,2020-02-02,0
+Brunei Darussalam,2020-02-02,0
+Vereinigte Staaten,2020-02-02,8
+Burkina Faso,2020-02-02,0
+Vatikanstaat,2020-02-02,0
+Mongolei,2020-02-02,0
+Panama,2020-02-02,0
+China,2020-02-02,16630
+Iran,2020-02-02,0
+Südkorea,2020-02-02,15
+Frankreich,2020-02-02,6
+NA,2020-02-02,0
+Dänemark,2020-02-02,0
+Tschechische Republik,2020-02-02,0
+Taiwan,2020-02-02,10
+Vietnam,2020-02-02,6
+Russische Föderation,2020-02-02,2
+Republik Moldau,2020-02-02,0
+Bolivien,2020-02-02,0
+Honduras,2020-02-02,0
+Großbritannien,2020-02-02,2
+Demokratische Republik Kongo,2020-02-02,0
+Elfenbeinküste,2020-02-02,0
+Jamaika,2020-02-02,0
+Reunion,2020-02-02,0
+Türkei,2020-02-02,0
+Kuba,2020-02-02,0
+Guyana,2020-02-02,0
+Kasachstan,2020-02-02,0
+Cayman Inseln,2020-02-02,0
+Guadeloupe,2020-02-02,0
+Äthiopien,2020-02-02,0
+Sudan,2020-02-02,0
+Guinea,2020-02-02,0
+Aruba,2020-02-02,0
+Kenia,2020-02-02,0
+Antigua und Barbuda,2020-02-02,0
+Uruguay,2020-02-02,0
+Ghana,2020-02-02,0
+Jersey,2020-02-02,0
+Namibia,2020-02-02,0
+Seychellen,2020-02-02,0
+Trinidad und Tobago,2020-02-02,0
+Venezuela,2020-02-02,0
+Curacao,2020-02-02,0
+Swasiland,2020-02-02,0
+Gabun,2020-02-02,0
+Guatemala,2020-02-02,0
+Guernsey,2020-02-02,0
+Mauretanien,2020-02-02,0
+Ruanda,2020-02-02,0
+Saint Lucia,2020-02-02,0
+St. Vincent und die Grenadinen,2020-02-02,0
+Surinam,2020-02-02,0
+Palästina,2020-02-02,0
+Kosovo,2020-02-02,0
+Zentralafrikanische Republik,2020-02-02,0
+Kongo,2020-02-02,0
+Äquatorialguinea,2020-02-02,0
+Usbekistan,2020-02-02,0
+Thailand,2020-02-03,19
+Japan,2020-02-03,20
+Singapur,2020-02-03,18
+Nepal,2020-02-03,1
+Malaysia,2020-02-03,8
+Kanada,2020-02-03,4
+Australien,2020-02-03,12
+Kambodscha,2020-02-03,1
+Sri Lanka,2020-02-03,1
+Deutschland,2020-02-03,12
+Finnland,2020-02-03,1
+Vereinigte Arabische Emirate,2020-02-03,5
+Philippinen,2020-02-03,2
+Indien,2020-02-03,3
+Italien,2020-02-03,2
+Schweden,2020-02-03,1
+Spanien,2020-02-03,1
+Belgien,2020-02-03,0
+Ägypten,2020-02-03,0
+Libanon,2020-02-03,0
+Irak,2020-02-03,0
+Oman,2020-02-03,0
+Afghanistan,2020-02-03,0
+Bahrain,2020-02-03,0
+Kuwait,2020-02-03,0
+Algerien,2020-02-03,0
+Kroatien,2020-02-03,0
+Schweiz,2020-02-03,0
+Österreich,2020-02-03,0
+Israel,2020-02-03,0
+Pakistan,2020-02-03,0
+Brasilien,2020-02-03,0
+Georgien,2020-02-03,0
+Griechenland,2020-02-03,0
+Mazedonien,2020-02-03,0
+Norwegen,2020-02-03,0
+Rumänien,2020-02-03,0
+Estland,2020-02-03,0
+Niederlande,2020-02-03,0
+San Marino,2020-02-03,0
+Weißrussland,2020-02-03,0
+Island,2020-02-03,0
+Litauen,2020-02-03,0
+Mexiko,2020-02-03,0
+Neuseeland,2020-02-03,0
+Nigeria,2020-02-03,0
+Irland,2020-02-03,0
+Luxemburg,2020-02-03,0
+Monaco,2020-02-03,0
+Katar,2020-02-03,0
+Ecuador,2020-02-03,0
+Aserbaidschan,2020-02-03,0
+Armenien,2020-02-03,0
+Dominikanische Republik,2020-02-03,0
+Indonesien,2020-02-03,0
+Portugal,2020-02-03,0
+Andorra,2020-02-03,0
+Lettland,2020-02-03,0
+Marokko,2020-02-03,0
+Saudi Arabien,2020-02-03,0
+Senegal,2020-02-03,0
+Argentinien,2020-02-03,0
+Chile,2020-02-03,0
+Jordanien,2020-02-03,0
+Ukraine,2020-02-03,0
+Ungarn,2020-02-03,0
+Liechtenstein,2020-02-03,0
+Polen,2020-02-03,0
+Tunesien,2020-02-03,0
+Bosnien und Herzegowina,2020-02-03,0
+Slowenien,2020-02-03,0
+Südafrika,2020-02-03,0
+Bhutan,2020-02-03,0
+Kamerun,2020-02-03,0
+Kolumbien,2020-02-03,0
+Costa Rica,2020-02-03,0
+Peru,2020-02-03,0
+Serbien,2020-02-03,0
+Slowakei,2020-02-03,0
+Togo,2020-02-03,0
+Malta,2020-02-03,0
+Martinique,2020-02-03,0
+Bulgarien,2020-02-03,0
+Malediven,2020-02-03,0
+Bangladesch,2020-02-03,0
+Paraguay,2020-02-03,0
+Albanien,2020-02-03,0
+Zypern,2020-02-03,0
+Brunei Darussalam,2020-02-03,0
+Vereinigte Staaten,2020-02-03,11
+Burkina Faso,2020-02-03,0
+Vatikanstaat,2020-02-03,0
+Mongolei,2020-02-03,0
+Panama,2020-02-03,0
+China,2020-02-03,19716
+Iran,2020-02-03,0
+Südkorea,2020-02-03,15
+Frankreich,2020-02-03,6
+NA,2020-02-03,0
+Dänemark,2020-02-03,0
+Tschechische Republik,2020-02-03,0
+Taiwan,2020-02-03,10
+Vietnam,2020-02-03,8
+Russische Föderation,2020-02-03,2
+Republik Moldau,2020-02-03,0
+Bolivien,2020-02-03,0
+Honduras,2020-02-03,0
+Großbritannien,2020-02-03,2
+Demokratische Republik Kongo,2020-02-03,0
+Elfenbeinküste,2020-02-03,0
+Jamaika,2020-02-03,0
+Reunion,2020-02-03,0
+Türkei,2020-02-03,0
+Kuba,2020-02-03,0
+Guyana,2020-02-03,0
+Kasachstan,2020-02-03,0
+Cayman Inseln,2020-02-03,0
+Guadeloupe,2020-02-03,0
+Äthiopien,2020-02-03,0
+Sudan,2020-02-03,0
+Guinea,2020-02-03,0
+Aruba,2020-02-03,0
+Kenia,2020-02-03,0
+Antigua und Barbuda,2020-02-03,0
+Uruguay,2020-02-03,0
+Ghana,2020-02-03,0
+Jersey,2020-02-03,0
+Namibia,2020-02-03,0
+Seychellen,2020-02-03,0
+Trinidad und Tobago,2020-02-03,0
+Venezuela,2020-02-03,0
+Curacao,2020-02-03,0
+Swasiland,2020-02-03,0
+Gabun,2020-02-03,0
+Guatemala,2020-02-03,0
+Guernsey,2020-02-03,0
+Mauretanien,2020-02-03,0
+Ruanda,2020-02-03,0
+Saint Lucia,2020-02-03,0
+St. Vincent und die Grenadinen,2020-02-03,0
+Surinam,2020-02-03,0
+Palästina,2020-02-03,0
+Kosovo,2020-02-03,0
+Zentralafrikanische Republik,2020-02-03,0
+Kongo,2020-02-03,0
+Äquatorialguinea,2020-02-03,0
+Usbekistan,2020-02-03,0
+Thailand,2020-02-04,25
+Japan,2020-02-04,22
+Singapur,2020-02-04,24
+Nepal,2020-02-04,1
+Malaysia,2020-02-04,10
+Kanada,2020-02-04,4
+Australien,2020-02-04,13
+Kambodscha,2020-02-04,1
+Sri Lanka,2020-02-04,1
+Deutschland,2020-02-04,12
+Finnland,2020-02-04,1
+Vereinigte Arabische Emirate,2020-02-04,5
+Philippinen,2020-02-04,2
+Indien,2020-02-04,3
+Italien,2020-02-04,2
+Schweden,2020-02-04,1
+Spanien,2020-02-04,1
+Belgien,2020-02-04,1
+Ägypten,2020-02-04,0
+Libanon,2020-02-04,0
+Irak,2020-02-04,0
+Oman,2020-02-04,0
+Afghanistan,2020-02-04,0
+Bahrain,2020-02-04,0
+Kuwait,2020-02-04,0
+Algerien,2020-02-04,0
+Kroatien,2020-02-04,0
+Schweiz,2020-02-04,0
+Österreich,2020-02-04,0
+Israel,2020-02-04,0
+Pakistan,2020-02-04,0
+Brasilien,2020-02-04,0
+Georgien,2020-02-04,0
+Griechenland,2020-02-04,0
+Mazedonien,2020-02-04,0
+Norwegen,2020-02-04,0
+Rumänien,2020-02-04,0
+Estland,2020-02-04,0
+Niederlande,2020-02-04,0
+San Marino,2020-02-04,0
+Weißrussland,2020-02-04,0
+Island,2020-02-04,0
+Litauen,2020-02-04,0
+Mexiko,2020-02-04,0
+Neuseeland,2020-02-04,0
+Nigeria,2020-02-04,0
+Irland,2020-02-04,0
+Luxemburg,2020-02-04,0
+Monaco,2020-02-04,0
+Katar,2020-02-04,0
+Ecuador,2020-02-04,0
+Aserbaidschan,2020-02-04,0
+Armenien,2020-02-04,0
+Dominikanische Republik,2020-02-04,0
+Indonesien,2020-02-04,0
+Portugal,2020-02-04,0
+Andorra,2020-02-04,0
+Lettland,2020-02-04,0
+Marokko,2020-02-04,0
+Saudi Arabien,2020-02-04,0
+Senegal,2020-02-04,0
+Argentinien,2020-02-04,0
+Chile,2020-02-04,0
+Jordanien,2020-02-04,0
+Ukraine,2020-02-04,0
+Ungarn,2020-02-04,0
+Liechtenstein,2020-02-04,0
+Polen,2020-02-04,0
+Tunesien,2020-02-04,0
+Bosnien und Herzegowina,2020-02-04,0
+Slowenien,2020-02-04,0
+Südafrika,2020-02-04,0
+Bhutan,2020-02-04,0
+Kamerun,2020-02-04,0
+Kolumbien,2020-02-04,0
+Costa Rica,2020-02-04,0
+Peru,2020-02-04,0
+Serbien,2020-02-04,0
+Slowakei,2020-02-04,0
+Togo,2020-02-04,0
+Malta,2020-02-04,0
+Martinique,2020-02-04,0
+Bulgarien,2020-02-04,0
+Malediven,2020-02-04,0
+Bangladesch,2020-02-04,0
+Paraguay,2020-02-04,0
+Albanien,2020-02-04,0
+Zypern,2020-02-04,0
+Brunei Darussalam,2020-02-04,0
+Vereinigte Staaten,2020-02-04,11
+Burkina Faso,2020-02-04,0
+Vatikanstaat,2020-02-04,0
+Mongolei,2020-02-04,0
+Panama,2020-02-04,0
+China,2020-02-04,23707
+Iran,2020-02-04,0
+Südkorea,2020-02-04,16
+Frankreich,2020-02-04,6
+NA,2020-02-04,0
+Dänemark,2020-02-04,0
+Tschechische Republik,2020-02-04,0
+Taiwan,2020-02-04,11
+Vietnam,2020-02-04,8
+Russische Föderation,2020-02-04,2
+Republik Moldau,2020-02-04,0
+Bolivien,2020-02-04,0
+Honduras,2020-02-04,0
+Großbritannien,2020-02-04,2
+Demokratische Republik Kongo,2020-02-04,0
+Elfenbeinküste,2020-02-04,0
+Jamaika,2020-02-04,0
+Reunion,2020-02-04,0
+Türkei,2020-02-04,0
+Kuba,2020-02-04,0
+Guyana,2020-02-04,0
+Kasachstan,2020-02-04,0
+Cayman Inseln,2020-02-04,0
+Guadeloupe,2020-02-04,0
+Äthiopien,2020-02-04,0
+Sudan,2020-02-04,0
+Guinea,2020-02-04,0
+Aruba,2020-02-04,0
+Kenia,2020-02-04,0
+Antigua und Barbuda,2020-02-04,0
+Uruguay,2020-02-04,0
+Ghana,2020-02-04,0
+Jersey,2020-02-04,0
+Namibia,2020-02-04,0
+Seychellen,2020-02-04,0
+Trinidad und Tobago,2020-02-04,0
+Venezuela,2020-02-04,0
+Curacao,2020-02-04,0
+Swasiland,2020-02-04,0
+Gabun,2020-02-04,0
+Guatemala,2020-02-04,0
+Guernsey,2020-02-04,0
+Mauretanien,2020-02-04,0
+Ruanda,2020-02-04,0
+Saint Lucia,2020-02-04,0
+St. Vincent und die Grenadinen,2020-02-04,0
+Surinam,2020-02-04,0
+Palästina,2020-02-04,0
+Kosovo,2020-02-04,0
+Zentralafrikanische Republik,2020-02-04,0
+Kongo,2020-02-04,0
+Äquatorialguinea,2020-02-04,0
+Usbekistan,2020-02-04,0
+Thailand,2020-02-05,25
+Japan,2020-02-05,22
+Singapur,2020-02-05,28
+Nepal,2020-02-05,1
+Malaysia,2020-02-05,12
+Kanada,2020-02-05,5
+Australien,2020-02-05,13
+Kambodscha,2020-02-05,1
+Sri Lanka,2020-02-05,1
+Deutschland,2020-02-05,12
+Finnland,2020-02-05,1
+Vereinigte Arabische Emirate,2020-02-05,5
+Philippinen,2020-02-05,2
+Indien,2020-02-05,3
+Italien,2020-02-05,2
+Schweden,2020-02-05,1
+Spanien,2020-02-05,1
+Belgien,2020-02-05,1
+Ägypten,2020-02-05,0
+Libanon,2020-02-05,0
+Irak,2020-02-05,0
+Oman,2020-02-05,0
+Afghanistan,2020-02-05,0
+Bahrain,2020-02-05,0
+Kuwait,2020-02-05,0
+Algerien,2020-02-05,0
+Kroatien,2020-02-05,0
+Schweiz,2020-02-05,0
+Österreich,2020-02-05,0
+Israel,2020-02-05,0
+Pakistan,2020-02-05,0
+Brasilien,2020-02-05,0
+Georgien,2020-02-05,0
+Griechenland,2020-02-05,0
+Mazedonien,2020-02-05,0
+Norwegen,2020-02-05,0
+Rumänien,2020-02-05,0
+Estland,2020-02-05,0
+Niederlande,2020-02-05,0
+San Marino,2020-02-05,0
+Weißrussland,2020-02-05,0
+Island,2020-02-05,0
+Litauen,2020-02-05,0
+Mexiko,2020-02-05,0
+Neuseeland,2020-02-05,0
+Nigeria,2020-02-05,0
+Irland,2020-02-05,0
+Luxemburg,2020-02-05,0
+Monaco,2020-02-05,0
+Katar,2020-02-05,0
+Ecuador,2020-02-05,0
+Aserbaidschan,2020-02-05,0
+Armenien,2020-02-05,0
+Dominikanische Republik,2020-02-05,0
+Indonesien,2020-02-05,0
+Portugal,2020-02-05,0
+Andorra,2020-02-05,0
+Lettland,2020-02-05,0
+Marokko,2020-02-05,0
+Saudi Arabien,2020-02-05,0
+Senegal,2020-02-05,0
+Argentinien,2020-02-05,0
+Chile,2020-02-05,0
+Jordanien,2020-02-05,0
+Ukraine,2020-02-05,0
+Ungarn,2020-02-05,0
+Liechtenstein,2020-02-05,0
+Polen,2020-02-05,0
+Tunesien,2020-02-05,0
+Bosnien und Herzegowina,2020-02-05,0
+Slowenien,2020-02-05,0
+Südafrika,2020-02-05,0
+Bhutan,2020-02-05,0
+Kamerun,2020-02-05,0
+Kolumbien,2020-02-05,0
+Costa Rica,2020-02-05,0
+Peru,2020-02-05,0
+Serbien,2020-02-05,0
+Slowakei,2020-02-05,0
+Togo,2020-02-05,0
+Malta,2020-02-05,0
+Martinique,2020-02-05,0
+Bulgarien,2020-02-05,0
+Malediven,2020-02-05,0
+Bangladesch,2020-02-05,0
+Paraguay,2020-02-05,0
+Albanien,2020-02-05,0
+Zypern,2020-02-05,0
+Brunei Darussalam,2020-02-05,0
+Vereinigte Staaten,2020-02-05,11
+Burkina Faso,2020-02-05,0
+Vatikanstaat,2020-02-05,0
+Mongolei,2020-02-05,0
+Panama,2020-02-05,0
+China,2020-02-05,27440
+Iran,2020-02-05,0
+Südkorea,2020-02-05,19
+Frankreich,2020-02-05,6
+NA,2020-02-05,0
+Dänemark,2020-02-05,0
+Tschechische Republik,2020-02-05,0
+Taiwan,2020-02-05,11
+Vietnam,2020-02-05,8
+Russische Föderation,2020-02-05,2
+Republik Moldau,2020-02-05,0
+Bolivien,2020-02-05,0
+Honduras,2020-02-05,0
+Großbritannien,2020-02-05,2
+Demokratische Republik Kongo,2020-02-05,0
+Elfenbeinküste,2020-02-05,0
+Jamaika,2020-02-05,0
+Reunion,2020-02-05,0
+Türkei,2020-02-05,0
+Kuba,2020-02-05,0
+Guyana,2020-02-05,0
+Kasachstan,2020-02-05,0
+Cayman Inseln,2020-02-05,0
+Guadeloupe,2020-02-05,0
+Äthiopien,2020-02-05,0
+Sudan,2020-02-05,0
+Guinea,2020-02-05,0
+Aruba,2020-02-05,0
+Kenia,2020-02-05,0
+Antigua und Barbuda,2020-02-05,0
+Uruguay,2020-02-05,0
+Ghana,2020-02-05,0
+Jersey,2020-02-05,0
+Namibia,2020-02-05,0
+Seychellen,2020-02-05,0
+Trinidad und Tobago,2020-02-05,0
+Venezuela,2020-02-05,0
+Curacao,2020-02-05,0
+Swasiland,2020-02-05,0
+Gabun,2020-02-05,0
+Guatemala,2020-02-05,0
+Guernsey,2020-02-05,0
+Mauretanien,2020-02-05,0
+Ruanda,2020-02-05,0
+Saint Lucia,2020-02-05,0
+St. Vincent und die Grenadinen,2020-02-05,0
+Surinam,2020-02-05,0
+Palästina,2020-02-05,0
+Kosovo,2020-02-05,0
+Zentralafrikanische Republik,2020-02-05,0
+Kongo,2020-02-05,0
+Äquatorialguinea,2020-02-05,0
+Usbekistan,2020-02-05,0
+Thailand,2020-02-06,25
+Japan,2020-02-06,45
+Singapur,2020-02-06,28
+Nepal,2020-02-06,1
+Malaysia,2020-02-06,12
+Kanada,2020-02-06,5
+Australien,2020-02-06,14
+Kambodscha,2020-02-06,1
+Sri Lanka,2020-02-06,1
+Deutschland,2020-02-06,12
+Finnland,2020-02-06,1
+Vereinigte Arabische Emirate,2020-02-06,5
+Philippinen,2020-02-06,2
+Indien,2020-02-06,3
+Italien,2020-02-06,2
+Schweden,2020-02-06,1
+Spanien,2020-02-06,1
+Belgien,2020-02-06,1
+Ägypten,2020-02-06,0
+Libanon,2020-02-06,0
+Irak,2020-02-06,0
+Oman,2020-02-06,0
+Afghanistan,2020-02-06,0
+Bahrain,2020-02-06,0
+Kuwait,2020-02-06,0
+Algerien,2020-02-06,0
+Kroatien,2020-02-06,0
+Schweiz,2020-02-06,0
+Österreich,2020-02-06,0
+Israel,2020-02-06,0
+Pakistan,2020-02-06,0
+Brasilien,2020-02-06,0
+Georgien,2020-02-06,0
+Griechenland,2020-02-06,0
+Mazedonien,2020-02-06,0
+Norwegen,2020-02-06,0
+Rumänien,2020-02-06,0
+Estland,2020-02-06,0
+Niederlande,2020-02-06,0
+San Marino,2020-02-06,0
+Weißrussland,2020-02-06,0
+Island,2020-02-06,0
+Litauen,2020-02-06,0
+Mexiko,2020-02-06,0
+Neuseeland,2020-02-06,0
+Nigeria,2020-02-06,0
+Irland,2020-02-06,0
+Luxemburg,2020-02-06,0
+Monaco,2020-02-06,0
+Katar,2020-02-06,0
+Ecuador,2020-02-06,0
+Aserbaidschan,2020-02-06,0
+Armenien,2020-02-06,0
+Dominikanische Republik,2020-02-06,0
+Indonesien,2020-02-06,0
+Portugal,2020-02-06,0
+Andorra,2020-02-06,0
+Lettland,2020-02-06,0
+Marokko,2020-02-06,0
+Saudi Arabien,2020-02-06,0
+Senegal,2020-02-06,0
+Argentinien,2020-02-06,0
+Chile,2020-02-06,0
+Jordanien,2020-02-06,0
+Ukraine,2020-02-06,0
+Ungarn,2020-02-06,0
+Liechtenstein,2020-02-06,0
+Polen,2020-02-06,0
+Tunesien,2020-02-06,0
+Bosnien und Herzegowina,2020-02-06,0
+Slowenien,2020-02-06,0
+Südafrika,2020-02-06,0
+Bhutan,2020-02-06,0
+Kamerun,2020-02-06,0
+Kolumbien,2020-02-06,0
+Costa Rica,2020-02-06,0
+Peru,2020-02-06,0
+Serbien,2020-02-06,0
+Slowakei,2020-02-06,0
+Togo,2020-02-06,0
+Malta,2020-02-06,0
+Martinique,2020-02-06,0
+Bulgarien,2020-02-06,0
+Malediven,2020-02-06,0
+Bangladesch,2020-02-06,0
+Paraguay,2020-02-06,0
+Albanien,2020-02-06,0
+Zypern,2020-02-06,0
+Brunei Darussalam,2020-02-06,0
+Vereinigte Staaten,2020-02-06,11
+Burkina Faso,2020-02-06,0
+Vatikanstaat,2020-02-06,0
+Mongolei,2020-02-06,0
+Panama,2020-02-06,0
+China,2020-02-06,30587
+Iran,2020-02-06,0
+Südkorea,2020-02-06,23
+Frankreich,2020-02-06,6
+NA,2020-02-06,0
+Dänemark,2020-02-06,0
+Tschechische Republik,2020-02-06,0
+Taiwan,2020-02-06,16
+Vietnam,2020-02-06,10
+Russische Föderation,2020-02-06,2
+Republik Moldau,2020-02-06,0
+Bolivien,2020-02-06,0
+Honduras,2020-02-06,0
+Großbritannien,2020-02-06,2
+Demokratische Republik Kongo,2020-02-06,0
+Elfenbeinküste,2020-02-06,0
+Jamaika,2020-02-06,0
+Reunion,2020-02-06,0
+Türkei,2020-02-06,0
+Kuba,2020-02-06,0
+Guyana,2020-02-06,0
+Kasachstan,2020-02-06,0
+Cayman Inseln,2020-02-06,0
+Guadeloupe,2020-02-06,0
+Äthiopien,2020-02-06,0
+Sudan,2020-02-06,0
+Guinea,2020-02-06,0
+Aruba,2020-02-06,0
+Kenia,2020-02-06,0
+Antigua und Barbuda,2020-02-06,0
+Uruguay,2020-02-06,0
+Ghana,2020-02-06,0
+Jersey,2020-02-06,0
+Namibia,2020-02-06,0
+Seychellen,2020-02-06,0
+Trinidad und Tobago,2020-02-06,0
+Venezuela,2020-02-06,0
+Curacao,2020-02-06,0
+Swasiland,2020-02-06,0
+Gabun,2020-02-06,0
+Guatemala,2020-02-06,0
+Guernsey,2020-02-06,0
+Mauretanien,2020-02-06,0
+Ruanda,2020-02-06,0
+Saint Lucia,2020-02-06,0
+St. Vincent und die Grenadinen,2020-02-06,0
+Surinam,2020-02-06,0
+Palästina,2020-02-06,0
+Kosovo,2020-02-06,0
+Zentralafrikanische Republik,2020-02-06,0
+Kongo,2020-02-06,0
+Äquatorialguinea,2020-02-06,0
+Usbekistan,2020-02-06,0
+Thailand,2020-02-07,25
+Japan,2020-02-07,25
+Singapur,2020-02-07,30
+Nepal,2020-02-07,1
+Malaysia,2020-02-07,12
+Kanada,2020-02-07,7
+Australien,2020-02-07,15
+Kambodscha,2020-02-07,1
+Sri Lanka,2020-02-07,1
+Deutschland,2020-02-07,13
+Finnland,2020-02-07,1
+Vereinigte Arabische Emirate,2020-02-07,5
+Philippinen,2020-02-07,3
+Indien,2020-02-07,3
+Italien,2020-02-07,3
+Schweden,2020-02-07,1
+Spanien,2020-02-07,1
+Belgien,2020-02-07,1
+Ägypten,2020-02-07,0
+Libanon,2020-02-07,0
+Irak,2020-02-07,0
+Oman,2020-02-07,0
+Afghanistan,2020-02-07,0
+Bahrain,2020-02-07,0
+Kuwait,2020-02-07,0
+Algerien,2020-02-07,0
+Kroatien,2020-02-07,0
+Schweiz,2020-02-07,0
+Österreich,2020-02-07,0
+Israel,2020-02-07,0
+Pakistan,2020-02-07,0
+Brasilien,2020-02-07,0
+Georgien,2020-02-07,0
+Griechenland,2020-02-07,0
+Mazedonien,2020-02-07,0
+Norwegen,2020-02-07,0
+Rumänien,2020-02-07,0
+Estland,2020-02-07,0
+Niederlande,2020-02-07,0
+San Marino,2020-02-07,0
+Weißrussland,2020-02-07,0
+Island,2020-02-07,0
+Litauen,2020-02-07,0
+Mexiko,2020-02-07,0
+Neuseeland,2020-02-07,0
+Nigeria,2020-02-07,0
+Irland,2020-02-07,0
+Luxemburg,2020-02-07,0
+Monaco,2020-02-07,0
+Katar,2020-02-07,0
+Ecuador,2020-02-07,0
+Aserbaidschan,2020-02-07,0
+Armenien,2020-02-07,0
+Dominikanische Republik,2020-02-07,0
+Indonesien,2020-02-07,0
+Portugal,2020-02-07,0
+Andorra,2020-02-07,0
+Lettland,2020-02-07,0
+Marokko,2020-02-07,0
+Saudi Arabien,2020-02-07,0
+Senegal,2020-02-07,0
+Argentinien,2020-02-07,0
+Chile,2020-02-07,0
+Jordanien,2020-02-07,0
+Ukraine,2020-02-07,0
+Ungarn,2020-02-07,0
+Liechtenstein,2020-02-07,0
+Polen,2020-02-07,0
+Tunesien,2020-02-07,0
+Bosnien und Herzegowina,2020-02-07,0
+Slowenien,2020-02-07,0
+Südafrika,2020-02-07,0
+Bhutan,2020-02-07,0
+Kamerun,2020-02-07,0
+Kolumbien,2020-02-07,0
+Costa Rica,2020-02-07,0
+Peru,2020-02-07,0
+Serbien,2020-02-07,0
+Slowakei,2020-02-07,0
+Togo,2020-02-07,0
+Malta,2020-02-07,0
+Martinique,2020-02-07,0
+Bulgarien,2020-02-07,0
+Malediven,2020-02-07,0
+Bangladesch,2020-02-07,0
+Paraguay,2020-02-07,0
+Albanien,2020-02-07,0
+Zypern,2020-02-07,0
+Brunei Darussalam,2020-02-07,0
+Vereinigte Staaten,2020-02-07,11
+Burkina Faso,2020-02-07,0
+Vatikanstaat,2020-02-07,0
+Mongolei,2020-02-07,0
+Panama,2020-02-07,0
+China,2020-02-07,34110
+Iran,2020-02-07,0
+Südkorea,2020-02-07,24
+Frankreich,2020-02-07,6
+NA,2020-02-07,61
+Dänemark,2020-02-07,0
+Tschechische Republik,2020-02-07,0
+Taiwan,2020-02-07,16
+Vietnam,2020-02-07,10
+Russische Föderation,2020-02-07,2
+Republik Moldau,2020-02-07,0
+Bolivien,2020-02-07,0
+Honduras,2020-02-07,0
+Großbritannien,2020-02-07,3
+Demokratische Republik Kongo,2020-02-07,0
+Elfenbeinküste,2020-02-07,0
+Jamaika,2020-02-07,0
+Reunion,2020-02-07,0
+Türkei,2020-02-07,0
+Kuba,2020-02-07,0
+Guyana,2020-02-07,0
+Kasachstan,2020-02-07,0
+Cayman Inseln,2020-02-07,0
+Guadeloupe,2020-02-07,0
+Äthiopien,2020-02-07,0
+Sudan,2020-02-07,0
+Guinea,2020-02-07,0
+Aruba,2020-02-07,0
+Kenia,2020-02-07,0
+Antigua und Barbuda,2020-02-07,0
+Uruguay,2020-02-07,0
+Ghana,2020-02-07,0
+Jersey,2020-02-07,0
+Namibia,2020-02-07,0
+Seychellen,2020-02-07,0
+Trinidad und Tobago,2020-02-07,0
+Venezuela,2020-02-07,0
+Curacao,2020-02-07,0
+Swasiland,2020-02-07,0
+Gabun,2020-02-07,0
+Guatemala,2020-02-07,0
+Guernsey,2020-02-07,0
+Mauretanien,2020-02-07,0
+Ruanda,2020-02-07,0
+Saint Lucia,2020-02-07,0
+St. Vincent und die Grenadinen,2020-02-07,0
+Surinam,2020-02-07,0
+Palästina,2020-02-07,0
+Kosovo,2020-02-07,0
+Zentralafrikanische Republik,2020-02-07,0
+Kongo,2020-02-07,0
+Äquatorialguinea,2020-02-07,0
+Usbekistan,2020-02-07,0
+Thailand,2020-02-08,32
+Japan,2020-02-08,25
+Singapur,2020-02-08,33
+Nepal,2020-02-08,1
+Malaysia,2020-02-08,16
+Kanada,2020-02-08,7
+Australien,2020-02-08,15
+Kambodscha,2020-02-08,1
+Sri Lanka,2020-02-08,1
+Deutschland,2020-02-08,13
+Finnland,2020-02-08,1
+Vereinigte Arabische Emirate,2020-02-08,7
+Philippinen,2020-02-08,3
+Indien,2020-02-08,3
+Italien,2020-02-08,3
+Schweden,2020-02-08,1
+Spanien,2020-02-08,1
+Belgien,2020-02-08,1
+Ägypten,2020-02-08,0
+Libanon,2020-02-08,0
+Irak,2020-02-08,0
+Oman,2020-02-08,0
+Afghanistan,2020-02-08,0
+Bahrain,2020-02-08,0
+Kuwait,2020-02-08,0
+Algerien,2020-02-08,0
+Kroatien,2020-02-08,0
+Schweiz,2020-02-08,0
+Österreich,2020-02-08,0
+Israel,2020-02-08,0
+Pakistan,2020-02-08,0
+Brasilien,2020-02-08,0
+Georgien,2020-02-08,0
+Griechenland,2020-02-08,0
+Mazedonien,2020-02-08,0
+Norwegen,2020-02-08,0
+Rumänien,2020-02-08,0
+Estland,2020-02-08,0
+Niederlande,2020-02-08,0
+San Marino,2020-02-08,0
+Weißrussland,2020-02-08,0
+Island,2020-02-08,0
+Litauen,2020-02-08,0
+Mexiko,2020-02-08,0
+Neuseeland,2020-02-08,0
+Nigeria,2020-02-08,0
+Irland,2020-02-08,0
+Luxemburg,2020-02-08,0
+Monaco,2020-02-08,0
+Katar,2020-02-08,0
+Ecuador,2020-02-08,0
+Aserbaidschan,2020-02-08,0
+Armenien,2020-02-08,0
+Dominikanische Republik,2020-02-08,0
+Indonesien,2020-02-08,0
+Portugal,2020-02-08,0
+Andorra,2020-02-08,0
+Lettland,2020-02-08,0
+Marokko,2020-02-08,0
+Saudi Arabien,2020-02-08,0
+Senegal,2020-02-08,0
+Argentinien,2020-02-08,0
+Chile,2020-02-08,0
+Jordanien,2020-02-08,0
+Ukraine,2020-02-08,0
+Ungarn,2020-02-08,0
+Liechtenstein,2020-02-08,0
+Polen,2020-02-08,0
+Tunesien,2020-02-08,0
+Bosnien und Herzegowina,2020-02-08,0
+Slowenien,2020-02-08,0
+Südafrika,2020-02-08,0
+Bhutan,2020-02-08,0
+Kamerun,2020-02-08,0
+Kolumbien,2020-02-08,0
+Costa Rica,2020-02-08,0
+Peru,2020-02-08,0
+Serbien,2020-02-08,0
+Slowakei,2020-02-08,0
+Togo,2020-02-08,0
+Malta,2020-02-08,0
+Martinique,2020-02-08,0
+Bulgarien,2020-02-08,0
+Malediven,2020-02-08,0
+Bangladesch,2020-02-08,0
+Paraguay,2020-02-08,0
+Albanien,2020-02-08,0
+Zypern,2020-02-08,0
+Brunei Darussalam,2020-02-08,0
+Vereinigte Staaten,2020-02-08,11
+Burkina Faso,2020-02-08,0
+Vatikanstaat,2020-02-08,0
+Mongolei,2020-02-08,0
+Panama,2020-02-08,0
+China,2020-02-08,36814
+Iran,2020-02-08,0
+Südkorea,2020-02-08,24
+Frankreich,2020-02-08,11
+NA,2020-02-08,61
+Dänemark,2020-02-08,0
+Tschechische Republik,2020-02-08,0
+Taiwan,2020-02-08,17
+Vietnam,2020-02-08,13
+Russische Föderation,2020-02-08,2
+Republik Moldau,2020-02-08,0
+Bolivien,2020-02-08,0
+Honduras,2020-02-08,0
+Großbritannien,2020-02-08,3
+Demokratische Republik Kongo,2020-02-08,0
+Elfenbeinküste,2020-02-08,0
+Jamaika,2020-02-08,0
+Reunion,2020-02-08,0
+Türkei,2020-02-08,0
+Kuba,2020-02-08,0
+Guyana,2020-02-08,0
+Kasachstan,2020-02-08,0
+Cayman Inseln,2020-02-08,0
+Guadeloupe,2020-02-08,0
+Äthiopien,2020-02-08,0
+Sudan,2020-02-08,0
+Guinea,2020-02-08,0
+Aruba,2020-02-08,0
+Kenia,2020-02-08,0
+Antigua und Barbuda,2020-02-08,0
+Uruguay,2020-02-08,0
+Ghana,2020-02-08,0
+Jersey,2020-02-08,0
+Namibia,2020-02-08,0
+Seychellen,2020-02-08,0
+Trinidad und Tobago,2020-02-08,0
+Venezuela,2020-02-08,0
+Curacao,2020-02-08,0
+Swasiland,2020-02-08,0
+Gabun,2020-02-08,0
+Guatemala,2020-02-08,0
+Guernsey,2020-02-08,0
+Mauretanien,2020-02-08,0
+Ruanda,2020-02-08,0
+Saint Lucia,2020-02-08,0
+St. Vincent und die Grenadinen,2020-02-08,0
+Surinam,2020-02-08,0
+Palästina,2020-02-08,0
+Kosovo,2020-02-08,0
+Zentralafrikanische Republik,2020-02-08,0
+Kongo,2020-02-08,0
+Äquatorialguinea,2020-02-08,0
+Usbekistan,2020-02-08,0
+Thailand,2020-02-09,32
+Japan,2020-02-09,26
+Singapur,2020-02-09,40
+Nepal,2020-02-09,1
+Malaysia,2020-02-09,16
+Kanada,2020-02-09,7
+Australien,2020-02-09,15
+Kambodscha,2020-02-09,1
+Sri Lanka,2020-02-09,1
+Deutschland,2020-02-09,14
+Finnland,2020-02-09,1
+Vereinigte Arabische Emirate,2020-02-09,7
+Philippinen,2020-02-09,3
+Indien,2020-02-09,3
+Italien,2020-02-09,3
+Schweden,2020-02-09,1
+Spanien,2020-02-09,2
+Belgien,2020-02-09,1
+Ägypten,2020-02-09,0
+Libanon,2020-02-09,0
+Irak,2020-02-09,0
+Oman,2020-02-09,0
+Afghanistan,2020-02-09,0
+Bahrain,2020-02-09,0
+Kuwait,2020-02-09,0
+Algerien,2020-02-09,0
+Kroatien,2020-02-09,0
+Schweiz,2020-02-09,0
+Österreich,2020-02-09,0
+Israel,2020-02-09,0
+Pakistan,2020-02-09,0
+Brasilien,2020-02-09,0
+Georgien,2020-02-09,0
+Griechenland,2020-02-09,0
+Mazedonien,2020-02-09,0
+Norwegen,2020-02-09,0
+Rumänien,2020-02-09,0
+Estland,2020-02-09,0
+Niederlande,2020-02-09,0
+San Marino,2020-02-09,0
+Weißrussland,2020-02-09,0
+Island,2020-02-09,0
+Litauen,2020-02-09,0
+Mexiko,2020-02-09,0
+Neuseeland,2020-02-09,0
+Nigeria,2020-02-09,0
+Irland,2020-02-09,0
+Luxemburg,2020-02-09,0
+Monaco,2020-02-09,0
+Katar,2020-02-09,0
+Ecuador,2020-02-09,0
+Aserbaidschan,2020-02-09,0
+Armenien,2020-02-09,0
+Dominikanische Republik,2020-02-09,0
+Indonesien,2020-02-09,0
+Portugal,2020-02-09,0
+Andorra,2020-02-09,0
+Lettland,2020-02-09,0
+Marokko,2020-02-09,0
+Saudi Arabien,2020-02-09,0
+Senegal,2020-02-09,0
+Argentinien,2020-02-09,0
+Chile,2020-02-09,0
+Jordanien,2020-02-09,0
+Ukraine,2020-02-09,0
+Ungarn,2020-02-09,0
+Liechtenstein,2020-02-09,0
+Polen,2020-02-09,0
+Tunesien,2020-02-09,0
+Bosnien und Herzegowina,2020-02-09,0
+Slowenien,2020-02-09,0
+Südafrika,2020-02-09,0
+Bhutan,2020-02-09,0
+Kamerun,2020-02-09,0
+Kolumbien,2020-02-09,0
+Costa Rica,2020-02-09,0
+Peru,2020-02-09,0
+Serbien,2020-02-09,0
+Slowakei,2020-02-09,0
+Togo,2020-02-09,0
+Malta,2020-02-09,0
+Martinique,2020-02-09,0
+Bulgarien,2020-02-09,0
+Malediven,2020-02-09,0
+Bangladesch,2020-02-09,0
+Paraguay,2020-02-09,0
+Albanien,2020-02-09,0
+Zypern,2020-02-09,0
+Brunei Darussalam,2020-02-09,0
+Vereinigte Staaten,2020-02-09,11
+Burkina Faso,2020-02-09,0
+Vatikanstaat,2020-02-09,0
+Mongolei,2020-02-09,0
+Panama,2020-02-09,0
+China,2020-02-09,39829
+Iran,2020-02-09,0
+Südkorea,2020-02-09,25
+Frankreich,2020-02-09,11
+NA,2020-02-09,64
+Dänemark,2020-02-09,0
+Tschechische Republik,2020-02-09,0
+Taiwan,2020-02-09,18
+Vietnam,2020-02-09,13
+Russische Föderation,2020-02-09,2
+Republik Moldau,2020-02-09,0
+Bolivien,2020-02-09,0
+Honduras,2020-02-09,0
+Großbritannien,2020-02-09,3
+Demokratische Republik Kongo,2020-02-09,0
+Elfenbeinküste,2020-02-09,0
+Jamaika,2020-02-09,0
+Reunion,2020-02-09,0
+Türkei,2020-02-09,0
+Kuba,2020-02-09,0
+Guyana,2020-02-09,0
+Kasachstan,2020-02-09,0
+Cayman Inseln,2020-02-09,0
+Guadeloupe,2020-02-09,0
+Äthiopien,2020-02-09,0
+Sudan,2020-02-09,0
+Guinea,2020-02-09,0
+Aruba,2020-02-09,0
+Kenia,2020-02-09,0
+Antigua und Barbuda,2020-02-09,0
+Uruguay,2020-02-09,0
+Ghana,2020-02-09,0
+Jersey,2020-02-09,0
+Namibia,2020-02-09,0
+Seychellen,2020-02-09,0
+Trinidad und Tobago,2020-02-09,0
+Venezuela,2020-02-09,0
+Curacao,2020-02-09,0
+Swasiland,2020-02-09,0
+Gabun,2020-02-09,0
+Guatemala,2020-02-09,0
+Guernsey,2020-02-09,0
+Mauretanien,2020-02-09,0
+Ruanda,2020-02-09,0
+Saint Lucia,2020-02-09,0
+St. Vincent und die Grenadinen,2020-02-09,0
+Surinam,2020-02-09,0
+Palästina,2020-02-09,0
+Kosovo,2020-02-09,0
+Zentralafrikanische Republik,2020-02-09,0
+Kongo,2020-02-09,0
+Äquatorialguinea,2020-02-09,0
+Usbekistan,2020-02-09,0
+Thailand,2020-02-10,32
+Japan,2020-02-10,26
+Singapur,2020-02-10,45
+Nepal,2020-02-10,1
+Malaysia,2020-02-10,18
+Kanada,2020-02-10,7
+Australien,2020-02-10,15
+Kambodscha,2020-02-10,1
+Sri Lanka,2020-02-10,1
+Deutschland,2020-02-10,14
+Finnland,2020-02-10,1
+Vereinigte Arabische Emirate,2020-02-10,8
+Philippinen,2020-02-10,3
+Indien,2020-02-10,3
+Italien,2020-02-10,3
+Schweden,2020-02-10,1
+Spanien,2020-02-10,2
+Belgien,2020-02-10,1
+Ägypten,2020-02-10,0
+Libanon,2020-02-10,0
+Irak,2020-02-10,0
+Oman,2020-02-10,0
+Afghanistan,2020-02-10,0
+Bahrain,2020-02-10,0
+Kuwait,2020-02-10,0
+Algerien,2020-02-10,0
+Kroatien,2020-02-10,0
+Schweiz,2020-02-10,0
+Österreich,2020-02-10,0
+Israel,2020-02-10,0
+Pakistan,2020-02-10,0
+Brasilien,2020-02-10,0
+Georgien,2020-02-10,0
+Griechenland,2020-02-10,0
+Mazedonien,2020-02-10,0
+Norwegen,2020-02-10,0
+Rumänien,2020-02-10,0
+Estland,2020-02-10,0
+Niederlande,2020-02-10,0
+San Marino,2020-02-10,0
+Weißrussland,2020-02-10,0
+Island,2020-02-10,0
+Litauen,2020-02-10,0
+Mexiko,2020-02-10,0
+Neuseeland,2020-02-10,0
+Nigeria,2020-02-10,0
+Irland,2020-02-10,0
+Luxemburg,2020-02-10,0
+Monaco,2020-02-10,0
+Katar,2020-02-10,0
+Ecuador,2020-02-10,0
+Aserbaidschan,2020-02-10,0
+Armenien,2020-02-10,0
+Dominikanische Republik,2020-02-10,0
+Indonesien,2020-02-10,0
+Portugal,2020-02-10,0
+Andorra,2020-02-10,0
+Lettland,2020-02-10,0
+Marokko,2020-02-10,0
+Saudi Arabien,2020-02-10,0
+Senegal,2020-02-10,0
+Argentinien,2020-02-10,0
+Chile,2020-02-10,0
+Jordanien,2020-02-10,0
+Ukraine,2020-02-10,0
+Ungarn,2020-02-10,0
+Liechtenstein,2020-02-10,0
+Polen,2020-02-10,0
+Tunesien,2020-02-10,0
+Bosnien und Herzegowina,2020-02-10,0
+Slowenien,2020-02-10,0
+Südafrika,2020-02-10,0
+Bhutan,2020-02-10,0
+Kamerun,2020-02-10,0
+Kolumbien,2020-02-10,0
+Costa Rica,2020-02-10,0
+Peru,2020-02-10,0
+Serbien,2020-02-10,0
+Slowakei,2020-02-10,0
+Togo,2020-02-10,0
+Malta,2020-02-10,0
+Martinique,2020-02-10,0
+Bulgarien,2020-02-10,0
+Malediven,2020-02-10,0
+Bangladesch,2020-02-10,0
+Paraguay,2020-02-10,0
+Albanien,2020-02-10,0
+Zypern,2020-02-10,0
+Brunei Darussalam,2020-02-10,0
+Vereinigte Staaten,2020-02-10,11
+Burkina Faso,2020-02-10,0
+Vatikanstaat,2020-02-10,0
+Mongolei,2020-02-10,0
+Panama,2020-02-10,0
+China,2020-02-10,42354
+Iran,2020-02-10,0
+Südkorea,2020-02-10,27
+Frankreich,2020-02-10,11
+NA,2020-02-10,135
+Dänemark,2020-02-10,0
+Tschechische Republik,2020-02-10,0
+Taiwan,2020-02-10,18
+Vietnam,2020-02-10,14
+Russische Föderation,2020-02-10,2
+Republik Moldau,2020-02-10,0
+Bolivien,2020-02-10,0
+Honduras,2020-02-10,0
+Großbritannien,2020-02-10,8
+Demokratische Republik Kongo,2020-02-10,0
+Elfenbeinküste,2020-02-10,0
+Jamaika,2020-02-10,0
+Reunion,2020-02-10,0
+Türkei,2020-02-10,0
+Kuba,2020-02-10,0
+Guyana,2020-02-10,0
+Kasachstan,2020-02-10,0
+Cayman Inseln,2020-02-10,0
+Guadeloupe,2020-02-10,0
+Äthiopien,2020-02-10,0
+Sudan,2020-02-10,0
+Guinea,2020-02-10,0
+Aruba,2020-02-10,0
+Kenia,2020-02-10,0
+Antigua und Barbuda,2020-02-10,0
+Uruguay,2020-02-10,0
+Ghana,2020-02-10,0
+Jersey,2020-02-10,0
+Namibia,2020-02-10,0
+Seychellen,2020-02-10,0
+Trinidad und Tobago,2020-02-10,0
+Venezuela,2020-02-10,0
+Curacao,2020-02-10,0
+Swasiland,2020-02-10,0
+Gabun,2020-02-10,0
+Guatemala,2020-02-10,0
+Guernsey,2020-02-10,0
+Mauretanien,2020-02-10,0
+Ruanda,2020-02-10,0
+Saint Lucia,2020-02-10,0
+St. Vincent und die Grenadinen,2020-02-10,0
+Surinam,2020-02-10,0
+Palästina,2020-02-10,0
+Kosovo,2020-02-10,0
+Zentralafrikanische Republik,2020-02-10,0
+Kongo,2020-02-10,0
+Äquatorialguinea,2020-02-10,0
+Usbekistan,2020-02-10,0
+Thailand,2020-02-11,33
+Japan,2020-02-11,26
+Singapur,2020-02-11,47
+Nepal,2020-02-11,1
+Malaysia,2020-02-11,18
+Kanada,2020-02-11,7
+Australien,2020-02-11,15
+Kambodscha,2020-02-11,1
+Sri Lanka,2020-02-11,1
+Deutschland,2020-02-11,16
+Finnland,2020-02-11,1
+Vereinigte Arabische Emirate,2020-02-11,8
+Philippinen,2020-02-11,3
+Indien,2020-02-11,3
+Italien,2020-02-11,3
+Schweden,2020-02-11,1
+Spanien,2020-02-11,2
+Belgien,2020-02-11,1
+Ägypten,2020-02-11,0
+Libanon,2020-02-11,0
+Irak,2020-02-11,0
+Oman,2020-02-11,0
+Afghanistan,2020-02-11,0
+Bahrain,2020-02-11,0
+Kuwait,2020-02-11,0
+Algerien,2020-02-11,0
+Kroatien,2020-02-11,0
+Schweiz,2020-02-11,0
+Österreich,2020-02-11,0
+Israel,2020-02-11,0
+Pakistan,2020-02-11,0
+Brasilien,2020-02-11,0
+Georgien,2020-02-11,0
+Griechenland,2020-02-11,0
+Mazedonien,2020-02-11,0
+Norwegen,2020-02-11,0
+Rumänien,2020-02-11,0
+Estland,2020-02-11,0
+Niederlande,2020-02-11,0
+San Marino,2020-02-11,0
+Weißrussland,2020-02-11,0
+Island,2020-02-11,0
+Litauen,2020-02-11,0
+Mexiko,2020-02-11,0
+Neuseeland,2020-02-11,0
+Nigeria,2020-02-11,0
+Irland,2020-02-11,0
+Luxemburg,2020-02-11,0
+Monaco,2020-02-11,0
+Katar,2020-02-11,0
+Ecuador,2020-02-11,0
+Aserbaidschan,2020-02-11,0
+Armenien,2020-02-11,0
+Dominikanische Republik,2020-02-11,0
+Indonesien,2020-02-11,0
+Portugal,2020-02-11,0
+Andorra,2020-02-11,0
+Lettland,2020-02-11,0
+Marokko,2020-02-11,0
+Saudi Arabien,2020-02-11,0
+Senegal,2020-02-11,0
+Argentinien,2020-02-11,0
+Chile,2020-02-11,0
+Jordanien,2020-02-11,0
+Ukraine,2020-02-11,0
+Ungarn,2020-02-11,0
+Liechtenstein,2020-02-11,0
+Polen,2020-02-11,0
+Tunesien,2020-02-11,0
+Bosnien und Herzegowina,2020-02-11,0
+Slowenien,2020-02-11,0
+Südafrika,2020-02-11,0
+Bhutan,2020-02-11,0
+Kamerun,2020-02-11,0
+Kolumbien,2020-02-11,0
+Costa Rica,2020-02-11,0
+Peru,2020-02-11,0
+Serbien,2020-02-11,0
+Slowakei,2020-02-11,0
+Togo,2020-02-11,0
+Malta,2020-02-11,0
+Martinique,2020-02-11,0
+Bulgarien,2020-02-11,0
+Malediven,2020-02-11,0
+Bangladesch,2020-02-11,0
+Paraguay,2020-02-11,0
+Albanien,2020-02-11,0
+Zypern,2020-02-11,0
+Brunei Darussalam,2020-02-11,0
+Vereinigte Staaten,2020-02-11,12
+Burkina Faso,2020-02-11,0
+Vatikanstaat,2020-02-11,0
+Mongolei,2020-02-11,0
+Panama,2020-02-11,0
+China,2020-02-11,44386
+Iran,2020-02-11,0
+Südkorea,2020-02-11,28
+Frankreich,2020-02-11,11
+NA,2020-02-11,135
+Dänemark,2020-02-11,0
+Tschechische Republik,2020-02-11,0
+Taiwan,2020-02-11,18
+Vietnam,2020-02-11,15
+Russische Föderation,2020-02-11,2
+Republik Moldau,2020-02-11,0
+Bolivien,2020-02-11,0
+Honduras,2020-02-11,0
+Großbritannien,2020-02-11,8
+Demokratische Republik Kongo,2020-02-11,0
+Elfenbeinküste,2020-02-11,0
+Jamaika,2020-02-11,0
+Reunion,2020-02-11,0
+Türkei,2020-02-11,0
+Kuba,2020-02-11,0
+Guyana,2020-02-11,0
+Kasachstan,2020-02-11,0
+Cayman Inseln,2020-02-11,0
+Guadeloupe,2020-02-11,0
+Äthiopien,2020-02-11,0
+Sudan,2020-02-11,0
+Guinea,2020-02-11,0
+Aruba,2020-02-11,0
+Kenia,2020-02-11,0
+Antigua und Barbuda,2020-02-11,0
+Uruguay,2020-02-11,0
+Ghana,2020-02-11,0
+Jersey,2020-02-11,0
+Namibia,2020-02-11,0
+Seychellen,2020-02-11,0
+Trinidad und Tobago,2020-02-11,0
+Venezuela,2020-02-11,0
+Curacao,2020-02-11,0
+Swasiland,2020-02-11,0
+Gabun,2020-02-11,0
+Guatemala,2020-02-11,0
+Guernsey,2020-02-11,0
+Mauretanien,2020-02-11,0
+Ruanda,2020-02-11,0
+Saint Lucia,2020-02-11,0
+St. Vincent und die Grenadinen,2020-02-11,0
+Surinam,2020-02-11,0
+Palästina,2020-02-11,0
+Kosovo,2020-02-11,0
+Zentralafrikanische Republik,2020-02-11,0
+Kongo,2020-02-11,0
+Äquatorialguinea,2020-02-11,0
+Usbekistan,2020-02-11,0
+Thailand,2020-02-12,33
+Japan,2020-02-12,28
+Singapur,2020-02-12,50
+Nepal,2020-02-12,1
+Malaysia,2020-02-12,18
+Kanada,2020-02-12,7
+Australien,2020-02-12,15
+Kambodscha,2020-02-12,1
+Sri Lanka,2020-02-12,1
+Deutschland,2020-02-12,16
+Finnland,2020-02-12,1
+Vereinigte Arabische Emirate,2020-02-12,8
+Philippinen,2020-02-12,3
+Indien,2020-02-12,3
+Italien,2020-02-12,3
+Schweden,2020-02-12,1
+Spanien,2020-02-12,2
+Belgien,2020-02-12,1
+Ägypten,2020-02-12,0
+Libanon,2020-02-12,0
+Irak,2020-02-12,0
+Oman,2020-02-12,0
+Afghanistan,2020-02-12,0
+Bahrain,2020-02-12,0
+Kuwait,2020-02-12,0
+Algerien,2020-02-12,0
+Kroatien,2020-02-12,0
+Schweiz,2020-02-12,0
+Österreich,2020-02-12,0
+Israel,2020-02-12,0
+Pakistan,2020-02-12,0
+Brasilien,2020-02-12,0
+Georgien,2020-02-12,0
+Griechenland,2020-02-12,0
+Mazedonien,2020-02-12,0
+Norwegen,2020-02-12,0
+Rumänien,2020-02-12,0
+Estland,2020-02-12,0
+Niederlande,2020-02-12,0
+San Marino,2020-02-12,0
+Weißrussland,2020-02-12,0
+Island,2020-02-12,0
+Litauen,2020-02-12,0
+Mexiko,2020-02-12,0
+Neuseeland,2020-02-12,0
+Nigeria,2020-02-12,0
+Irland,2020-02-12,0
+Luxemburg,2020-02-12,0
+Monaco,2020-02-12,0
+Katar,2020-02-12,0
+Ecuador,2020-02-12,0
+Aserbaidschan,2020-02-12,0
+Armenien,2020-02-12,0
+Dominikanische Republik,2020-02-12,0
+Indonesien,2020-02-12,0
+Portugal,2020-02-12,0
+Andorra,2020-02-12,0
+Lettland,2020-02-12,0
+Marokko,2020-02-12,0
+Saudi Arabien,2020-02-12,0
+Senegal,2020-02-12,0
+Argentinien,2020-02-12,0
+Chile,2020-02-12,0
+Jordanien,2020-02-12,0
+Ukraine,2020-02-12,0
+Ungarn,2020-02-12,0
+Liechtenstein,2020-02-12,0
+Polen,2020-02-12,0
+Tunesien,2020-02-12,0
+Bosnien und Herzegowina,2020-02-12,0
+Slowenien,2020-02-12,0
+Südafrika,2020-02-12,0
+Bhutan,2020-02-12,0
+Kamerun,2020-02-12,0
+Kolumbien,2020-02-12,0
+Costa Rica,2020-02-12,0
+Peru,2020-02-12,0
+Serbien,2020-02-12,0
+Slowakei,2020-02-12,0
+Togo,2020-02-12,0
+Malta,2020-02-12,0
+Martinique,2020-02-12,0
+Bulgarien,2020-02-12,0
+Malediven,2020-02-12,0
+Bangladesch,2020-02-12,0
+Paraguay,2020-02-12,0
+Albanien,2020-02-12,0
+Zypern,2020-02-12,0
+Brunei Darussalam,2020-02-12,0
+Vereinigte Staaten,2020-02-12,12
+Burkina Faso,2020-02-12,0
+Vatikanstaat,2020-02-12,0
+Mongolei,2020-02-12,0
+Panama,2020-02-12,0
+China,2020-02-12,44759
+Iran,2020-02-12,0
+Südkorea,2020-02-12,28
+Frankreich,2020-02-12,11
+NA,2020-02-12,175
+Dänemark,2020-02-12,0
+Tschechische Republik,2020-02-12,0
+Taiwan,2020-02-12,18
+Vietnam,2020-02-12,15
+Russische Föderation,2020-02-12,2
+Republik Moldau,2020-02-12,0
+Bolivien,2020-02-12,0
+Honduras,2020-02-12,0
+Großbritannien,2020-02-12,9
+Demokratische Republik Kongo,2020-02-12,0
+Elfenbeinküste,2020-02-12,0
+Jamaika,2020-02-12,0
+Reunion,2020-02-12,0
+Türkei,2020-02-12,0
+Kuba,2020-02-12,0
+Guyana,2020-02-12,0
+Kasachstan,2020-02-12,0
+Cayman Inseln,2020-02-12,0
+Guadeloupe,2020-02-12,0
+Äthiopien,2020-02-12,0
+Sudan,2020-02-12,0
+Guinea,2020-02-12,0
+Aruba,2020-02-12,0
+Kenia,2020-02-12,0
+Antigua und Barbuda,2020-02-12,0
+Uruguay,2020-02-12,0
+Ghana,2020-02-12,0
+Jersey,2020-02-12,0
+Namibia,2020-02-12,0
+Seychellen,2020-02-12,0
+Trinidad und Tobago,2020-02-12,0
+Venezuela,2020-02-12,0
+Curacao,2020-02-12,0
+Swasiland,2020-02-12,0
+Gabun,2020-02-12,0
+Guatemala,2020-02-12,0
+Guernsey,2020-02-12,0
+Mauretanien,2020-02-12,0
+Ruanda,2020-02-12,0
+Saint Lucia,2020-02-12,0
+St. Vincent und die Grenadinen,2020-02-12,0
+Surinam,2020-02-12,0
+Palästina,2020-02-12,0
+Kosovo,2020-02-12,0
+Zentralafrikanische Republik,2020-02-12,0
+Kongo,2020-02-12,0
+Äquatorialguinea,2020-02-12,0
+Usbekistan,2020-02-12,0
+Thailand,2020-02-13,33
+Japan,2020-02-13,28
+Singapur,2020-02-13,58
+Nepal,2020-02-13,1
+Malaysia,2020-02-13,19
+Kanada,2020-02-13,7
+Australien,2020-02-13,15
+Kambodscha,2020-02-13,1
+Sri Lanka,2020-02-13,1
+Deutschland,2020-02-13,16
+Finnland,2020-02-13,1
+Vereinigte Arabische Emirate,2020-02-13,8
+Philippinen,2020-02-13,3
+Indien,2020-02-13,3
+Italien,2020-02-13,3
+Schweden,2020-02-13,1
+Spanien,2020-02-13,2
+Belgien,2020-02-13,1
+Ägypten,2020-02-13,0
+Libanon,2020-02-13,0
+Irak,2020-02-13,0
+Oman,2020-02-13,0
+Afghanistan,2020-02-13,0
+Bahrain,2020-02-13,0
+Kuwait,2020-02-13,0
+Algerien,2020-02-13,0
+Kroatien,2020-02-13,0
+Schweiz,2020-02-13,0
+Österreich,2020-02-13,0
+Israel,2020-02-13,0
+Pakistan,2020-02-13,0
+Brasilien,2020-02-13,0
+Georgien,2020-02-13,0
+Griechenland,2020-02-13,0
+Mazedonien,2020-02-13,0
+Norwegen,2020-02-13,0
+Rumänien,2020-02-13,0
+Estland,2020-02-13,0
+Niederlande,2020-02-13,0
+San Marino,2020-02-13,0
+Weißrussland,2020-02-13,0
+Island,2020-02-13,0
+Litauen,2020-02-13,0
+Mexiko,2020-02-13,0
+Neuseeland,2020-02-13,0
+Nigeria,2020-02-13,0
+Irland,2020-02-13,0
+Luxemburg,2020-02-13,0
+Monaco,2020-02-13,0
+Katar,2020-02-13,0
+Ecuador,2020-02-13,0
+Aserbaidschan,2020-02-13,0
+Armenien,2020-02-13,0
+Dominikanische Republik,2020-02-13,0
+Indonesien,2020-02-13,0
+Portugal,2020-02-13,0
+Andorra,2020-02-13,0
+Lettland,2020-02-13,0
+Marokko,2020-02-13,0
+Saudi Arabien,2020-02-13,0
+Senegal,2020-02-13,0
+Argentinien,2020-02-13,0
+Chile,2020-02-13,0
+Jordanien,2020-02-13,0
+Ukraine,2020-02-13,0
+Ungarn,2020-02-13,0
+Liechtenstein,2020-02-13,0
+Polen,2020-02-13,0
+Tunesien,2020-02-13,0
+Bosnien und Herzegowina,2020-02-13,0
+Slowenien,2020-02-13,0
+Südafrika,2020-02-13,0
+Bhutan,2020-02-13,0
+Kamerun,2020-02-13,0
+Kolumbien,2020-02-13,0
+Costa Rica,2020-02-13,0
+Peru,2020-02-13,0
+Serbien,2020-02-13,0
+Slowakei,2020-02-13,0
+Togo,2020-02-13,0
+Malta,2020-02-13,0
+Martinique,2020-02-13,0
+Bulgarien,2020-02-13,0
+Malediven,2020-02-13,0
+Bangladesch,2020-02-13,0
+Paraguay,2020-02-13,0
+Albanien,2020-02-13,0
+Zypern,2020-02-13,0
+Brunei Darussalam,2020-02-13,0
+Vereinigte Staaten,2020-02-13,13
+Burkina Faso,2020-02-13,0
+Vatikanstaat,2020-02-13,0
+Mongolei,2020-02-13,0
+Panama,2020-02-13,0
+China,2020-02-13,59895
+Iran,2020-02-13,0
+Südkorea,2020-02-13,28
+Frankreich,2020-02-13,11
+NA,2020-02-13,175
+Dänemark,2020-02-13,0
+Tschechische Republik,2020-02-13,0
+Taiwan,2020-02-13,18
+Vietnam,2020-02-13,16
+Russische Föderation,2020-02-13,2
+Republik Moldau,2020-02-13,0
+Bolivien,2020-02-13,0
+Honduras,2020-02-13,0
+Großbritannien,2020-02-13,9
+Demokratische Republik Kongo,2020-02-13,0
+Elfenbeinküste,2020-02-13,0
+Jamaika,2020-02-13,0
+Reunion,2020-02-13,0
+Türkei,2020-02-13,0
+Kuba,2020-02-13,0
+Guyana,2020-02-13,0
+Kasachstan,2020-02-13,0
+Cayman Inseln,2020-02-13,0
+Guadeloupe,2020-02-13,0
+Äthiopien,2020-02-13,0
+Sudan,2020-02-13,0
+Guinea,2020-02-13,0
+Aruba,2020-02-13,0
+Kenia,2020-02-13,0
+Antigua und Barbuda,2020-02-13,0
+Uruguay,2020-02-13,0
+Ghana,2020-02-13,0
+Jersey,2020-02-13,0
+Namibia,2020-02-13,0
+Seychellen,2020-02-13,0
+Trinidad und Tobago,2020-02-13,0
+Venezuela,2020-02-13,0
+Curacao,2020-02-13,0
+Swasiland,2020-02-13,0
+Gabun,2020-02-13,0
+Guatemala,2020-02-13,0
+Guernsey,2020-02-13,0
+Mauretanien,2020-02-13,0
+Ruanda,2020-02-13,0
+Saint Lucia,2020-02-13,0
+St. Vincent und die Grenadinen,2020-02-13,0
+Surinam,2020-02-13,0
+Palästina,2020-02-13,0
+Kosovo,2020-02-13,0
+Zentralafrikanische Republik,2020-02-13,0
+Kongo,2020-02-13,0
+Äquatorialguinea,2020-02-13,0
+Usbekistan,2020-02-13,0
+Thailand,2020-02-14,33
+Japan,2020-02-14,29
+Singapur,2020-02-14,67
+Nepal,2020-02-14,1
+Malaysia,2020-02-14,19
+Kanada,2020-02-14,7
+Australien,2020-02-14,15
+Kambodscha,2020-02-14,1
+Sri Lanka,2020-02-14,1
+Deutschland,2020-02-14,16
+Finnland,2020-02-14,1
+Vereinigte Arabische Emirate,2020-02-14,8
+Philippinen,2020-02-14,3
+Indien,2020-02-14,3
+Italien,2020-02-14,3
+Schweden,2020-02-14,1
+Spanien,2020-02-14,2
+Belgien,2020-02-14,1
+Ägypten,2020-02-14,1
+Libanon,2020-02-14,0
+Irak,2020-02-14,0
+Oman,2020-02-14,0
+Afghanistan,2020-02-14,0
+Bahrain,2020-02-14,0
+Kuwait,2020-02-14,0
+Algerien,2020-02-14,0
+Kroatien,2020-02-14,0
+Schweiz,2020-02-14,0
+Österreich,2020-02-14,0
+Israel,2020-02-14,0
+Pakistan,2020-02-14,0
+Brasilien,2020-02-14,0
+Georgien,2020-02-14,0
+Griechenland,2020-02-14,0
+Mazedonien,2020-02-14,0
+Norwegen,2020-02-14,0
+Rumänien,2020-02-14,0
+Estland,2020-02-14,0
+Niederlande,2020-02-14,0
+San Marino,2020-02-14,0
+Weißrussland,2020-02-14,0
+Island,2020-02-14,0
+Litauen,2020-02-14,0
+Mexiko,2020-02-14,0
+Neuseeland,2020-02-14,0
+Nigeria,2020-02-14,0
+Irland,2020-02-14,0
+Luxemburg,2020-02-14,0
+Monaco,2020-02-14,0
+Katar,2020-02-14,0
+Ecuador,2020-02-14,0
+Aserbaidschan,2020-02-14,0
+Armenien,2020-02-14,0
+Dominikanische Republik,2020-02-14,0
+Indonesien,2020-02-14,0
+Portugal,2020-02-14,0
+Andorra,2020-02-14,0
+Lettland,2020-02-14,0
+Marokko,2020-02-14,0
+Saudi Arabien,2020-02-14,0
+Senegal,2020-02-14,0
+Argentinien,2020-02-14,0
+Chile,2020-02-14,0
+Jordanien,2020-02-14,0
+Ukraine,2020-02-14,0
+Ungarn,2020-02-14,0
+Liechtenstein,2020-02-14,0
+Polen,2020-02-14,0
+Tunesien,2020-02-14,0
+Bosnien und Herzegowina,2020-02-14,0
+Slowenien,2020-02-14,0
+Südafrika,2020-02-14,0
+Bhutan,2020-02-14,0
+Kamerun,2020-02-14,0
+Kolumbien,2020-02-14,0
+Costa Rica,2020-02-14,0
+Peru,2020-02-14,0
+Serbien,2020-02-14,0
+Slowakei,2020-02-14,0
+Togo,2020-02-14,0
+Malta,2020-02-14,0
+Martinique,2020-02-14,0
+Bulgarien,2020-02-14,0
+Malediven,2020-02-14,0
+Bangladesch,2020-02-14,0
+Paraguay,2020-02-14,0
+Albanien,2020-02-14,0
+Zypern,2020-02-14,0
+Brunei Darussalam,2020-02-14,0
+Vereinigte Staaten,2020-02-14,13
+Burkina Faso,2020-02-14,0
+Vatikanstaat,2020-02-14,0
+Mongolei,2020-02-14,0
+Panama,2020-02-14,0
+China,2020-02-14,66358
+Iran,2020-02-14,0
+Südkorea,2020-02-14,28
+Frankreich,2020-02-14,11
+NA,2020-02-14,218
+Dänemark,2020-02-14,0
+Tschechische Republik,2020-02-14,0
+Taiwan,2020-02-14,18
+Vietnam,2020-02-14,16
+Russische Föderation,2020-02-14,2
+Republik Moldau,2020-02-14,0
+Bolivien,2020-02-14,0
+Honduras,2020-02-14,0
+Großbritannien,2020-02-14,9
+Demokratische Republik Kongo,2020-02-14,0
+Elfenbeinküste,2020-02-14,0
+Jamaika,2020-02-14,0
+Reunion,2020-02-14,0
+Türkei,2020-02-14,0
+Kuba,2020-02-14,0
+Guyana,2020-02-14,0
+Kasachstan,2020-02-14,0
+Cayman Inseln,2020-02-14,0
+Guadeloupe,2020-02-14,0
+Äthiopien,2020-02-14,0
+Sudan,2020-02-14,0
+Guinea,2020-02-14,0
+Aruba,2020-02-14,0
+Kenia,2020-02-14,0
+Antigua und Barbuda,2020-02-14,0
+Uruguay,2020-02-14,0
+Ghana,2020-02-14,0
+Jersey,2020-02-14,0
+Namibia,2020-02-14,0
+Seychellen,2020-02-14,0
+Trinidad und Tobago,2020-02-14,0
+Venezuela,2020-02-14,0
+Curacao,2020-02-14,0
+Swasiland,2020-02-14,0
+Gabun,2020-02-14,0
+Guatemala,2020-02-14,0
+Guernsey,2020-02-14,0
+Mauretanien,2020-02-14,0
+Ruanda,2020-02-14,0
+Saint Lucia,2020-02-14,0
+St. Vincent und die Grenadinen,2020-02-14,0
+Surinam,2020-02-14,0
+Palästina,2020-02-14,0
+Kosovo,2020-02-14,0
+Zentralafrikanische Republik,2020-02-14,0
+Kongo,2020-02-14,0
+Äquatorialguinea,2020-02-14,0
+Usbekistan,2020-02-14,0
+Thailand,2020-02-15,33
+Japan,2020-02-15,43
+Singapur,2020-02-15,72
+Nepal,2020-02-15,1
+Malaysia,2020-02-15,22
+Kanada,2020-02-15,7
+Australien,2020-02-15,15
+Kambodscha,2020-02-15,1
+Sri Lanka,2020-02-15,1
+Deutschland,2020-02-15,16
+Finnland,2020-02-15,1
+Vereinigte Arabische Emirate,2020-02-15,8
+Philippinen,2020-02-15,3
+Indien,2020-02-15,3
+Italien,2020-02-15,3
+Schweden,2020-02-15,1
+Spanien,2020-02-15,2
+Belgien,2020-02-15,1
+Ägypten,2020-02-15,1
+Libanon,2020-02-15,0
+Irak,2020-02-15,0
+Oman,2020-02-15,0
+Afghanistan,2020-02-15,0
+Bahrain,2020-02-15,0
+Kuwait,2020-02-15,0
+Algerien,2020-02-15,0
+Kroatien,2020-02-15,0
+Schweiz,2020-02-15,0
+Österreich,2020-02-15,0
+Israel,2020-02-15,0
+Pakistan,2020-02-15,0
+Brasilien,2020-02-15,0
+Georgien,2020-02-15,0
+Griechenland,2020-02-15,0
+Mazedonien,2020-02-15,0
+Norwegen,2020-02-15,0
+Rumänien,2020-02-15,0
+Estland,2020-02-15,0
+Niederlande,2020-02-15,0
+San Marino,2020-02-15,0
+Weißrussland,2020-02-15,0
+Island,2020-02-15,0
+Litauen,2020-02-15,0
+Mexiko,2020-02-15,0
+Neuseeland,2020-02-15,0
+Nigeria,2020-02-15,0
+Irland,2020-02-15,0
+Luxemburg,2020-02-15,0
+Monaco,2020-02-15,0
+Katar,2020-02-15,0
+Ecuador,2020-02-15,0
+Aserbaidschan,2020-02-15,0
+Armenien,2020-02-15,0
+Dominikanische Republik,2020-02-15,0
+Indonesien,2020-02-15,0
+Portugal,2020-02-15,0
+Andorra,2020-02-15,0
+Lettland,2020-02-15,0
+Marokko,2020-02-15,0
+Saudi Arabien,2020-02-15,0
+Senegal,2020-02-15,0
+Argentinien,2020-02-15,0
+Chile,2020-02-15,0
+Jordanien,2020-02-15,0
+Ukraine,2020-02-15,0
+Ungarn,2020-02-15,0
+Liechtenstein,2020-02-15,0
+Polen,2020-02-15,0
+Tunesien,2020-02-15,0
+Bosnien und Herzegowina,2020-02-15,0
+Slowenien,2020-02-15,0
+Südafrika,2020-02-15,0
+Bhutan,2020-02-15,0
+Kamerun,2020-02-15,0
+Kolumbien,2020-02-15,0
+Costa Rica,2020-02-15,0
+Peru,2020-02-15,0
+Serbien,2020-02-15,0
+Slowakei,2020-02-15,0
+Togo,2020-02-15,0
+Malta,2020-02-15,0
+Martinique,2020-02-15,0
+Bulgarien,2020-02-15,0
+Malediven,2020-02-15,0
+Bangladesch,2020-02-15,0
+Paraguay,2020-02-15,0
+Albanien,2020-02-15,0
+Zypern,2020-02-15,0
+Brunei Darussalam,2020-02-15,0
+Vereinigte Staaten,2020-02-15,13
+Burkina Faso,2020-02-15,0
+Vatikanstaat,2020-02-15,0
+Mongolei,2020-02-15,0
+Panama,2020-02-15,0
+China,2020-02-15,68413
+Iran,2020-02-15,0
+Südkorea,2020-02-15,28
+Frankreich,2020-02-15,12
+NA,2020-02-15,285
+Dänemark,2020-02-15,0
+Tschechische Republik,2020-02-15,0
+Taiwan,2020-02-15,18
+Vietnam,2020-02-15,16
+Russische Föderation,2020-02-15,2
+Republik Moldau,2020-02-15,0
+Bolivien,2020-02-15,0
+Honduras,2020-02-15,0
+Großbritannien,2020-02-15,9
+Demokratische Republik Kongo,2020-02-15,0
+Elfenbeinküste,2020-02-15,0
+Jamaika,2020-02-15,0
+Reunion,2020-02-15,0
+Türkei,2020-02-15,0
+Kuba,2020-02-15,0
+Guyana,2020-02-15,0
+Kasachstan,2020-02-15,0
+Cayman Inseln,2020-02-15,0
+Guadeloupe,2020-02-15,0
+Äthiopien,2020-02-15,0
+Sudan,2020-02-15,0
+Guinea,2020-02-15,0
+Aruba,2020-02-15,0
+Kenia,2020-02-15,0
+Antigua und Barbuda,2020-02-15,0
+Uruguay,2020-02-15,0
+Ghana,2020-02-15,0
+Jersey,2020-02-15,0
+Namibia,2020-02-15,0
+Seychellen,2020-02-15,0
+Trinidad und Tobago,2020-02-15,0
+Venezuela,2020-02-15,0
+Curacao,2020-02-15,0
+Swasiland,2020-02-15,0
+Gabun,2020-02-15,0
+Guatemala,2020-02-15,0
+Guernsey,2020-02-15,0
+Mauretanien,2020-02-15,0
+Ruanda,2020-02-15,0
+Saint Lucia,2020-02-15,0
+St. Vincent und die Grenadinen,2020-02-15,0
+Surinam,2020-02-15,0
+Palästina,2020-02-15,0
+Kosovo,2020-02-15,0
+Zentralafrikanische Republik,2020-02-15,0
+Kongo,2020-02-15,0
+Äquatorialguinea,2020-02-15,0
+Usbekistan,2020-02-15,0
+Thailand,2020-02-16,34
+Japan,2020-02-16,59
+Singapur,2020-02-16,75
+Nepal,2020-02-16,1
+Malaysia,2020-02-16,22
+Kanada,2020-02-16,7
+Australien,2020-02-16,15
+Kambodscha,2020-02-16,1
+Sri Lanka,2020-02-16,1
+Deutschland,2020-02-16,16
+Finnland,2020-02-16,1
+Vereinigte Arabische Emirate,2020-02-16,9
+Philippinen,2020-02-16,3
+Indien,2020-02-16,3
+Italien,2020-02-16,3
+Schweden,2020-02-16,1
+Spanien,2020-02-16,2
+Belgien,2020-02-16,1
+Ägypten,2020-02-16,1
+Libanon,2020-02-16,0
+Irak,2020-02-16,0
+Oman,2020-02-16,0
+Afghanistan,2020-02-16,0
+Bahrain,2020-02-16,0
+Kuwait,2020-02-16,0
+Algerien,2020-02-16,0
+Kroatien,2020-02-16,0
+Schweiz,2020-02-16,0
+Österreich,2020-02-16,0
+Israel,2020-02-16,0
+Pakistan,2020-02-16,0
+Brasilien,2020-02-16,0
+Georgien,2020-02-16,0
+Griechenland,2020-02-16,0
+Mazedonien,2020-02-16,0
+Norwegen,2020-02-16,0
+Rumänien,2020-02-16,0
+Estland,2020-02-16,0
+Niederlande,2020-02-16,0
+San Marino,2020-02-16,0
+Weißrussland,2020-02-16,0
+Island,2020-02-16,0
+Litauen,2020-02-16,0
+Mexiko,2020-02-16,0
+Neuseeland,2020-02-16,0
+Nigeria,2020-02-16,0
+Irland,2020-02-16,0
+Luxemburg,2020-02-16,0
+Monaco,2020-02-16,0
+Katar,2020-02-16,0
+Ecuador,2020-02-16,0
+Aserbaidschan,2020-02-16,0
+Armenien,2020-02-16,0
+Dominikanische Republik,2020-02-16,0
+Indonesien,2020-02-16,0
+Portugal,2020-02-16,0
+Andorra,2020-02-16,0
+Lettland,2020-02-16,0
+Marokko,2020-02-16,0
+Saudi Arabien,2020-02-16,0
+Senegal,2020-02-16,0
+Argentinien,2020-02-16,0
+Chile,2020-02-16,0
+Jordanien,2020-02-16,0
+Ukraine,2020-02-16,0
+Ungarn,2020-02-16,0
+Liechtenstein,2020-02-16,0
+Polen,2020-02-16,0
+Tunesien,2020-02-16,0
+Bosnien und Herzegowina,2020-02-16,0
+Slowenien,2020-02-16,0
+Südafrika,2020-02-16,0
+Bhutan,2020-02-16,0
+Kamerun,2020-02-16,0
+Kolumbien,2020-02-16,0
+Costa Rica,2020-02-16,0
+Peru,2020-02-16,0
+Serbien,2020-02-16,0
+Slowakei,2020-02-16,0
+Togo,2020-02-16,0
+Malta,2020-02-16,0
+Martinique,2020-02-16,0
+Bulgarien,2020-02-16,0
+Malediven,2020-02-16,0
+Bangladesch,2020-02-16,0
+Paraguay,2020-02-16,0
+Albanien,2020-02-16,0
+Zypern,2020-02-16,0
+Brunei Darussalam,2020-02-16,0
+Vereinigte Staaten,2020-02-16,13
+Burkina Faso,2020-02-16,0
+Vatikanstaat,2020-02-16,0
+Mongolei,2020-02-16,0
+Panama,2020-02-16,0
+China,2020-02-16,70513
+Iran,2020-02-16,0
+Südkorea,2020-02-16,29
+Frankreich,2020-02-16,12
+NA,2020-02-16,355
+Dänemark,2020-02-16,0
+Tschechische Republik,2020-02-16,0
+Taiwan,2020-02-16,20
+Vietnam,2020-02-16,16
+Russische Föderation,2020-02-16,2
+Republik Moldau,2020-02-16,0
+Bolivien,2020-02-16,0
+Honduras,2020-02-16,0
+Großbritannien,2020-02-16,9
+Demokratische Republik Kongo,2020-02-16,0
+Elfenbeinküste,2020-02-16,0
+Jamaika,2020-02-16,0
+Reunion,2020-02-16,0
+Türkei,2020-02-16,0
+Kuba,2020-02-16,0
+Guyana,2020-02-16,0
+Kasachstan,2020-02-16,0
+Cayman Inseln,2020-02-16,0
+Guadeloupe,2020-02-16,0
+Äthiopien,2020-02-16,0
+Sudan,2020-02-16,0
+Guinea,2020-02-16,0
+Aruba,2020-02-16,0
+Kenia,2020-02-16,0
+Antigua und Barbuda,2020-02-16,0
+Uruguay,2020-02-16,0
+Ghana,2020-02-16,0
+Jersey,2020-02-16,0
+Namibia,2020-02-16,0
+Seychellen,2020-02-16,0
+Trinidad und Tobago,2020-02-16,0
+Venezuela,2020-02-16,0
+Curacao,2020-02-16,0
+Swasiland,2020-02-16,0
+Gabun,2020-02-16,0
+Guatemala,2020-02-16,0
+Guernsey,2020-02-16,0
+Mauretanien,2020-02-16,0
+Ruanda,2020-02-16,0
+Saint Lucia,2020-02-16,0
+St. Vincent und die Grenadinen,2020-02-16,0
+Surinam,2020-02-16,0
+Palästina,2020-02-16,0
+Kosovo,2020-02-16,0
+Zentralafrikanische Republik,2020-02-16,0
+Kongo,2020-02-16,0
+Äquatorialguinea,2020-02-16,0
+Usbekistan,2020-02-16,0
+Thailand,2020-02-17,35
+Japan,2020-02-17,66
+Singapur,2020-02-17,77
+Nepal,2020-02-17,1
+Malaysia,2020-02-17,22
+Kanada,2020-02-17,8
+Australien,2020-02-17,15
+Kambodscha,2020-02-17,1
+Sri Lanka,2020-02-17,1
+Deutschland,2020-02-17,16
+Finnland,2020-02-17,1
+Vereinigte Arabische Emirate,2020-02-17,9
+Philippinen,2020-02-17,3
+Indien,2020-02-17,3
+Italien,2020-02-17,3
+Schweden,2020-02-17,1
+Spanien,2020-02-17,2
+Belgien,2020-02-17,1
+Ägypten,2020-02-17,1
+Libanon,2020-02-17,0
+Irak,2020-02-17,0
+Oman,2020-02-17,0
+Afghanistan,2020-02-17,0
+Bahrain,2020-02-17,0
+Kuwait,2020-02-17,0
+Algerien,2020-02-17,0
+Kroatien,2020-02-17,0
+Schweiz,2020-02-17,0
+Österreich,2020-02-17,0
+Israel,2020-02-17,0
+Pakistan,2020-02-17,0
+Brasilien,2020-02-17,0
+Georgien,2020-02-17,0
+Griechenland,2020-02-17,0
+Mazedonien,2020-02-17,0
+Norwegen,2020-02-17,0
+Rumänien,2020-02-17,0
+Estland,2020-02-17,0
+Niederlande,2020-02-17,0
+San Marino,2020-02-17,0
+Weißrussland,2020-02-17,0
+Island,2020-02-17,0
+Litauen,2020-02-17,0
+Mexiko,2020-02-17,0
+Neuseeland,2020-02-17,0
+Nigeria,2020-02-17,0
+Irland,2020-02-17,0
+Luxemburg,2020-02-17,0
+Monaco,2020-02-17,0
+Katar,2020-02-17,0
+Ecuador,2020-02-17,0
+Aserbaidschan,2020-02-17,0
+Armenien,2020-02-17,0
+Dominikanische Republik,2020-02-17,0
+Indonesien,2020-02-17,0
+Portugal,2020-02-17,0
+Andorra,2020-02-17,0
+Lettland,2020-02-17,0
+Marokko,2020-02-17,0
+Saudi Arabien,2020-02-17,0
+Senegal,2020-02-17,0
+Argentinien,2020-02-17,0
+Chile,2020-02-17,0
+Jordanien,2020-02-17,0
+Ukraine,2020-02-17,0
+Ungarn,2020-02-17,0
+Liechtenstein,2020-02-17,0
+Polen,2020-02-17,0
+Tunesien,2020-02-17,0
+Bosnien und Herzegowina,2020-02-17,0
+Slowenien,2020-02-17,0
+Südafrika,2020-02-17,0
+Bhutan,2020-02-17,0
+Kamerun,2020-02-17,0
+Kolumbien,2020-02-17,0
+Costa Rica,2020-02-17,0
+Peru,2020-02-17,0
+Serbien,2020-02-17,0
+Slowakei,2020-02-17,0
+Togo,2020-02-17,0
+Malta,2020-02-17,0
+Martinique,2020-02-17,0
+Bulgarien,2020-02-17,0
+Malediven,2020-02-17,0
+Bangladesch,2020-02-17,0
+Paraguay,2020-02-17,0
+Albanien,2020-02-17,0
+Zypern,2020-02-17,0
+Brunei Darussalam,2020-02-17,0
+Vereinigte Staaten,2020-02-17,13
+Burkina Faso,2020-02-17,0
+Vatikanstaat,2020-02-17,0
+Mongolei,2020-02-17,0
+Panama,2020-02-17,0
+China,2020-02-17,72434
+Iran,2020-02-17,0
+Südkorea,2020-02-17,30
+Frankreich,2020-02-17,12
+NA,2020-02-17,454
+Dänemark,2020-02-17,0
+Tschechische Republik,2020-02-17,0
+Taiwan,2020-02-17,22
+Vietnam,2020-02-17,16
+Russische Föderation,2020-02-17,2
+Republik Moldau,2020-02-17,0
+Bolivien,2020-02-17,0
+Honduras,2020-02-17,0
+Großbritannien,2020-02-17,9
+Demokratische Republik Kongo,2020-02-17,0
+Elfenbeinküste,2020-02-17,0
+Jamaika,2020-02-17,0
+Reunion,2020-02-17,0
+Türkei,2020-02-17,0
+Kuba,2020-02-17,0
+Guyana,2020-02-17,0
+Kasachstan,2020-02-17,0
+Cayman Inseln,2020-02-17,0
+Guadeloupe,2020-02-17,0
+Äthiopien,2020-02-17,0
+Sudan,2020-02-17,0
+Guinea,2020-02-17,0
+Aruba,2020-02-17,0
+Kenia,2020-02-17,0
+Antigua und Barbuda,2020-02-17,0
+Uruguay,2020-02-17,0
+Ghana,2020-02-17,0
+Jersey,2020-02-17,0
+Namibia,2020-02-17,0
+Seychellen,2020-02-17,0
+Trinidad und Tobago,2020-02-17,0
+Venezuela,2020-02-17,0
+Curacao,2020-02-17,0
+Swasiland,2020-02-17,0
+Gabun,2020-02-17,0
+Guatemala,2020-02-17,0
+Guernsey,2020-02-17,0
+Mauretanien,2020-02-17,0
+Ruanda,2020-02-17,0
+Saint Lucia,2020-02-17,0
+St. Vincent und die Grenadinen,2020-02-17,0
+Surinam,2020-02-17,0
+Palästina,2020-02-17,0
+Kosovo,2020-02-17,0
+Zentralafrikanische Republik,2020-02-17,0
+Kongo,2020-02-17,0
+Äquatorialguinea,2020-02-17,0
+Usbekistan,2020-02-17,0
+Thailand,2020-02-18,35
+Japan,2020-02-18,74
+Singapur,2020-02-18,81
+Nepal,2020-02-18,1
+Malaysia,2020-02-18,22
+Kanada,2020-02-18,8
+Australien,2020-02-18,15
+Kambodscha,2020-02-18,1
+Sri Lanka,2020-02-18,1
+Deutschland,2020-02-18,16
+Finnland,2020-02-18,1
+Vereinigte Arabische Emirate,2020-02-18,9
+Philippinen,2020-02-18,3
+Indien,2020-02-18,3
+Italien,2020-02-18,3
+Schweden,2020-02-18,1
+Spanien,2020-02-18,2
+Belgien,2020-02-18,1
+Ägypten,2020-02-18,1
+Libanon,2020-02-18,0
+Irak,2020-02-18,0
+Oman,2020-02-18,0
+Afghanistan,2020-02-18,0
+Bahrain,2020-02-18,0
+Kuwait,2020-02-18,0
+Algerien,2020-02-18,0
+Kroatien,2020-02-18,0
+Schweiz,2020-02-18,0
+Österreich,2020-02-18,0
+Israel,2020-02-18,0
+Pakistan,2020-02-18,0
+Brasilien,2020-02-18,0
+Georgien,2020-02-18,0
+Griechenland,2020-02-18,0
+Mazedonien,2020-02-18,0
+Norwegen,2020-02-18,0
+Rumänien,2020-02-18,0
+Estland,2020-02-18,0
+Niederlande,2020-02-18,0
+San Marino,2020-02-18,0
+Weißrussland,2020-02-18,0
+Island,2020-02-18,0
+Litauen,2020-02-18,0
+Mexiko,2020-02-18,0
+Neuseeland,2020-02-18,0
+Nigeria,2020-02-18,0
+Irland,2020-02-18,0
+Luxemburg,2020-02-18,0
+Monaco,2020-02-18,0
+Katar,2020-02-18,0
+Ecuador,2020-02-18,0
+Aserbaidschan,2020-02-18,0
+Armenien,2020-02-18,0
+Dominikanische Republik,2020-02-18,0
+Indonesien,2020-02-18,0
+Portugal,2020-02-18,0
+Andorra,2020-02-18,0
+Lettland,2020-02-18,0
+Marokko,2020-02-18,0
+Saudi Arabien,2020-02-18,0
+Senegal,2020-02-18,0
+Argentinien,2020-02-18,0
+Chile,2020-02-18,0
+Jordanien,2020-02-18,0
+Ukraine,2020-02-18,0
+Ungarn,2020-02-18,0
+Liechtenstein,2020-02-18,0
+Polen,2020-02-18,0
+Tunesien,2020-02-18,0
+Bosnien und Herzegowina,2020-02-18,0
+Slowenien,2020-02-18,0
+Südafrika,2020-02-18,0
+Bhutan,2020-02-18,0
+Kamerun,2020-02-18,0
+Kolumbien,2020-02-18,0
+Costa Rica,2020-02-18,0
+Peru,2020-02-18,0
+Serbien,2020-02-18,0
+Slowakei,2020-02-18,0
+Togo,2020-02-18,0
+Malta,2020-02-18,0
+Martinique,2020-02-18,0
+Bulgarien,2020-02-18,0
+Malediven,2020-02-18,0
+Bangladesch,2020-02-18,0
+Paraguay,2020-02-18,0
+Albanien,2020-02-18,0
+Zypern,2020-02-18,0
+Brunei Darussalam,2020-02-18,0
+Vereinigte Staaten,2020-02-18,13
+Burkina Faso,2020-02-18,0
+Vatikanstaat,2020-02-18,0
+Mongolei,2020-02-18,0
+Panama,2020-02-18,0
+China,2020-02-18,74211
+Iran,2020-02-18,0
+Südkorea,2020-02-18,31
+Frankreich,2020-02-18,12
+NA,2020-02-18,542
+Dänemark,2020-02-18,0
+Tschechische Republik,2020-02-18,0
+Taiwan,2020-02-18,22
+Vietnam,2020-02-18,16
+Russische Föderation,2020-02-18,2
+Republik Moldau,2020-02-18,0
+Bolivien,2020-02-18,0
+Honduras,2020-02-18,0
+Großbritannien,2020-02-18,9
+Demokratische Republik Kongo,2020-02-18,0
+Elfenbeinküste,2020-02-18,0
+Jamaika,2020-02-18,0
+Reunion,2020-02-18,0
+Türkei,2020-02-18,0
+Kuba,2020-02-18,0
+Guyana,2020-02-18,0
+Kasachstan,2020-02-18,0
+Cayman Inseln,2020-02-18,0
+Guadeloupe,2020-02-18,0
+Äthiopien,2020-02-18,0
+Sudan,2020-02-18,0
+Guinea,2020-02-18,0
+Aruba,2020-02-18,0
+Kenia,2020-02-18,0
+Antigua und Barbuda,2020-02-18,0
+Uruguay,2020-02-18,0
+Ghana,2020-02-18,0
+Jersey,2020-02-18,0
+Namibia,2020-02-18,0
+Seychellen,2020-02-18,0
+Trinidad und Tobago,2020-02-18,0
+Venezuela,2020-02-18,0
+Curacao,2020-02-18,0
+Swasiland,2020-02-18,0
+Gabun,2020-02-18,0
+Guatemala,2020-02-18,0
+Guernsey,2020-02-18,0
+Mauretanien,2020-02-18,0
+Ruanda,2020-02-18,0
+Saint Lucia,2020-02-18,0
+St. Vincent und die Grenadinen,2020-02-18,0
+Surinam,2020-02-18,0
+Palästina,2020-02-18,0
+Kosovo,2020-02-18,0
+Zentralafrikanische Republik,2020-02-18,0
+Kongo,2020-02-18,0
+Äquatorialguinea,2020-02-18,0
+Usbekistan,2020-02-18,0
+Thailand,2020-02-19,35
+Japan,2020-02-19,84
+Singapur,2020-02-19,84
+Nepal,2020-02-19,1
+Malaysia,2020-02-19,22
+Kanada,2020-02-19,8
+Australien,2020-02-19,15
+Kambodscha,2020-02-19,1
+Sri Lanka,2020-02-19,1
+Deutschland,2020-02-19,16
+Finnland,2020-02-19,1
+Vereinigte Arabische Emirate,2020-02-19,9
+Philippinen,2020-02-19,3
+Indien,2020-02-19,3
+Italien,2020-02-19,3
+Schweden,2020-02-19,1
+Spanien,2020-02-19,2
+Belgien,2020-02-19,1
+Ägypten,2020-02-19,1
+Libanon,2020-02-19,0
+Irak,2020-02-19,0
+Oman,2020-02-19,0
+Afghanistan,2020-02-19,0
+Bahrain,2020-02-19,0
+Kuwait,2020-02-19,0
+Algerien,2020-02-19,0
+Kroatien,2020-02-19,0
+Schweiz,2020-02-19,0
+Österreich,2020-02-19,0
+Israel,2020-02-19,0
+Pakistan,2020-02-19,0
+Brasilien,2020-02-19,0
+Georgien,2020-02-19,0
+Griechenland,2020-02-19,0
+Mazedonien,2020-02-19,0
+Norwegen,2020-02-19,0
+Rumänien,2020-02-19,0
+Estland,2020-02-19,0
+Niederlande,2020-02-19,0
+San Marino,2020-02-19,0
+Weißrussland,2020-02-19,0
+Island,2020-02-19,0
+Litauen,2020-02-19,0
+Mexiko,2020-02-19,0
+Neuseeland,2020-02-19,0
+Nigeria,2020-02-19,0
+Irland,2020-02-19,0
+Luxemburg,2020-02-19,0
+Monaco,2020-02-19,0
+Katar,2020-02-19,0
+Ecuador,2020-02-19,0
+Aserbaidschan,2020-02-19,0
+Armenien,2020-02-19,0
+Dominikanische Republik,2020-02-19,0
+Indonesien,2020-02-19,0
+Portugal,2020-02-19,0
+Andorra,2020-02-19,0
+Lettland,2020-02-19,0
+Marokko,2020-02-19,0
+Saudi Arabien,2020-02-19,0
+Senegal,2020-02-19,0
+Argentinien,2020-02-19,0
+Chile,2020-02-19,0
+Jordanien,2020-02-19,0
+Ukraine,2020-02-19,0
+Ungarn,2020-02-19,0
+Liechtenstein,2020-02-19,0
+Polen,2020-02-19,0
+Tunesien,2020-02-19,0
+Bosnien und Herzegowina,2020-02-19,0
+Slowenien,2020-02-19,0
+Südafrika,2020-02-19,0
+Bhutan,2020-02-19,0
+Kamerun,2020-02-19,0
+Kolumbien,2020-02-19,0
+Costa Rica,2020-02-19,0
+Peru,2020-02-19,0
+Serbien,2020-02-19,0
+Slowakei,2020-02-19,0
+Togo,2020-02-19,0
+Malta,2020-02-19,0
+Martinique,2020-02-19,0
+Bulgarien,2020-02-19,0
+Malediven,2020-02-19,0
+Bangladesch,2020-02-19,0
+Paraguay,2020-02-19,0
+Albanien,2020-02-19,0
+Zypern,2020-02-19,0
+Brunei Darussalam,2020-02-19,0
+Vereinigte Staaten,2020-02-19,13
+Burkina Faso,2020-02-19,0
+Vatikanstaat,2020-02-19,0
+Mongolei,2020-02-19,0
+Panama,2020-02-19,0
+China,2020-02-19,74619
+Iran,2020-02-19,2
+Südkorea,2020-02-19,31
+Frankreich,2020-02-19,12
+NA,2020-02-19,621
+Dänemark,2020-02-19,0
+Tschechische Republik,2020-02-19,0
+Taiwan,2020-02-19,23
+Vietnam,2020-02-19,16
+Russische Föderation,2020-02-19,2
+Republik Moldau,2020-02-19,0
+Bolivien,2020-02-19,0
+Honduras,2020-02-19,0
+Großbritannien,2020-02-19,9
+Demokratische Republik Kongo,2020-02-19,0
+Elfenbeinküste,2020-02-19,0
+Jamaika,2020-02-19,0
+Reunion,2020-02-19,0
+Türkei,2020-02-19,0
+Kuba,2020-02-19,0
+Guyana,2020-02-19,0
+Kasachstan,2020-02-19,0
+Cayman Inseln,2020-02-19,0
+Guadeloupe,2020-02-19,0
+Äthiopien,2020-02-19,0
+Sudan,2020-02-19,0
+Guinea,2020-02-19,0
+Aruba,2020-02-19,0
+Kenia,2020-02-19,0
+Antigua und Barbuda,2020-02-19,0
+Uruguay,2020-02-19,0
+Ghana,2020-02-19,0
+Jersey,2020-02-19,0
+Namibia,2020-02-19,0
+Seychellen,2020-02-19,0
+Trinidad und Tobago,2020-02-19,0
+Venezuela,2020-02-19,0
+Curacao,2020-02-19,0
+Swasiland,2020-02-19,0
+Gabun,2020-02-19,0
+Guatemala,2020-02-19,0
+Guernsey,2020-02-19,0
+Mauretanien,2020-02-19,0
+Ruanda,2020-02-19,0
+Saint Lucia,2020-02-19,0
+St. Vincent und die Grenadinen,2020-02-19,0
+Surinam,2020-02-19,0
+Palästina,2020-02-19,0
+Kosovo,2020-02-19,0
+Zentralafrikanische Republik,2020-02-19,0
+Kongo,2020-02-19,0
+Äquatorialguinea,2020-02-19,0
+Usbekistan,2020-02-19,0
+Thailand,2020-02-20,35
+Japan,2020-02-20,94
+Singapur,2020-02-20,84
+Nepal,2020-02-20,1
+Malaysia,2020-02-20,22
+Kanada,2020-02-20,8
+Australien,2020-02-20,15
+Kambodscha,2020-02-20,1
+Sri Lanka,2020-02-20,1
+Deutschland,2020-02-20,16
+Finnland,2020-02-20,1
+Vereinigte Arabische Emirate,2020-02-20,9
+Philippinen,2020-02-20,3
+Indien,2020-02-20,3
+Italien,2020-02-20,3
+Schweden,2020-02-20,1
+Spanien,2020-02-20,2
+Belgien,2020-02-20,1
+Ägypten,2020-02-20,1
+Libanon,2020-02-20,0
+Irak,2020-02-20,0
+Oman,2020-02-20,0
+Afghanistan,2020-02-20,0
+Bahrain,2020-02-20,0
+Kuwait,2020-02-20,0
+Algerien,2020-02-20,0
+Kroatien,2020-02-20,0
+Schweiz,2020-02-20,0
+Österreich,2020-02-20,0
+Israel,2020-02-20,0
+Pakistan,2020-02-20,0
+Brasilien,2020-02-20,0
+Georgien,2020-02-20,0
+Griechenland,2020-02-20,0
+Mazedonien,2020-02-20,0
+Norwegen,2020-02-20,0
+Rumänien,2020-02-20,0
+Estland,2020-02-20,0
+Niederlande,2020-02-20,0
+San Marino,2020-02-20,0
+Weißrussland,2020-02-20,0
+Island,2020-02-20,0
+Litauen,2020-02-20,0
+Mexiko,2020-02-20,0
+Neuseeland,2020-02-20,0
+Nigeria,2020-02-20,0
+Irland,2020-02-20,0
+Luxemburg,2020-02-20,0
+Monaco,2020-02-20,0
+Katar,2020-02-20,0
+Ecuador,2020-02-20,0
+Aserbaidschan,2020-02-20,0
+Armenien,2020-02-20,0
+Dominikanische Republik,2020-02-20,0
+Indonesien,2020-02-20,0
+Portugal,2020-02-20,0
+Andorra,2020-02-20,0
+Lettland,2020-02-20,0
+Marokko,2020-02-20,0
+Saudi Arabien,2020-02-20,0
+Senegal,2020-02-20,0
+Argentinien,2020-02-20,0
+Chile,2020-02-20,0
+Jordanien,2020-02-20,0
+Ukraine,2020-02-20,0
+Ungarn,2020-02-20,0
+Liechtenstein,2020-02-20,0
+Polen,2020-02-20,0
+Tunesien,2020-02-20,0
+Bosnien und Herzegowina,2020-02-20,0
+Slowenien,2020-02-20,0
+Südafrika,2020-02-20,0
+Bhutan,2020-02-20,0
+Kamerun,2020-02-20,0
+Kolumbien,2020-02-20,0
+Costa Rica,2020-02-20,0
+Peru,2020-02-20,0
+Serbien,2020-02-20,0
+Slowakei,2020-02-20,0
+Togo,2020-02-20,0
+Malta,2020-02-20,0
+Martinique,2020-02-20,0
+Bulgarien,2020-02-20,0
+Malediven,2020-02-20,0
+Bangladesch,2020-02-20,0
+Paraguay,2020-02-20,0
+Albanien,2020-02-20,0
+Zypern,2020-02-20,0
+Brunei Darussalam,2020-02-20,0
+Vereinigte Staaten,2020-02-20,13
+Burkina Faso,2020-02-20,0
+Vatikanstaat,2020-02-20,0
+Mongolei,2020-02-20,0
+Panama,2020-02-20,0
+China,2020-02-20,75077
+Iran,2020-02-20,5
+Südkorea,2020-02-20,104
+Frankreich,2020-02-20,12
+NA,2020-02-20,634
+Dänemark,2020-02-20,0
+Tschechische Republik,2020-02-20,0
+Taiwan,2020-02-20,24
+Vietnam,2020-02-20,16
+Russische Föderation,2020-02-20,2
+Republik Moldau,2020-02-20,0
+Bolivien,2020-02-20,0
+Honduras,2020-02-20,0
+Großbritannien,2020-02-20,9
+Demokratische Republik Kongo,2020-02-20,0
+Elfenbeinküste,2020-02-20,0
+Jamaika,2020-02-20,0
+Reunion,2020-02-20,0
+Türkei,2020-02-20,0
+Kuba,2020-02-20,0
+Guyana,2020-02-20,0
+Kasachstan,2020-02-20,0
+Cayman Inseln,2020-02-20,0
+Guadeloupe,2020-02-20,0
+Äthiopien,2020-02-20,0
+Sudan,2020-02-20,0
+Guinea,2020-02-20,0
+Aruba,2020-02-20,0
+Kenia,2020-02-20,0
+Antigua und Barbuda,2020-02-20,0
+Uruguay,2020-02-20,0
+Ghana,2020-02-20,0
+Jersey,2020-02-20,0
+Namibia,2020-02-20,0
+Seychellen,2020-02-20,0
+Trinidad und Tobago,2020-02-20,0
+Venezuela,2020-02-20,0
+Curacao,2020-02-20,0
+Swasiland,2020-02-20,0
+Gabun,2020-02-20,0
+Guatemala,2020-02-20,0
+Guernsey,2020-02-20,0
+Mauretanien,2020-02-20,0
+Ruanda,2020-02-20,0
+Saint Lucia,2020-02-20,0
+St. Vincent und die Grenadinen,2020-02-20,0
+Surinam,2020-02-20,0
+Palästina,2020-02-20,0
+Kosovo,2020-02-20,0
+Zentralafrikanische Republik,2020-02-20,0
+Kongo,2020-02-20,0
+Äquatorialguinea,2020-02-20,0
+Usbekistan,2020-02-20,0
+Thailand,2020-02-21,35
+Japan,2020-02-21,105
+Singapur,2020-02-21,85
+Nepal,2020-02-21,1
+Malaysia,2020-02-21,22
+Kanada,2020-02-21,9
+Australien,2020-02-21,19
+Kambodscha,2020-02-21,1
+Sri Lanka,2020-02-21,1
+Deutschland,2020-02-21,16
+Finnland,2020-02-21,1
+Vereinigte Arabische Emirate,2020-02-21,9
+Philippinen,2020-02-21,3
+Indien,2020-02-21,3
+Italien,2020-02-21,20
+Schweden,2020-02-21,1
+Spanien,2020-02-21,2
+Belgien,2020-02-21,1
+Ägypten,2020-02-21,1
+Libanon,2020-02-21,1
+Irak,2020-02-21,0
+Oman,2020-02-21,0
+Afghanistan,2020-02-21,0
+Bahrain,2020-02-21,0
+Kuwait,2020-02-21,0
+Algerien,2020-02-21,0
+Kroatien,2020-02-21,0
+Schweiz,2020-02-21,0
+Österreich,2020-02-21,0
+Israel,2020-02-21,1
+Pakistan,2020-02-21,0
+Brasilien,2020-02-21,0
+Georgien,2020-02-21,0
+Griechenland,2020-02-21,0
+Mazedonien,2020-02-21,0
+Norwegen,2020-02-21,0
+Rumänien,2020-02-21,0
+Estland,2020-02-21,0
+Niederlande,2020-02-21,0
+San Marino,2020-02-21,0
+Weißrussland,2020-02-21,0
+Island,2020-02-21,0
+Litauen,2020-02-21,0
+Mexiko,2020-02-21,0
+Neuseeland,2020-02-21,0
+Nigeria,2020-02-21,0
+Irland,2020-02-21,0
+Luxemburg,2020-02-21,0
+Monaco,2020-02-21,0
+Katar,2020-02-21,0
+Ecuador,2020-02-21,0
+Aserbaidschan,2020-02-21,0
+Armenien,2020-02-21,0
+Dominikanische Republik,2020-02-21,0
+Indonesien,2020-02-21,0
+Portugal,2020-02-21,0
+Andorra,2020-02-21,0
+Lettland,2020-02-21,0
+Marokko,2020-02-21,0
+Saudi Arabien,2020-02-21,0
+Senegal,2020-02-21,0
+Argentinien,2020-02-21,0
+Chile,2020-02-21,0
+Jordanien,2020-02-21,0
+Ukraine,2020-02-21,0
+Ungarn,2020-02-21,0
+Liechtenstein,2020-02-21,0
+Polen,2020-02-21,0
+Tunesien,2020-02-21,0
+Bosnien und Herzegowina,2020-02-21,0
+Slowenien,2020-02-21,0
+Südafrika,2020-02-21,0
+Bhutan,2020-02-21,0
+Kamerun,2020-02-21,0
+Kolumbien,2020-02-21,0
+Costa Rica,2020-02-21,0
+Peru,2020-02-21,0
+Serbien,2020-02-21,0
+Slowakei,2020-02-21,0
+Togo,2020-02-21,0
+Malta,2020-02-21,0
+Martinique,2020-02-21,0
+Bulgarien,2020-02-21,0
+Malediven,2020-02-21,0
+Bangladesch,2020-02-21,0
+Paraguay,2020-02-21,0
+Albanien,2020-02-21,0
+Zypern,2020-02-21,0
+Brunei Darussalam,2020-02-21,0
+Vereinigte Staaten,2020-02-21,15
+Burkina Faso,2020-02-21,0
+Vatikanstaat,2020-02-21,0
+Mongolei,2020-02-21,0
+Panama,2020-02-21,0
+China,2020-02-21,75550
+Iran,2020-02-21,18
+Südkorea,2020-02-21,204
+Frankreich,2020-02-21,12
+NA,2020-02-21,634
+Dänemark,2020-02-21,0
+Tschechische Republik,2020-02-21,0
+Taiwan,2020-02-21,26
+Vietnam,2020-02-21,16
+Russische Föderation,2020-02-21,2
+Republik Moldau,2020-02-21,0
+Bolivien,2020-02-21,0
+Honduras,2020-02-21,0
+Großbritannien,2020-02-21,9
+Demokratische Republik Kongo,2020-02-21,0
+Elfenbeinküste,2020-02-21,0
+Jamaika,2020-02-21,0
+Reunion,2020-02-21,0
+Türkei,2020-02-21,0
+Kuba,2020-02-21,0
+Guyana,2020-02-21,0
+Kasachstan,2020-02-21,0
+Cayman Inseln,2020-02-21,0
+Guadeloupe,2020-02-21,0
+Äthiopien,2020-02-21,0
+Sudan,2020-02-21,0
+Guinea,2020-02-21,0
+Aruba,2020-02-21,0
+Kenia,2020-02-21,0
+Antigua und Barbuda,2020-02-21,0
+Uruguay,2020-02-21,0
+Ghana,2020-02-21,0
+Jersey,2020-02-21,0
+Namibia,2020-02-21,0
+Seychellen,2020-02-21,0
+Trinidad und Tobago,2020-02-21,0
+Venezuela,2020-02-21,0
+Curacao,2020-02-21,0
+Swasiland,2020-02-21,0
+Gabun,2020-02-21,0
+Guatemala,2020-02-21,0
+Guernsey,2020-02-21,0
+Mauretanien,2020-02-21,0
+Ruanda,2020-02-21,0
+Saint Lucia,2020-02-21,0
+St. Vincent und die Grenadinen,2020-02-21,0
+Surinam,2020-02-21,0
+Palästina,2020-02-21,0
+Kosovo,2020-02-21,0
+Zentralafrikanische Republik,2020-02-21,0
+Kongo,2020-02-21,0
+Äquatorialguinea,2020-02-21,0
+Usbekistan,2020-02-21,0
+Thailand,2020-02-22,35
+Japan,2020-02-22,122
+Singapur,2020-02-22,85
+Nepal,2020-02-22,1
+Malaysia,2020-02-22,22
+Kanada,2020-02-22,9
+Australien,2020-02-22,22
+Kambodscha,2020-02-22,1
+Sri Lanka,2020-02-22,1
+Deutschland,2020-02-22,16
+Finnland,2020-02-22,1
+Vereinigte Arabische Emirate,2020-02-22,13
+Philippinen,2020-02-22,3
+Indien,2020-02-22,3
+Italien,2020-02-22,62
+Schweden,2020-02-22,1
+Spanien,2020-02-22,2
+Belgien,2020-02-22,1
+Ägypten,2020-02-22,1
+Libanon,2020-02-22,1
+Irak,2020-02-22,0
+Oman,2020-02-22,0
+Afghanistan,2020-02-22,0
+Bahrain,2020-02-22,0
+Kuwait,2020-02-22,0
+Algerien,2020-02-22,0
+Kroatien,2020-02-22,0
+Schweiz,2020-02-22,0
+Österreich,2020-02-22,0
+Israel,2020-02-22,1
+Pakistan,2020-02-22,0
+Brasilien,2020-02-22,0
+Georgien,2020-02-22,0
+Griechenland,2020-02-22,0
+Mazedonien,2020-02-22,0
+Norwegen,2020-02-22,0
+Rumänien,2020-02-22,0
+Estland,2020-02-22,0
+Niederlande,2020-02-22,0
+San Marino,2020-02-22,0
+Weißrussland,2020-02-22,0
+Island,2020-02-22,0
+Litauen,2020-02-22,0
+Mexiko,2020-02-22,0
+Neuseeland,2020-02-22,0
+Nigeria,2020-02-22,0
+Irland,2020-02-22,0
+Luxemburg,2020-02-22,0
+Monaco,2020-02-22,0
+Katar,2020-02-22,0
+Ecuador,2020-02-22,0
+Aserbaidschan,2020-02-22,0
+Armenien,2020-02-22,0
+Dominikanische Republik,2020-02-22,0
+Indonesien,2020-02-22,0
+Portugal,2020-02-22,0
+Andorra,2020-02-22,0
+Lettland,2020-02-22,0
+Marokko,2020-02-22,0
+Saudi Arabien,2020-02-22,0
+Senegal,2020-02-22,0
+Argentinien,2020-02-22,0
+Chile,2020-02-22,0
+Jordanien,2020-02-22,0
+Ukraine,2020-02-22,0
+Ungarn,2020-02-22,0
+Liechtenstein,2020-02-22,0
+Polen,2020-02-22,0
+Tunesien,2020-02-22,0
+Bosnien und Herzegowina,2020-02-22,0
+Slowenien,2020-02-22,0
+Südafrika,2020-02-22,0
+Bhutan,2020-02-22,0
+Kamerun,2020-02-22,0
+Kolumbien,2020-02-22,0
+Costa Rica,2020-02-22,0
+Peru,2020-02-22,0
+Serbien,2020-02-22,0
+Slowakei,2020-02-22,0
+Togo,2020-02-22,0
+Malta,2020-02-22,0
+Martinique,2020-02-22,0
+Bulgarien,2020-02-22,0
+Malediven,2020-02-22,0
+Bangladesch,2020-02-22,0
+Paraguay,2020-02-22,0
+Albanien,2020-02-22,0
+Zypern,2020-02-22,0
+Brunei Darussalam,2020-02-22,0
+Vereinigte Staaten,2020-02-22,15
+Burkina Faso,2020-02-22,0
+Vatikanstaat,2020-02-22,0
+Mongolei,2020-02-22,0
+Panama,2020-02-22,0
+China,2020-02-22,77001
+Iran,2020-02-22,28
+Südkorea,2020-02-22,433
+Frankreich,2020-02-22,12
+NA,2020-02-22,634
+Dänemark,2020-02-22,0
+Tschechische Republik,2020-02-22,0
+Taiwan,2020-02-22,26
+Vietnam,2020-02-22,16
+Russische Föderation,2020-02-22,2
+Republik Moldau,2020-02-22,0
+Bolivien,2020-02-22,0
+Honduras,2020-02-22,0
+Großbritannien,2020-02-22,9
+Demokratische Republik Kongo,2020-02-22,0
+Elfenbeinküste,2020-02-22,0
+Jamaika,2020-02-22,0
+Reunion,2020-02-22,0
+Türkei,2020-02-22,0
+Kuba,2020-02-22,0
+Guyana,2020-02-22,0
+Kasachstan,2020-02-22,0
+Cayman Inseln,2020-02-22,0
+Guadeloupe,2020-02-22,0
+Äthiopien,2020-02-22,0
+Sudan,2020-02-22,0
+Guinea,2020-02-22,0
+Aruba,2020-02-22,0
+Kenia,2020-02-22,0
+Antigua und Barbuda,2020-02-22,0
+Uruguay,2020-02-22,0
+Ghana,2020-02-22,0
+Jersey,2020-02-22,0
+Namibia,2020-02-22,0
+Seychellen,2020-02-22,0
+Trinidad und Tobago,2020-02-22,0
+Venezuela,2020-02-22,0
+Curacao,2020-02-22,0
+Swasiland,2020-02-22,0
+Gabun,2020-02-22,0
+Guatemala,2020-02-22,0
+Guernsey,2020-02-22,0
+Mauretanien,2020-02-22,0
+Ruanda,2020-02-22,0
+Saint Lucia,2020-02-22,0
+St. Vincent und die Grenadinen,2020-02-22,0
+Surinam,2020-02-22,0
+Palästina,2020-02-22,0
+Kosovo,2020-02-22,0
+Zentralafrikanische Republik,2020-02-22,0
+Kongo,2020-02-22,0
+Äquatorialguinea,2020-02-22,0
+Usbekistan,2020-02-22,0
+Thailand,2020-02-23,35
+Japan,2020-02-23,147
+Singapur,2020-02-23,89
+Nepal,2020-02-23,1
+Malaysia,2020-02-23,22
+Kanada,2020-02-23,9
+Australien,2020-02-23,22
+Kambodscha,2020-02-23,1
+Sri Lanka,2020-02-23,1
+Deutschland,2020-02-23,16
+Finnland,2020-02-23,1
+Vereinigte Arabische Emirate,2020-02-23,13
+Philippinen,2020-02-23,3
+Indien,2020-02-23,3
+Italien,2020-02-23,155
+Schweden,2020-02-23,1
+Spanien,2020-02-23,2
+Belgien,2020-02-23,1
+Ägypten,2020-02-23,1
+Libanon,2020-02-23,1
+Irak,2020-02-23,0
+Oman,2020-02-23,0
+Afghanistan,2020-02-23,0
+Bahrain,2020-02-23,0
+Kuwait,2020-02-23,0
+Algerien,2020-02-23,0
+Kroatien,2020-02-23,0
+Schweiz,2020-02-23,0
+Österreich,2020-02-23,0
+Israel,2020-02-23,1
+Pakistan,2020-02-23,0
+Brasilien,2020-02-23,0
+Georgien,2020-02-23,0
+Griechenland,2020-02-23,0
+Mazedonien,2020-02-23,0
+Norwegen,2020-02-23,0
+Rumänien,2020-02-23,0
+Estland,2020-02-23,0
+Niederlande,2020-02-23,0
+San Marino,2020-02-23,0
+Weißrussland,2020-02-23,0
+Island,2020-02-23,0
+Litauen,2020-02-23,0
+Mexiko,2020-02-23,0
+Neuseeland,2020-02-23,0
+Nigeria,2020-02-23,0
+Irland,2020-02-23,0
+Luxemburg,2020-02-23,0
+Monaco,2020-02-23,0
+Katar,2020-02-23,0
+Ecuador,2020-02-23,0
+Aserbaidschan,2020-02-23,0
+Armenien,2020-02-23,0
+Dominikanische Republik,2020-02-23,0
+Indonesien,2020-02-23,0
+Portugal,2020-02-23,0
+Andorra,2020-02-23,0
+Lettland,2020-02-23,0
+Marokko,2020-02-23,0
+Saudi Arabien,2020-02-23,0
+Senegal,2020-02-23,0
+Argentinien,2020-02-23,0
+Chile,2020-02-23,0
+Jordanien,2020-02-23,0
+Ukraine,2020-02-23,0
+Ungarn,2020-02-23,0
+Liechtenstein,2020-02-23,0
+Polen,2020-02-23,0
+Tunesien,2020-02-23,0
+Bosnien und Herzegowina,2020-02-23,0
+Slowenien,2020-02-23,0
+Südafrika,2020-02-23,0
+Bhutan,2020-02-23,0
+Kamerun,2020-02-23,0
+Kolumbien,2020-02-23,0
+Costa Rica,2020-02-23,0
+Peru,2020-02-23,0
+Serbien,2020-02-23,0
+Slowakei,2020-02-23,0
+Togo,2020-02-23,0
+Malta,2020-02-23,0
+Martinique,2020-02-23,0
+Bulgarien,2020-02-23,0
+Malediven,2020-02-23,0
+Bangladesch,2020-02-23,0
+Paraguay,2020-02-23,0
+Albanien,2020-02-23,0
+Zypern,2020-02-23,0
+Brunei Darussalam,2020-02-23,0
+Vereinigte Staaten,2020-02-23,15
+Burkina Faso,2020-02-23,0
+Vatikanstaat,2020-02-23,0
+Mongolei,2020-02-23,0
+Panama,2020-02-23,0
+China,2020-02-23,77022
+Iran,2020-02-23,43
+Südkorea,2020-02-23,602
+Frankreich,2020-02-23,12
+NA,2020-02-23,691
+Dänemark,2020-02-23,0
+Tschechische Republik,2020-02-23,0
+Taiwan,2020-02-23,28
+Vietnam,2020-02-23,16
+Russische Föderation,2020-02-23,2
+Republik Moldau,2020-02-23,0
+Bolivien,2020-02-23,0
+Honduras,2020-02-23,0
+Großbritannien,2020-02-23,9
+Demokratische Republik Kongo,2020-02-23,0
+Elfenbeinküste,2020-02-23,0
+Jamaika,2020-02-23,0
+Reunion,2020-02-23,0
+Türkei,2020-02-23,0
+Kuba,2020-02-23,0
+Guyana,2020-02-23,0
+Kasachstan,2020-02-23,0
+Cayman Inseln,2020-02-23,0
+Guadeloupe,2020-02-23,0
+Äthiopien,2020-02-23,0
+Sudan,2020-02-23,0
+Guinea,2020-02-23,0
+Aruba,2020-02-23,0
+Kenia,2020-02-23,0
+Antigua und Barbuda,2020-02-23,0
+Uruguay,2020-02-23,0
+Ghana,2020-02-23,0
+Jersey,2020-02-23,0
+Namibia,2020-02-23,0
+Seychellen,2020-02-23,0
+Trinidad und Tobago,2020-02-23,0
+Venezuela,2020-02-23,0
+Curacao,2020-02-23,0
+Swasiland,2020-02-23,0
+Gabun,2020-02-23,0
+Guatemala,2020-02-23,0
+Guernsey,2020-02-23,0
+Mauretanien,2020-02-23,0
+Ruanda,2020-02-23,0
+Saint Lucia,2020-02-23,0
+St. Vincent und die Grenadinen,2020-02-23,0
+Surinam,2020-02-23,0
+Palästina,2020-02-23,0
+Kosovo,2020-02-23,0
+Zentralafrikanische Republik,2020-02-23,0
+Kongo,2020-02-23,0
+Äquatorialguinea,2020-02-23,0
+Usbekistan,2020-02-23,0
+Thailand,2020-02-24,35
+Japan,2020-02-24,159
+Singapur,2020-02-24,89
+Nepal,2020-02-24,1
+Malaysia,2020-02-24,22
+Kanada,2020-02-24,10
+Australien,2020-02-24,22
+Kambodscha,2020-02-24,1
+Sri Lanka,2020-02-24,1
+Deutschland,2020-02-24,16
+Finnland,2020-02-24,1
+Vereinigte Arabische Emirate,2020-02-24,13
+Philippinen,2020-02-24,3
+Indien,2020-02-24,3
+Italien,2020-02-24,229
+Schweden,2020-02-24,1
+Spanien,2020-02-24,2
+Belgien,2020-02-24,1
+Ägypten,2020-02-24,1
+Libanon,2020-02-24,1
+Irak,2020-02-24,1
+Oman,2020-02-24,2
+Afghanistan,2020-02-24,1
+Bahrain,2020-02-24,1
+Kuwait,2020-02-24,1
+Algerien,2020-02-24,0
+Kroatien,2020-02-24,0
+Schweiz,2020-02-24,0
+Österreich,2020-02-24,0
+Israel,2020-02-24,1
+Pakistan,2020-02-24,0
+Brasilien,2020-02-24,0
+Georgien,2020-02-24,0
+Griechenland,2020-02-24,0
+Mazedonien,2020-02-24,0
+Norwegen,2020-02-24,0
+Rumänien,2020-02-24,0
+Estland,2020-02-24,0
+Niederlande,2020-02-24,0
+San Marino,2020-02-24,0
+Weißrussland,2020-02-24,0
+Island,2020-02-24,0
+Litauen,2020-02-24,0
+Mexiko,2020-02-24,0
+Neuseeland,2020-02-24,0
+Nigeria,2020-02-24,0
+Irland,2020-02-24,0
+Luxemburg,2020-02-24,0
+Monaco,2020-02-24,0
+Katar,2020-02-24,0
+Ecuador,2020-02-24,0
+Aserbaidschan,2020-02-24,0
+Armenien,2020-02-24,0
+Dominikanische Republik,2020-02-24,0
+Indonesien,2020-02-24,0
+Portugal,2020-02-24,0
+Andorra,2020-02-24,0
+Lettland,2020-02-24,0
+Marokko,2020-02-24,0
+Saudi Arabien,2020-02-24,0
+Senegal,2020-02-24,0
+Argentinien,2020-02-24,0
+Chile,2020-02-24,0
+Jordanien,2020-02-24,0
+Ukraine,2020-02-24,0
+Ungarn,2020-02-24,0
+Liechtenstein,2020-02-24,0
+Polen,2020-02-24,0
+Tunesien,2020-02-24,0
+Bosnien und Herzegowina,2020-02-24,0
+Slowenien,2020-02-24,0
+Südafrika,2020-02-24,0
+Bhutan,2020-02-24,0
+Kamerun,2020-02-24,0
+Kolumbien,2020-02-24,0
+Costa Rica,2020-02-24,0
+Peru,2020-02-24,0
+Serbien,2020-02-24,0
+Slowakei,2020-02-24,0
+Togo,2020-02-24,0
+Malta,2020-02-24,0
+Martinique,2020-02-24,0
+Bulgarien,2020-02-24,0
+Malediven,2020-02-24,0
+Bangladesch,2020-02-24,0
+Paraguay,2020-02-24,0
+Albanien,2020-02-24,0
+Zypern,2020-02-24,0
+Brunei Darussalam,2020-02-24,0
+Vereinigte Staaten,2020-02-24,51
+Burkina Faso,2020-02-24,0
+Vatikanstaat,2020-02-24,0
+Mongolei,2020-02-24,0
+Panama,2020-02-24,0
+China,2020-02-24,77241
+Iran,2020-02-24,61
+Südkorea,2020-02-24,833
+Frankreich,2020-02-24,12
+NA,2020-02-24,691
+Dänemark,2020-02-24,0
+Tschechische Republik,2020-02-24,0
+Taiwan,2020-02-24,30
+Vietnam,2020-02-24,16
+Russische Föderation,2020-02-24,2
+Republik Moldau,2020-02-24,0
+Bolivien,2020-02-24,0
+Honduras,2020-02-24,0
+Großbritannien,2020-02-24,13
+Demokratische Republik Kongo,2020-02-24,0
+Elfenbeinküste,2020-02-24,0
+Jamaika,2020-02-24,0
+Reunion,2020-02-24,0
+Türkei,2020-02-24,0
+Kuba,2020-02-24,0
+Guyana,2020-02-24,0
+Kasachstan,2020-02-24,0
+Cayman Inseln,2020-02-24,0
+Guadeloupe,2020-02-24,0
+Äthiopien,2020-02-24,0
+Sudan,2020-02-24,0
+Guinea,2020-02-24,0
+Aruba,2020-02-24,0
+Kenia,2020-02-24,0
+Antigua und Barbuda,2020-02-24,0
+Uruguay,2020-02-24,0
+Ghana,2020-02-24,0
+Jersey,2020-02-24,0
+Namibia,2020-02-24,0
+Seychellen,2020-02-24,0
+Trinidad und Tobago,2020-02-24,0
+Venezuela,2020-02-24,0
+Curacao,2020-02-24,0
+Swasiland,2020-02-24,0
+Gabun,2020-02-24,0
+Guatemala,2020-02-24,0
+Guernsey,2020-02-24,0
+Mauretanien,2020-02-24,0
+Ruanda,2020-02-24,0
+Saint Lucia,2020-02-24,0
+St. Vincent und die Grenadinen,2020-02-24,0
+Surinam,2020-02-24,0
+Palästina,2020-02-24,0
+Kosovo,2020-02-24,0
+Zentralafrikanische Republik,2020-02-24,0
+Kongo,2020-02-24,0
+Äquatorialguinea,2020-02-24,0
+Usbekistan,2020-02-24,0
+Thailand,2020-02-25,37
+Japan,2020-02-25,170
+Singapur,2020-02-25,91
+Nepal,2020-02-25,1
+Malaysia,2020-02-25,22
+Kanada,2020-02-25,11
+Australien,2020-02-25,22
+Kambodscha,2020-02-25,1
+Sri Lanka,2020-02-25,1
+Deutschland,2020-02-25,17
+Finnland,2020-02-25,1
+Vereinigte Arabische Emirate,2020-02-25,13
+Philippinen,2020-02-25,3
+Indien,2020-02-25,3
+Italien,2020-02-25,322
+Schweden,2020-02-25,1
+Spanien,2020-02-25,6
+Belgien,2020-02-25,1
+Ägypten,2020-02-25,1
+Libanon,2020-02-25,1
+Irak,2020-02-25,1
+Oman,2020-02-25,2
+Afghanistan,2020-02-25,1
+Bahrain,2020-02-25,23
+Kuwait,2020-02-25,11
+Algerien,2020-02-25,1
+Kroatien,2020-02-25,1
+Schweiz,2020-02-25,1
+Österreich,2020-02-25,2
+Israel,2020-02-25,1
+Pakistan,2020-02-25,0
+Brasilien,2020-02-25,0
+Georgien,2020-02-25,0
+Griechenland,2020-02-25,0
+Mazedonien,2020-02-25,0
+Norwegen,2020-02-25,0
+Rumänien,2020-02-25,0
+Estland,2020-02-25,0
+Niederlande,2020-02-25,0
+San Marino,2020-02-25,0
+Weißrussland,2020-02-25,0
+Island,2020-02-25,0
+Litauen,2020-02-25,0
+Mexiko,2020-02-25,0
+Neuseeland,2020-02-25,0
+Nigeria,2020-02-25,0
+Irland,2020-02-25,0
+Luxemburg,2020-02-25,0
+Monaco,2020-02-25,0
+Katar,2020-02-25,0
+Ecuador,2020-02-25,0
+Aserbaidschan,2020-02-25,0
+Armenien,2020-02-25,0
+Dominikanische Republik,2020-02-25,0
+Indonesien,2020-02-25,0
+Portugal,2020-02-25,0
+Andorra,2020-02-25,0
+Lettland,2020-02-25,0
+Marokko,2020-02-25,0
+Saudi Arabien,2020-02-25,0
+Senegal,2020-02-25,0
+Argentinien,2020-02-25,0
+Chile,2020-02-25,0
+Jordanien,2020-02-25,0
+Ukraine,2020-02-25,0
+Ungarn,2020-02-25,0
+Liechtenstein,2020-02-25,0
+Polen,2020-02-25,0
+Tunesien,2020-02-25,0
+Bosnien und Herzegowina,2020-02-25,0
+Slowenien,2020-02-25,0
+Südafrika,2020-02-25,0
+Bhutan,2020-02-25,0
+Kamerun,2020-02-25,0
+Kolumbien,2020-02-25,0
+Costa Rica,2020-02-25,0
+Peru,2020-02-25,0
+Serbien,2020-02-25,0
+Slowakei,2020-02-25,0
+Togo,2020-02-25,0
+Malta,2020-02-25,0
+Martinique,2020-02-25,0
+Bulgarien,2020-02-25,0
+Malediven,2020-02-25,0
+Bangladesch,2020-02-25,0
+Paraguay,2020-02-25,0
+Albanien,2020-02-25,0
+Zypern,2020-02-25,0
+Brunei Darussalam,2020-02-25,0
+Vereinigte Staaten,2020-02-25,51
+Burkina Faso,2020-02-25,0
+Vatikanstaat,2020-02-25,0
+Mongolei,2020-02-25,0
+Panama,2020-02-25,0
+China,2020-02-25,77754
+Iran,2020-02-25,95
+Südkorea,2020-02-25,977
+Frankreich,2020-02-25,14
+NA,2020-02-25,691
+Dänemark,2020-02-25,0
+Tschechische Republik,2020-02-25,0
+Taiwan,2020-02-25,31
+Vietnam,2020-02-25,16
+Russische Föderation,2020-02-25,2
+Republik Moldau,2020-02-25,0
+Bolivien,2020-02-25,0
+Honduras,2020-02-25,0
+Großbritannien,2020-02-25,13
+Demokratische Republik Kongo,2020-02-25,0
+Elfenbeinküste,2020-02-25,0
+Jamaika,2020-02-25,0
+Reunion,2020-02-25,0
+Türkei,2020-02-25,0
+Kuba,2020-02-25,0
+Guyana,2020-02-25,0
+Kasachstan,2020-02-25,0
+Cayman Inseln,2020-02-25,0
+Guadeloupe,2020-02-25,0
+Äthiopien,2020-02-25,0
+Sudan,2020-02-25,0
+Guinea,2020-02-25,0
+Aruba,2020-02-25,0
+Kenia,2020-02-25,0
+Antigua und Barbuda,2020-02-25,0
+Uruguay,2020-02-25,0
+Ghana,2020-02-25,0
+Jersey,2020-02-25,0
+Namibia,2020-02-25,0
+Seychellen,2020-02-25,0
+Trinidad und Tobago,2020-02-25,0
+Venezuela,2020-02-25,0
+Curacao,2020-02-25,0
+Swasiland,2020-02-25,0
+Gabun,2020-02-25,0
+Guatemala,2020-02-25,0
+Guernsey,2020-02-25,0
+Mauretanien,2020-02-25,0
+Ruanda,2020-02-25,0
+Saint Lucia,2020-02-25,0
+St. Vincent und die Grenadinen,2020-02-25,0
+Surinam,2020-02-25,0
+Palästina,2020-02-25,0
+Kosovo,2020-02-25,0
+Zentralafrikanische Republik,2020-02-25,0
+Kongo,2020-02-25,0
+Äquatorialguinea,2020-02-25,0
+Usbekistan,2020-02-25,0
+Thailand,2020-02-26,40
+Japan,2020-02-26,189
+Singapur,2020-02-26,93
+Nepal,2020-02-26,1
+Malaysia,2020-02-26,22
+Kanada,2020-02-26,11
+Australien,2020-02-26,22
+Kambodscha,2020-02-26,1
+Sri Lanka,2020-02-26,1
+Deutschland,2020-02-26,27
+Finnland,2020-02-26,2
+Vereinigte Arabische Emirate,2020-02-26,13
+Philippinen,2020-02-26,3
+Indien,2020-02-26,3
+Italien,2020-02-26,453
+Schweden,2020-02-26,2
+Spanien,2020-02-26,13
+Belgien,2020-02-26,1
+Ägypten,2020-02-26,1
+Libanon,2020-02-26,2
+Irak,2020-02-26,5
+Oman,2020-02-26,4
+Afghanistan,2020-02-26,1
+Bahrain,2020-02-26,33
+Kuwait,2020-02-26,26
+Algerien,2020-02-26,1
+Kroatien,2020-02-26,3
+Schweiz,2020-02-26,1
+Österreich,2020-02-26,2
+Israel,2020-02-26,2
+Pakistan,2020-02-26,2
+Brasilien,2020-02-26,1
+Georgien,2020-02-26,1
+Griechenland,2020-02-26,1
+Mazedonien,2020-02-26,1
+Norwegen,2020-02-26,1
+Rumänien,2020-02-26,1
+Estland,2020-02-26,0
+Niederlande,2020-02-26,0
+San Marino,2020-02-26,0
+Weißrussland,2020-02-26,0
+Island,2020-02-26,0
+Litauen,2020-02-26,0
+Mexiko,2020-02-26,0
+Neuseeland,2020-02-26,0
+Nigeria,2020-02-26,0
+Irland,2020-02-26,0
+Luxemburg,2020-02-26,0
+Monaco,2020-02-26,0
+Katar,2020-02-26,0
+Ecuador,2020-02-26,0
+Aserbaidschan,2020-02-26,0
+Armenien,2020-02-26,0
+Dominikanische Republik,2020-02-26,0
+Indonesien,2020-02-26,0
+Portugal,2020-02-26,0
+Andorra,2020-02-26,0
+Lettland,2020-02-26,0
+Marokko,2020-02-26,0
+Saudi Arabien,2020-02-26,0
+Senegal,2020-02-26,0
+Argentinien,2020-02-26,0
+Chile,2020-02-26,0
+Jordanien,2020-02-26,0
+Ukraine,2020-02-26,0
+Ungarn,2020-02-26,0
+Liechtenstein,2020-02-26,0
+Polen,2020-02-26,0
+Tunesien,2020-02-26,0
+Bosnien und Herzegowina,2020-02-26,0
+Slowenien,2020-02-26,0
+Südafrika,2020-02-26,0
+Bhutan,2020-02-26,0
+Kamerun,2020-02-26,0
+Kolumbien,2020-02-26,0
+Costa Rica,2020-02-26,0
+Peru,2020-02-26,0
+Serbien,2020-02-26,0
+Slowakei,2020-02-26,0
+Togo,2020-02-26,0
+Malta,2020-02-26,0
+Martinique,2020-02-26,0
+Bulgarien,2020-02-26,0
+Malediven,2020-02-26,0
+Bangladesch,2020-02-26,0
+Paraguay,2020-02-26,0
+Albanien,2020-02-26,0
+Zypern,2020-02-26,0
+Brunei Darussalam,2020-02-26,0
+Vereinigte Staaten,2020-02-26,57
+Burkina Faso,2020-02-26,0
+Vatikanstaat,2020-02-26,0
+Mongolei,2020-02-26,0
+Panama,2020-02-26,0
+China,2020-02-26,78166
+Iran,2020-02-26,139
+Südkorea,2020-02-26,1261
+Frankreich,2020-02-26,18
+NA,2020-02-26,705
+Dänemark,2020-02-26,0
+Tschechische Republik,2020-02-26,0
+Taiwan,2020-02-26,32
+Vietnam,2020-02-26,16
+Russische Föderation,2020-02-26,2
+Republik Moldau,2020-02-26,0
+Bolivien,2020-02-26,0
+Honduras,2020-02-26,0
+Großbritannien,2020-02-26,13
+Demokratische Republik Kongo,2020-02-26,0
+Elfenbeinküste,2020-02-26,0
+Jamaika,2020-02-26,0
+Reunion,2020-02-26,0
+Türkei,2020-02-26,0
+Kuba,2020-02-26,0
+Guyana,2020-02-26,0
+Kasachstan,2020-02-26,0
+Cayman Inseln,2020-02-26,0
+Guadeloupe,2020-02-26,0
+Äthiopien,2020-02-26,0
+Sudan,2020-02-26,0
+Guinea,2020-02-26,0
+Aruba,2020-02-26,0
+Kenia,2020-02-26,0
+Antigua und Barbuda,2020-02-26,0
+Uruguay,2020-02-26,0
+Ghana,2020-02-26,0
+Jersey,2020-02-26,0
+Namibia,2020-02-26,0
+Seychellen,2020-02-26,0
+Trinidad und Tobago,2020-02-26,0
+Venezuela,2020-02-26,0
+Curacao,2020-02-26,0
+Swasiland,2020-02-26,0
+Gabun,2020-02-26,0
+Guatemala,2020-02-26,0
+Guernsey,2020-02-26,0
+Mauretanien,2020-02-26,0
+Ruanda,2020-02-26,0
+Saint Lucia,2020-02-26,0
+St. Vincent und die Grenadinen,2020-02-26,0
+Surinam,2020-02-26,0
+Palästina,2020-02-26,0
+Kosovo,2020-02-26,0
+Zentralafrikanische Republik,2020-02-26,0
+Kongo,2020-02-26,0
+Äquatorialguinea,2020-02-26,0
+Usbekistan,2020-02-26,0
+Thailand,2020-02-27,40
+Japan,2020-02-27,214
+Singapur,2020-02-27,93
+Nepal,2020-02-27,1
+Malaysia,2020-02-27,23
+Kanada,2020-02-27,13
+Australien,2020-02-27,23
+Kambodscha,2020-02-27,1
+Sri Lanka,2020-02-27,1
+Deutschland,2020-02-27,46
+Finnland,2020-02-27,2
+Vereinigte Arabische Emirate,2020-02-27,13
+Philippinen,2020-02-27,3
+Indien,2020-02-27,3
+Italien,2020-02-27,655
+Schweden,2020-02-27,7
+Spanien,2020-02-27,15
+Belgien,2020-02-27,1
+Ägypten,2020-02-27,1
+Libanon,2020-02-27,2
+Irak,2020-02-27,7
+Oman,2020-02-27,4
+Afghanistan,2020-02-27,1
+Bahrain,2020-02-27,33
+Kuwait,2020-02-27,43
+Algerien,2020-02-27,1
+Kroatien,2020-02-27,3
+Schweiz,2020-02-27,8
+Österreich,2020-02-27,3
+Israel,2020-02-27,3
+Pakistan,2020-02-27,2
+Brasilien,2020-02-27,1
+Georgien,2020-02-27,1
+Griechenland,2020-02-27,3
+Mazedonien,2020-02-27,1
+Norwegen,2020-02-27,1
+Rumänien,2020-02-27,1
+Estland,2020-02-27,1
+Niederlande,2020-02-27,1
+San Marino,2020-02-27,1
+Weißrussland,2020-02-27,0
+Island,2020-02-27,0
+Litauen,2020-02-27,0
+Mexiko,2020-02-27,0
+Neuseeland,2020-02-27,0
+Nigeria,2020-02-27,0
+Irland,2020-02-27,0
+Luxemburg,2020-02-27,0
+Monaco,2020-02-27,0
+Katar,2020-02-27,0
+Ecuador,2020-02-27,0
+Aserbaidschan,2020-02-27,0
+Armenien,2020-02-27,0
+Dominikanische Republik,2020-02-27,0
+Indonesien,2020-02-27,0
+Portugal,2020-02-27,0
+Andorra,2020-02-27,0
+Lettland,2020-02-27,0
+Marokko,2020-02-27,0
+Saudi Arabien,2020-02-27,0
+Senegal,2020-02-27,0
+Argentinien,2020-02-27,0
+Chile,2020-02-27,0
+Jordanien,2020-02-27,0
+Ukraine,2020-02-27,0
+Ungarn,2020-02-27,0
+Liechtenstein,2020-02-27,0
+Polen,2020-02-27,0
+Tunesien,2020-02-27,0
+Bosnien und Herzegowina,2020-02-27,0
+Slowenien,2020-02-27,0
+Südafrika,2020-02-27,0
+Bhutan,2020-02-27,0
+Kamerun,2020-02-27,0
+Kolumbien,2020-02-27,0
+Costa Rica,2020-02-27,0
+Peru,2020-02-27,0
+Serbien,2020-02-27,0
+Slowakei,2020-02-27,0
+Togo,2020-02-27,0
+Malta,2020-02-27,0
+Martinique,2020-02-27,0
+Bulgarien,2020-02-27,0
+Malediven,2020-02-27,0
+Bangladesch,2020-02-27,0
+Paraguay,2020-02-27,0
+Albanien,2020-02-27,0
+Zypern,2020-02-27,0
+Brunei Darussalam,2020-02-27,0
+Vereinigte Staaten,2020-02-27,58
+Burkina Faso,2020-02-27,0
+Vatikanstaat,2020-02-27,0
+Mongolei,2020-02-27,0
+Panama,2020-02-27,0
+China,2020-02-27,78600
+Iran,2020-02-27,245
+Südkorea,2020-02-27,1766
+Frankreich,2020-02-27,38
+NA,2020-02-27,705
+Dänemark,2020-02-27,1
+Tschechische Republik,2020-02-27,0
+Taiwan,2020-02-27,32
+Vietnam,2020-02-27,16
+Russische Föderation,2020-02-27,2
+Republik Moldau,2020-02-27,0
+Bolivien,2020-02-27,0
+Honduras,2020-02-27,0
+Großbritannien,2020-02-27,15
+Demokratische Republik Kongo,2020-02-27,0
+Elfenbeinküste,2020-02-27,0
+Jamaika,2020-02-27,0
+Reunion,2020-02-27,0
+Türkei,2020-02-27,0
+Kuba,2020-02-27,0
+Guyana,2020-02-27,0
+Kasachstan,2020-02-27,0
+Cayman Inseln,2020-02-27,0
+Guadeloupe,2020-02-27,0
+Äthiopien,2020-02-27,0
+Sudan,2020-02-27,0
+Guinea,2020-02-27,0
+Aruba,2020-02-27,0
+Kenia,2020-02-27,0
+Antigua und Barbuda,2020-02-27,0
+Uruguay,2020-02-27,0
+Ghana,2020-02-27,0
+Jersey,2020-02-27,0
+Namibia,2020-02-27,0
+Seychellen,2020-02-27,0
+Trinidad und Tobago,2020-02-27,0
+Venezuela,2020-02-27,0
+Curacao,2020-02-27,0
+Swasiland,2020-02-27,0
+Gabun,2020-02-27,0
+Guatemala,2020-02-27,0
+Guernsey,2020-02-27,0
+Mauretanien,2020-02-27,0
+Ruanda,2020-02-27,0
+Saint Lucia,2020-02-27,0
+St. Vincent und die Grenadinen,2020-02-27,0
+Surinam,2020-02-27,0
+Palästina,2020-02-27,0
+Kosovo,2020-02-27,0
+Zentralafrikanische Republik,2020-02-27,0
+Kongo,2020-02-27,0
+Äquatorialguinea,2020-02-27,0
+Usbekistan,2020-02-27,0
+Thailand,2020-02-28,41
+Japan,2020-02-28,228
+Singapur,2020-02-28,93
+Nepal,2020-02-28,1
+Malaysia,2020-02-28,23
+Kanada,2020-02-28,14
+Australien,2020-02-28,23
+Kambodscha,2020-02-28,1
+Sri Lanka,2020-02-28,1
+Deutschland,2020-02-28,48
+Finnland,2020-02-28,2
+Vereinigte Arabische Emirate,2020-02-28,19
+Philippinen,2020-02-28,3
+Indien,2020-02-28,3
+Italien,2020-02-28,888
+Schweden,2020-02-28,7
+Spanien,2020-02-28,32
+Belgien,2020-02-28,1
+Ägypten,2020-02-28,1
+Libanon,2020-02-28,2
+Irak,2020-02-28,7
+Oman,2020-02-28,4
+Afghanistan,2020-02-28,1
+Bahrain,2020-02-28,36
+Kuwait,2020-02-28,45
+Algerien,2020-02-28,1
+Kroatien,2020-02-28,5
+Schweiz,2020-02-28,8
+Österreich,2020-02-28,3
+Israel,2020-02-28,4
+Pakistan,2020-02-28,2
+Brasilien,2020-02-28,1
+Georgien,2020-02-28,1
+Griechenland,2020-02-28,4
+Mazedonien,2020-02-28,1
+Norwegen,2020-02-28,6
+Rumänien,2020-02-28,3
+Estland,2020-02-28,1
+Niederlande,2020-02-28,1
+San Marino,2020-02-28,1
+Weißrussland,2020-02-28,1
+Island,2020-02-28,1
+Litauen,2020-02-28,1
+Mexiko,2020-02-28,1
+Neuseeland,2020-02-28,1
+Nigeria,2020-02-28,1
+Irland,2020-02-28,0
+Luxemburg,2020-02-28,0
+Monaco,2020-02-28,0
+Katar,2020-02-28,0
+Ecuador,2020-02-28,0
+Aserbaidschan,2020-02-28,0
+Armenien,2020-02-28,0
+Dominikanische Republik,2020-02-28,0
+Indonesien,2020-02-28,0
+Portugal,2020-02-28,0
+Andorra,2020-02-28,0
+Lettland,2020-02-28,0
+Marokko,2020-02-28,0
+Saudi Arabien,2020-02-28,0
+Senegal,2020-02-28,0
+Argentinien,2020-02-28,0
+Chile,2020-02-28,0
+Jordanien,2020-02-28,0
+Ukraine,2020-02-28,0
+Ungarn,2020-02-28,0
+Liechtenstein,2020-02-28,0
+Polen,2020-02-28,0
+Tunesien,2020-02-28,0
+Bosnien und Herzegowina,2020-02-28,0
+Slowenien,2020-02-28,0
+Südafrika,2020-02-28,0
+Bhutan,2020-02-28,0
+Kamerun,2020-02-28,0
+Kolumbien,2020-02-28,0
+Costa Rica,2020-02-28,0
+Peru,2020-02-28,0
+Serbien,2020-02-28,0
+Slowakei,2020-02-28,0
+Togo,2020-02-28,0
+Malta,2020-02-28,0
+Martinique,2020-02-28,0
+Bulgarien,2020-02-28,0
+Malediven,2020-02-28,0
+Bangladesch,2020-02-28,0
+Paraguay,2020-02-28,0
+Albanien,2020-02-28,0
+Zypern,2020-02-28,0
+Brunei Darussalam,2020-02-28,0
+Vereinigte Staaten,2020-02-28,60
+Burkina Faso,2020-02-28,0
+Vatikanstaat,2020-02-28,0
+Mongolei,2020-02-28,0
+Panama,2020-02-28,0
+China,2020-02-28,78928
+Iran,2020-02-28,388
+Südkorea,2020-02-28,2337
+Frankreich,2020-02-28,57
+NA,2020-02-28,705
+Dänemark,2020-02-28,1
+Tschechische Republik,2020-02-28,0
+Taiwan,2020-02-28,34
+Vietnam,2020-02-28,16
+Russische Föderation,2020-02-28,2
+Republik Moldau,2020-02-28,0
+Bolivien,2020-02-28,0
+Honduras,2020-02-28,0
+Großbritannien,2020-02-28,20
+Demokratische Republik Kongo,2020-02-28,0
+Elfenbeinküste,2020-02-28,0
+Jamaika,2020-02-28,0
+Reunion,2020-02-28,0
+Türkei,2020-02-28,0
+Kuba,2020-02-28,0
+Guyana,2020-02-28,0
+Kasachstan,2020-02-28,0
+Cayman Inseln,2020-02-28,0
+Guadeloupe,2020-02-28,0
+Äthiopien,2020-02-28,0
+Sudan,2020-02-28,0
+Guinea,2020-02-28,0
+Aruba,2020-02-28,0
+Kenia,2020-02-28,0
+Antigua und Barbuda,2020-02-28,0
+Uruguay,2020-02-28,0
+Ghana,2020-02-28,0
+Jersey,2020-02-28,0
+Namibia,2020-02-28,0
+Seychellen,2020-02-28,0
+Trinidad und Tobago,2020-02-28,0
+Venezuela,2020-02-28,0
+Curacao,2020-02-28,0
+Swasiland,2020-02-28,0
+Gabun,2020-02-28,0
+Guatemala,2020-02-28,0
+Guernsey,2020-02-28,0
+Mauretanien,2020-02-28,0
+Ruanda,2020-02-28,0
+Saint Lucia,2020-02-28,0
+St. Vincent und die Grenadinen,2020-02-28,0
+Surinam,2020-02-28,0
+Palästina,2020-02-28,0
+Kosovo,2020-02-28,0
+Zentralafrikanische Republik,2020-02-28,0
+Kongo,2020-02-28,0
+Äquatorialguinea,2020-02-28,0
+Usbekistan,2020-02-28,0
+Thailand,2020-02-29,42
+Japan,2020-02-29,241
+Singapur,2020-02-29,102
+Nepal,2020-02-29,1
+Malaysia,2020-02-29,25
+Kanada,2020-02-29,20
+Australien,2020-02-29,25
+Kambodscha,2020-02-29,1
+Sri Lanka,2020-02-29,1
+Deutschland,2020-02-29,79
+Finnland,2020-02-29,3
+Vereinigte Arabische Emirate,2020-02-29,21
+Philippinen,2020-02-29,3
+Indien,2020-02-29,3
+Italien,2020-02-29,1128
+Schweden,2020-02-29,12
+Spanien,2020-02-29,45
+Belgien,2020-02-29,1
+Ägypten,2020-02-29,1
+Libanon,2020-02-29,4
+Irak,2020-02-29,13
+Oman,2020-02-29,6
+Afghanistan,2020-02-29,1
+Bahrain,2020-02-29,41
+Kuwait,2020-02-29,45
+Algerien,2020-02-29,1
+Kroatien,2020-02-29,6
+Schweiz,2020-02-29,18
+Österreich,2020-02-29,9
+Israel,2020-02-29,7
+Pakistan,2020-02-29,4
+Brasilien,2020-02-29,2
+Georgien,2020-02-29,1
+Griechenland,2020-02-29,4
+Mazedonien,2020-02-29,1
+Norwegen,2020-02-29,15
+Rumänien,2020-02-29,3
+Estland,2020-02-29,1
+Niederlande,2020-02-29,6
+San Marino,2020-02-29,1
+Weißrussland,2020-02-29,1
+Island,2020-02-29,1
+Litauen,2020-02-29,1
+Mexiko,2020-02-29,4
+Neuseeland,2020-02-29,1
+Nigeria,2020-02-29,1
+Irland,2020-02-29,1
+Luxemburg,2020-02-29,1
+Monaco,2020-02-29,1
+Katar,2020-02-29,1
+Ecuador,2020-02-29,0
+Aserbaidschan,2020-02-29,0
+Armenien,2020-02-29,0
+Dominikanische Republik,2020-02-29,0
+Indonesien,2020-02-29,0
+Portugal,2020-02-29,0
+Andorra,2020-02-29,0
+Lettland,2020-02-29,0
+Marokko,2020-02-29,0
+Saudi Arabien,2020-02-29,0
+Senegal,2020-02-29,0
+Argentinien,2020-02-29,0
+Chile,2020-02-29,0
+Jordanien,2020-02-29,0
+Ukraine,2020-02-29,0
+Ungarn,2020-02-29,0
+Liechtenstein,2020-02-29,0
+Polen,2020-02-29,0
+Tunesien,2020-02-29,0
+Bosnien und Herzegowina,2020-02-29,0
+Slowenien,2020-02-29,0
+Südafrika,2020-02-29,0
+Bhutan,2020-02-29,0
+Kamerun,2020-02-29,0
+Kolumbien,2020-02-29,0
+Costa Rica,2020-02-29,0
+Peru,2020-02-29,0
+Serbien,2020-02-29,0
+Slowakei,2020-02-29,0
+Togo,2020-02-29,0
+Malta,2020-02-29,0
+Martinique,2020-02-29,0
+Bulgarien,2020-02-29,0
+Malediven,2020-02-29,0
+Bangladesch,2020-02-29,0
+Paraguay,2020-02-29,0
+Albanien,2020-02-29,0
+Zypern,2020-02-29,0
+Brunei Darussalam,2020-02-29,0
+Vereinigte Staaten,2020-02-29,68
+Burkina Faso,2020-02-29,0
+Vatikanstaat,2020-02-29,0
+Mongolei,2020-02-29,0
+Panama,2020-02-29,0
+China,2020-02-29,79356
+Iran,2020-02-29,593
+Südkorea,2020-02-29,3150
+Frankreich,2020-02-29,100
+NA,2020-02-29,705
+Dänemark,2020-02-29,3
+Tschechische Republik,2020-02-29,0
+Taiwan,2020-02-29,39
+Vietnam,2020-02-29,16
+Russische Föderation,2020-02-29,2
+Republik Moldau,2020-02-29,0
+Bolivien,2020-02-29,0
+Honduras,2020-02-29,0
+Großbritannien,2020-02-29,23
+Demokratische Republik Kongo,2020-02-29,0
+Elfenbeinküste,2020-02-29,0
+Jamaika,2020-02-29,0
+Reunion,2020-02-29,0
+Türkei,2020-02-29,0
+Kuba,2020-02-29,0
+Guyana,2020-02-29,0
+Kasachstan,2020-02-29,0
+Cayman Inseln,2020-02-29,0
+Guadeloupe,2020-02-29,0
+Äthiopien,2020-02-29,0
+Sudan,2020-02-29,0
+Guinea,2020-02-29,0
+Aruba,2020-02-29,0
+Kenia,2020-02-29,0
+Antigua und Barbuda,2020-02-29,0
+Uruguay,2020-02-29,0
+Ghana,2020-02-29,0
+Jersey,2020-02-29,0
+Namibia,2020-02-29,0
+Seychellen,2020-02-29,0
+Trinidad und Tobago,2020-02-29,0
+Venezuela,2020-02-29,0
+Curacao,2020-02-29,0
+Swasiland,2020-02-29,0
+Gabun,2020-02-29,0
+Guatemala,2020-02-29,0
+Guernsey,2020-02-29,0
+Mauretanien,2020-02-29,0
+Ruanda,2020-02-29,0
+Saint Lucia,2020-02-29,0
+St. Vincent und die Grenadinen,2020-02-29,0
+Surinam,2020-02-29,0
+Palästina,2020-02-29,0
+Kosovo,2020-02-29,0
+Zentralafrikanische Republik,2020-02-29,0
+Kongo,2020-02-29,0
+Äquatorialguinea,2020-02-29,0
+Usbekistan,2020-02-29,0
+Thailand,2020-03-01,42
+Japan,2020-03-01,256
+Singapur,2020-03-01,106
+Nepal,2020-03-01,1
+Malaysia,2020-03-01,29
+Kanada,2020-03-01,24
+Australien,2020-03-01,27
+Kambodscha,2020-03-01,1
+Sri Lanka,2020-03-01,1
+Deutschland,2020-03-01,130
+Finnland,2020-03-01,6
+Vereinigte Arabische Emirate,2020-03-01,21
+Philippinen,2020-03-01,3
+Indien,2020-03-01,3
+Italien,2020-03-01,1694
+Schweden,2020-03-01,14
+Spanien,2020-03-01,84
+Belgien,2020-03-01,2
+Ägypten,2020-03-01,2
+Libanon,2020-03-01,10
+Irak,2020-03-01,19
+Oman,2020-03-01,6
+Afghanistan,2020-03-01,1
+Bahrain,2020-03-01,47
+Kuwait,2020-03-01,45
+Algerien,2020-03-01,1
+Kroatien,2020-03-01,7
+Schweiz,2020-03-01,27
+Österreich,2020-03-01,14
+Israel,2020-03-01,10
+Pakistan,2020-03-01,4
+Brasilien,2020-03-01,2
+Georgien,2020-03-01,3
+Griechenland,2020-03-01,7
+Mazedonien,2020-03-01,1
+Norwegen,2020-03-01,19
+Rumänien,2020-03-01,3
+Estland,2020-03-01,1
+Niederlande,2020-03-01,10
+San Marino,2020-03-01,1
+Weißrussland,2020-03-01,1
+Island,2020-03-01,3
+Litauen,2020-03-01,1
+Mexiko,2020-03-01,5
+Neuseeland,2020-03-01,1
+Nigeria,2020-03-01,1
+Irland,2020-03-01,1
+Luxemburg,2020-03-01,1
+Monaco,2020-03-01,1
+Katar,2020-03-01,3
+Ecuador,2020-03-01,6
+Aserbaidschan,2020-03-01,3
+Armenien,2020-03-01,1
+Dominikanische Republik,2020-03-01,1
+Indonesien,2020-03-01,0
+Portugal,2020-03-01,0
+Andorra,2020-03-01,0
+Lettland,2020-03-01,0
+Marokko,2020-03-01,0
+Saudi Arabien,2020-03-01,0
+Senegal,2020-03-01,0
+Argentinien,2020-03-01,0
+Chile,2020-03-01,0
+Jordanien,2020-03-01,0
+Ukraine,2020-03-01,0
+Ungarn,2020-03-01,0
+Liechtenstein,2020-03-01,0
+Polen,2020-03-01,0
+Tunesien,2020-03-01,0
+Bosnien und Herzegowina,2020-03-01,0
+Slowenien,2020-03-01,0
+Südafrika,2020-03-01,0
+Bhutan,2020-03-01,0
+Kamerun,2020-03-01,0
+Kolumbien,2020-03-01,0
+Costa Rica,2020-03-01,0
+Peru,2020-03-01,0
+Serbien,2020-03-01,0
+Slowakei,2020-03-01,0
+Togo,2020-03-01,0
+Malta,2020-03-01,0
+Martinique,2020-03-01,0
+Bulgarien,2020-03-01,0
+Malediven,2020-03-01,0
+Bangladesch,2020-03-01,0
+Paraguay,2020-03-01,0
+Albanien,2020-03-01,0
+Zypern,2020-03-01,0
+Brunei Darussalam,2020-03-01,0
+Vereinigte Staaten,2020-03-01,74
+Burkina Faso,2020-03-01,0
+Vatikanstaat,2020-03-01,0
+Mongolei,2020-03-01,0
+Panama,2020-03-01,0
+China,2020-03-01,79932
+Iran,2020-03-01,978
+Südkorea,2020-03-01,3736
+Frankreich,2020-03-01,130
+NA,2020-03-01,705
+Dänemark,2020-03-01,4
+Tschechische Republik,2020-03-01,3
+Taiwan,2020-03-01,40
+Vietnam,2020-03-01,16
+Russische Föderation,2020-03-01,2
+Republik Moldau,2020-03-01,0
+Bolivien,2020-03-01,0
+Honduras,2020-03-01,0
+Großbritannien,2020-03-01,36
+Demokratische Republik Kongo,2020-03-01,0
+Elfenbeinküste,2020-03-01,0
+Jamaika,2020-03-01,0
+Reunion,2020-03-01,0
+Türkei,2020-03-01,0
+Kuba,2020-03-01,0
+Guyana,2020-03-01,0
+Kasachstan,2020-03-01,0
+Cayman Inseln,2020-03-01,0
+Guadeloupe,2020-03-01,0
+Äthiopien,2020-03-01,0
+Sudan,2020-03-01,0
+Guinea,2020-03-01,0
+Aruba,2020-03-01,0
+Kenia,2020-03-01,0
+Antigua und Barbuda,2020-03-01,0
+Uruguay,2020-03-01,0
+Ghana,2020-03-01,0
+Jersey,2020-03-01,0
+Namibia,2020-03-01,0
+Seychellen,2020-03-01,0
+Trinidad und Tobago,2020-03-01,0
+Venezuela,2020-03-01,0
+Curacao,2020-03-01,0
+Swasiland,2020-03-01,0
+Gabun,2020-03-01,0
+Guatemala,2020-03-01,0
+Guernsey,2020-03-01,0
+Mauretanien,2020-03-01,0
+Ruanda,2020-03-01,0
+Saint Lucia,2020-03-01,0
+St. Vincent und die Grenadinen,2020-03-01,0
+Surinam,2020-03-01,0
+Palästina,2020-03-01,0
+Kosovo,2020-03-01,0
+Zentralafrikanische Republik,2020-03-01,0
+Kongo,2020-03-01,0
+Äquatorialguinea,2020-03-01,0
+Usbekistan,2020-03-01,0
+Thailand,2020-03-02,43
+Japan,2020-03-02,274
+Singapur,2020-03-02,108
+Nepal,2020-03-02,1
+Malaysia,2020-03-02,29
+Kanada,2020-03-02,27
+Australien,2020-03-02,30
+Kambodscha,2020-03-02,1
+Sri Lanka,2020-03-02,1
+Deutschland,2020-03-02,159
+Finnland,2020-03-02,6
+Vereinigte Arabische Emirate,2020-03-02,21
+Philippinen,2020-03-02,3
+Indien,2020-03-02,5
+Italien,2020-03-02,2036
+Schweden,2020-03-02,15
+Spanien,2020-03-02,120
+Belgien,2020-03-02,8
+Ägypten,2020-03-02,2
+Libanon,2020-03-02,13
+Irak,2020-03-02,26
+Oman,2020-03-02,6
+Afghanistan,2020-03-02,1
+Bahrain,2020-03-02,49
+Kuwait,2020-03-02,56
+Algerien,2020-03-02,3
+Kroatien,2020-03-02,7
+Schweiz,2020-03-02,42
+Österreich,2020-03-02,18
+Israel,2020-03-02,10
+Pakistan,2020-03-02,4
+Brasilien,2020-03-02,2
+Georgien,2020-03-02,3
+Griechenland,2020-03-02,7
+Mazedonien,2020-03-02,1
+Norwegen,2020-03-02,25
+Rumänien,2020-03-02,3
+Estland,2020-03-02,1
+Niederlande,2020-03-02,18
+San Marino,2020-03-02,8
+Weißrussland,2020-03-02,1
+Island,2020-03-02,6
+Litauen,2020-03-02,1
+Mexiko,2020-03-02,5
+Neuseeland,2020-03-02,1
+Nigeria,2020-03-02,1
+Irland,2020-03-02,1
+Luxemburg,2020-03-02,1
+Monaco,2020-03-02,1
+Katar,2020-03-02,3
+Ecuador,2020-03-02,6
+Aserbaidschan,2020-03-02,3
+Armenien,2020-03-02,1
+Dominikanische Republik,2020-03-02,1
+Indonesien,2020-03-02,2
+Portugal,2020-03-02,2
+Andorra,2020-03-02,1
+Lettland,2020-03-02,1
+Marokko,2020-03-02,1
+Saudi Arabien,2020-03-02,1
+Senegal,2020-03-02,1
+Argentinien,2020-03-02,0
+Chile,2020-03-02,0
+Jordanien,2020-03-02,0
+Ukraine,2020-03-02,0
+Ungarn,2020-03-02,0
+Liechtenstein,2020-03-02,0
+Polen,2020-03-02,0
+Tunesien,2020-03-02,0
+Bosnien und Herzegowina,2020-03-02,0
+Slowenien,2020-03-02,0
+Südafrika,2020-03-02,0
+Bhutan,2020-03-02,0
+Kamerun,2020-03-02,0
+Kolumbien,2020-03-02,0
+Costa Rica,2020-03-02,0
+Peru,2020-03-02,0
+Serbien,2020-03-02,0
+Slowakei,2020-03-02,0
+Togo,2020-03-02,0
+Malta,2020-03-02,0
+Martinique,2020-03-02,0
+Bulgarien,2020-03-02,0
+Malediven,2020-03-02,0
+Bangladesch,2020-03-02,0
+Paraguay,2020-03-02,0
+Albanien,2020-03-02,0
+Zypern,2020-03-02,0
+Brunei Darussalam,2020-03-02,0
+Vereinigte Staaten,2020-03-02,98
+Burkina Faso,2020-03-02,0
+Vatikanstaat,2020-03-02,0
+Mongolei,2020-03-02,0
+Panama,2020-03-02,0
+China,2020-03-02,80136
+Iran,2020-03-02,1501
+Südkorea,2020-03-02,4335
+Frankreich,2020-03-02,191
+NA,2020-03-02,705
+Dänemark,2020-03-02,4
+Tschechische Republik,2020-03-02,3
+Taiwan,2020-03-02,41
+Vietnam,2020-03-02,16
+Russische Föderation,2020-03-02,3
+Republik Moldau,2020-03-02,0
+Bolivien,2020-03-02,0
+Honduras,2020-03-02,0
+Großbritannien,2020-03-02,40
+Demokratische Republik Kongo,2020-03-02,0
+Elfenbeinküste,2020-03-02,0
+Jamaika,2020-03-02,0
+Reunion,2020-03-02,0
+Türkei,2020-03-02,0
+Kuba,2020-03-02,0
+Guyana,2020-03-02,0
+Kasachstan,2020-03-02,0
+Cayman Inseln,2020-03-02,0
+Guadeloupe,2020-03-02,0
+Äthiopien,2020-03-02,0
+Sudan,2020-03-02,0
+Guinea,2020-03-02,0
+Aruba,2020-03-02,0
+Kenia,2020-03-02,0
+Antigua und Barbuda,2020-03-02,0
+Uruguay,2020-03-02,0
+Ghana,2020-03-02,0
+Jersey,2020-03-02,0
+Namibia,2020-03-02,0
+Seychellen,2020-03-02,0
+Trinidad und Tobago,2020-03-02,0
+Venezuela,2020-03-02,0
+Curacao,2020-03-02,0
+Swasiland,2020-03-02,0
+Gabun,2020-03-02,0
+Guatemala,2020-03-02,0
+Guernsey,2020-03-02,0
+Mauretanien,2020-03-02,0
+Ruanda,2020-03-02,0
+Saint Lucia,2020-03-02,0
+St. Vincent und die Grenadinen,2020-03-02,0
+Surinam,2020-03-02,0
+Palästina,2020-03-02,0
+Kosovo,2020-03-02,0
+Zentralafrikanische Republik,2020-03-02,0
+Kongo,2020-03-02,0
+Äquatorialguinea,2020-03-02,0
+Usbekistan,2020-03-02,0
+Thailand,2020-03-03,43
+Japan,2020-03-03,293
+Singapur,2020-03-03,110
+Nepal,2020-03-03,1
+Malaysia,2020-03-03,36
+Kanada,2020-03-03,30
+Australien,2020-03-03,39
+Kambodscha,2020-03-03,1
+Sri Lanka,2020-03-03,1
+Deutschland,2020-03-03,196
+Finnland,2020-03-03,6
+Vereinigte Arabische Emirate,2020-03-03,27
+Philippinen,2020-03-03,3
+Indien,2020-03-03,5
+Italien,2020-03-03,2502
+Schweden,2020-03-03,21
+Spanien,2020-03-03,165
+Belgien,2020-03-03,13
+Ägypten,2020-03-03,2
+Libanon,2020-03-03,13
+Irak,2020-03-03,32
+Oman,2020-03-03,12
+Afghanistan,2020-03-03,1
+Bahrain,2020-03-03,49
+Kuwait,2020-03-03,56
+Algerien,2020-03-03,5
+Kroatien,2020-03-03,9
+Schweiz,2020-03-03,56
+Österreich,2020-03-03,21
+Israel,2020-03-03,12
+Pakistan,2020-03-03,5
+Brasilien,2020-03-03,2
+Georgien,2020-03-03,3
+Griechenland,2020-03-03,7
+Mazedonien,2020-03-03,1
+Norwegen,2020-03-03,32
+Rumänien,2020-03-03,3
+Estland,2020-03-03,2
+Niederlande,2020-03-03,24
+San Marino,2020-03-03,10
+Weißrussland,2020-03-03,1
+Island,2020-03-03,11
+Litauen,2020-03-03,1
+Mexiko,2020-03-03,5
+Neuseeland,2020-03-03,1
+Nigeria,2020-03-03,1
+Irland,2020-03-03,2
+Luxemburg,2020-03-03,1
+Monaco,2020-03-03,1
+Katar,2020-03-03,7
+Ecuador,2020-03-03,7
+Aserbaidschan,2020-03-03,3
+Armenien,2020-03-03,1
+Dominikanische Republik,2020-03-03,1
+Indonesien,2020-03-03,2
+Portugal,2020-03-03,2
+Andorra,2020-03-03,1
+Lettland,2020-03-03,1
+Marokko,2020-03-03,1
+Saudi Arabien,2020-03-03,1
+Senegal,2020-03-03,2
+Argentinien,2020-03-03,1
+Chile,2020-03-03,1
+Jordanien,2020-03-03,1
+Ukraine,2020-03-03,1
+Ungarn,2020-03-03,0
+Liechtenstein,2020-03-03,0
+Polen,2020-03-03,0
+Tunesien,2020-03-03,0
+Bosnien und Herzegowina,2020-03-03,0
+Slowenien,2020-03-03,0
+Südafrika,2020-03-03,0
+Bhutan,2020-03-03,0
+Kamerun,2020-03-03,0
+Kolumbien,2020-03-03,0
+Costa Rica,2020-03-03,0
+Peru,2020-03-03,0
+Serbien,2020-03-03,0
+Slowakei,2020-03-03,0
+Togo,2020-03-03,0
+Malta,2020-03-03,0
+Martinique,2020-03-03,0
+Bulgarien,2020-03-03,0
+Malediven,2020-03-03,0
+Bangladesch,2020-03-03,0
+Paraguay,2020-03-03,0
+Albanien,2020-03-03,0
+Zypern,2020-03-03,0
+Brunei Darussalam,2020-03-03,0
+Vereinigte Staaten,2020-03-03,118
+Burkina Faso,2020-03-03,0
+Vatikanstaat,2020-03-03,0
+Mongolei,2020-03-03,0
+Panama,2020-03-03,0
+China,2020-03-03,80261
+Iran,2020-03-03,2336
+Südkorea,2020-03-03,5186
+Frankreich,2020-03-03,204
+NA,2020-03-03,706
+Dänemark,2020-03-03,6
+Tschechische Republik,2020-03-03,5
+Taiwan,2020-03-03,42
+Vietnam,2020-03-03,16
+Russische Föderation,2020-03-03,3
+Republik Moldau,2020-03-03,0
+Bolivien,2020-03-03,0
+Honduras,2020-03-03,0
+Großbritannien,2020-03-03,51
+Demokratische Republik Kongo,2020-03-03,0
+Elfenbeinküste,2020-03-03,0
+Jamaika,2020-03-03,0
+Reunion,2020-03-03,0
+Türkei,2020-03-03,0
+Kuba,2020-03-03,0
+Guyana,2020-03-03,0
+Kasachstan,2020-03-03,0
+Cayman Inseln,2020-03-03,0
+Guadeloupe,2020-03-03,0
+Äthiopien,2020-03-03,0
+Sudan,2020-03-03,0
+Guinea,2020-03-03,0
+Aruba,2020-03-03,0
+Kenia,2020-03-03,0
+Antigua und Barbuda,2020-03-03,0
+Uruguay,2020-03-03,0
+Ghana,2020-03-03,0
+Jersey,2020-03-03,0
+Namibia,2020-03-03,0
+Seychellen,2020-03-03,0
+Trinidad und Tobago,2020-03-03,0
+Venezuela,2020-03-03,0
+Curacao,2020-03-03,0
+Swasiland,2020-03-03,0
+Gabun,2020-03-03,0
+Guatemala,2020-03-03,0
+Guernsey,2020-03-03,0
+Mauretanien,2020-03-03,0
+Ruanda,2020-03-03,0
+Saint Lucia,2020-03-03,0
+St. Vincent und die Grenadinen,2020-03-03,0
+Surinam,2020-03-03,0
+Palästina,2020-03-03,0
+Kosovo,2020-03-03,0
+Zentralafrikanische Republik,2020-03-03,0
+Kongo,2020-03-03,0
+Äquatorialguinea,2020-03-03,0
+Usbekistan,2020-03-03,0
+Thailand,2020-03-04,43
+Japan,2020-03-04,331
+Singapur,2020-03-04,110
+Nepal,2020-03-04,1
+Malaysia,2020-03-04,50
+Kanada,2020-03-04,33
+Australien,2020-03-04,52
+Kambodscha,2020-03-04,1
+Sri Lanka,2020-03-04,1
+Deutschland,2020-03-04,262
+Finnland,2020-03-04,6
+Vereinigte Arabische Emirate,2020-03-04,27
+Philippinen,2020-03-04,3
+Indien,2020-03-04,28
+Italien,2020-03-04,3089
+Schweden,2020-03-04,35
+Spanien,2020-03-04,222
+Belgien,2020-03-04,23
+Ägypten,2020-03-04,2
+Libanon,2020-03-04,13
+Irak,2020-03-04,35
+Oman,2020-03-04,15
+Afghanistan,2020-03-04,1
+Bahrain,2020-03-04,52
+Kuwait,2020-03-04,56
+Algerien,2020-03-04,12
+Kroatien,2020-03-04,10
+Schweiz,2020-03-04,90
+Österreich,2020-03-04,29
+Israel,2020-03-04,15
+Pakistan,2020-03-04,5
+Brasilien,2020-03-04,4
+Georgien,2020-03-04,3
+Griechenland,2020-03-04,9
+Mazedonien,2020-03-04,1
+Norwegen,2020-03-04,56
+Rumänien,2020-03-04,4
+Estland,2020-03-04,2
+Niederlande,2020-03-04,38
+San Marino,2020-03-04,16
+Weißrussland,2020-03-04,6
+Island,2020-03-04,26
+Litauen,2020-03-04,1
+Mexiko,2020-03-04,5
+Neuseeland,2020-03-04,3
+Nigeria,2020-03-04,1
+Irland,2020-03-04,6
+Luxemburg,2020-03-04,1
+Monaco,2020-03-04,1
+Katar,2020-03-04,8
+Ecuador,2020-03-04,10
+Aserbaidschan,2020-03-04,3
+Armenien,2020-03-04,1
+Dominikanische Republik,2020-03-04,1
+Indonesien,2020-03-04,2
+Portugal,2020-03-04,5
+Andorra,2020-03-04,1
+Lettland,2020-03-04,1
+Marokko,2020-03-04,1
+Saudi Arabien,2020-03-04,1
+Senegal,2020-03-04,4
+Argentinien,2020-03-04,1
+Chile,2020-03-04,1
+Jordanien,2020-03-04,1
+Ukraine,2020-03-04,1
+Ungarn,2020-03-04,2
+Liechtenstein,2020-03-04,1
+Polen,2020-03-04,1
+Tunesien,2020-03-04,1
+Bosnien und Herzegowina,2020-03-04,0
+Slowenien,2020-03-04,0
+Südafrika,2020-03-04,0
+Bhutan,2020-03-04,0
+Kamerun,2020-03-04,0
+Kolumbien,2020-03-04,0
+Costa Rica,2020-03-04,0
+Peru,2020-03-04,0
+Serbien,2020-03-04,0
+Slowakei,2020-03-04,0
+Togo,2020-03-04,0
+Malta,2020-03-04,0
+Martinique,2020-03-04,0
+Bulgarien,2020-03-04,0
+Malediven,2020-03-04,0
+Bangladesch,2020-03-04,0
+Paraguay,2020-03-04,0
+Albanien,2020-03-04,0
+Zypern,2020-03-04,0
+Brunei Darussalam,2020-03-04,0
+Vereinigte Staaten,2020-03-04,149
+Burkina Faso,2020-03-04,0
+Vatikanstaat,2020-03-04,0
+Mongolei,2020-03-04,0
+Panama,2020-03-04,0
+China,2020-03-04,80386
+Iran,2020-03-04,2922
+Südkorea,2020-03-04,5621
+Frankreich,2020-03-04,288
+NA,2020-03-04,706
+Dänemark,2020-03-04,11
+Tschechische Republik,2020-03-04,8
+Taiwan,2020-03-04,42
+Vietnam,2020-03-04,16
+Russische Föderation,2020-03-04,3
+Republik Moldau,2020-03-04,0
+Bolivien,2020-03-04,0
+Honduras,2020-03-04,0
+Großbritannien,2020-03-04,86
+Demokratische Republik Kongo,2020-03-04,0
+Elfenbeinküste,2020-03-04,0
+Jamaika,2020-03-04,0
+Reunion,2020-03-04,0
+Türkei,2020-03-04,0
+Kuba,2020-03-04,0
+Guyana,2020-03-04,0
+Kasachstan,2020-03-04,0
+Cayman Inseln,2020-03-04,0
+Guadeloupe,2020-03-04,0
+Äthiopien,2020-03-04,0
+Sudan,2020-03-04,0
+Guinea,2020-03-04,0
+Aruba,2020-03-04,0
+Kenia,2020-03-04,0
+Antigua und Barbuda,2020-03-04,0
+Uruguay,2020-03-04,0
+Ghana,2020-03-04,0
+Jersey,2020-03-04,0
+Namibia,2020-03-04,0
+Seychellen,2020-03-04,0
+Trinidad und Tobago,2020-03-04,0
+Venezuela,2020-03-04,0
+Curacao,2020-03-04,0
+Swasiland,2020-03-04,0
+Gabun,2020-03-04,0
+Guatemala,2020-03-04,0
+Guernsey,2020-03-04,0
+Mauretanien,2020-03-04,0
+Ruanda,2020-03-04,0
+Saint Lucia,2020-03-04,0
+St. Vincent und die Grenadinen,2020-03-04,0
+Surinam,2020-03-04,0
+Palästina,2020-03-04,0
+Kosovo,2020-03-04,0
+Zentralafrikanische Republik,2020-03-04,0
+Kongo,2020-03-04,0
+Äquatorialguinea,2020-03-04,0
+Usbekistan,2020-03-04,0
+Thailand,2020-03-05,47
+Japan,2020-03-05,360
+Singapur,2020-03-05,117
+Nepal,2020-03-05,1
+Malaysia,2020-03-05,50
+Kanada,2020-03-05,37
+Australien,2020-03-05,55
+Kambodscha,2020-03-05,1
+Sri Lanka,2020-03-05,1
+Deutschland,2020-03-05,482
+Finnland,2020-03-05,12
+Vereinigte Arabische Emirate,2020-03-05,29
+Philippinen,2020-03-05,3
+Indien,2020-03-05,30
+Italien,2020-03-05,3858
+Schweden,2020-03-05,94
+Spanien,2020-03-05,259
+Belgien,2020-03-05,50
+Ägypten,2020-03-05,3
+Libanon,2020-03-05,16
+Irak,2020-03-05,35
+Oman,2020-03-05,16
+Afghanistan,2020-03-05,1
+Bahrain,2020-03-05,55
+Kuwait,2020-03-05,58
+Algerien,2020-03-05,12
+Kroatien,2020-03-05,10
+Schweiz,2020-03-05,114
+Österreich,2020-03-05,41
+Israel,2020-03-05,20
+Pakistan,2020-03-05,5
+Brasilien,2020-03-05,4
+Georgien,2020-03-05,4
+Griechenland,2020-03-05,31
+Mazedonien,2020-03-05,1
+Norwegen,2020-03-05,87
+Rumänien,2020-03-05,6
+Estland,2020-03-05,3
+Niederlande,2020-03-05,82
+San Marino,2020-03-05,21
+Weißrussland,2020-03-05,6
+Island,2020-03-05,34
+Litauen,2020-03-05,1
+Mexiko,2020-03-05,5
+Neuseeland,2020-03-05,3
+Nigeria,2020-03-05,1
+Irland,2020-03-05,6
+Luxemburg,2020-03-05,1
+Monaco,2020-03-05,1
+Katar,2020-03-05,8
+Ecuador,2020-03-05,13
+Aserbaidschan,2020-03-05,6
+Armenien,2020-03-05,1
+Dominikanische Republik,2020-03-05,1
+Indonesien,2020-03-05,2
+Portugal,2020-03-05,8
+Andorra,2020-03-05,1
+Lettland,2020-03-05,1
+Marokko,2020-03-05,2
+Saudi Arabien,2020-03-05,5
+Senegal,2020-03-05,4
+Argentinien,2020-03-05,1
+Chile,2020-03-05,4
+Jordanien,2020-03-05,1
+Ukraine,2020-03-05,1
+Ungarn,2020-03-05,2
+Liechtenstein,2020-03-05,1
+Polen,2020-03-05,1
+Tunesien,2020-03-05,1
+Bosnien und Herzegowina,2020-03-05,2
+Slowenien,2020-03-05,2
+Südafrika,2020-03-05,1
+Bhutan,2020-03-05,0
+Kamerun,2020-03-05,0
+Kolumbien,2020-03-05,0
+Costa Rica,2020-03-05,0
+Peru,2020-03-05,0
+Serbien,2020-03-05,0
+Slowakei,2020-03-05,0
+Togo,2020-03-05,0
+Malta,2020-03-05,0
+Martinique,2020-03-05,0
+Bulgarien,2020-03-05,0
+Malediven,2020-03-05,0
+Bangladesch,2020-03-05,0
+Paraguay,2020-03-05,0
+Albanien,2020-03-05,0
+Zypern,2020-03-05,0
+Brunei Darussalam,2020-03-05,0
+Vereinigte Staaten,2020-03-05,217
+Burkina Faso,2020-03-05,0
+Vatikanstaat,2020-03-05,0
+Mongolei,2020-03-05,0
+Panama,2020-03-05,0
+China,2020-03-05,80537
+Iran,2020-03-05,3513
+Südkorea,2020-03-05,6088
+Frankreich,2020-03-05,380
+NA,2020-03-05,706
+Dänemark,2020-03-05,11
+Tschechische Republik,2020-03-05,12
+Taiwan,2020-03-05,44
+Vietnam,2020-03-05,16
+Russische Föderation,2020-03-05,4
+Republik Moldau,2020-03-05,0
+Bolivien,2020-03-05,0
+Honduras,2020-03-05,0
+Großbritannien,2020-03-05,116
+Demokratische Republik Kongo,2020-03-05,0
+Elfenbeinküste,2020-03-05,0
+Jamaika,2020-03-05,0
+Reunion,2020-03-05,0
+Türkei,2020-03-05,0
+Kuba,2020-03-05,0
+Guyana,2020-03-05,0
+Kasachstan,2020-03-05,0
+Cayman Inseln,2020-03-05,0
+Guadeloupe,2020-03-05,0
+Äthiopien,2020-03-05,0
+Sudan,2020-03-05,0
+Guinea,2020-03-05,0
+Aruba,2020-03-05,0
+Kenia,2020-03-05,0
+Antigua und Barbuda,2020-03-05,0
+Uruguay,2020-03-05,0
+Ghana,2020-03-05,0
+Jersey,2020-03-05,0
+Namibia,2020-03-05,0
+Seychellen,2020-03-05,0
+Trinidad und Tobago,2020-03-05,0
+Venezuela,2020-03-05,0
+Curacao,2020-03-05,0
+Swasiland,2020-03-05,0
+Gabun,2020-03-05,0
+Guatemala,2020-03-05,0
+Guernsey,2020-03-05,0
+Mauretanien,2020-03-05,0
+Ruanda,2020-03-05,0
+Saint Lucia,2020-03-05,0
+St. Vincent und die Grenadinen,2020-03-05,0
+Surinam,2020-03-05,0
+Palästina,2020-03-05,0
+Kosovo,2020-03-05,0
+Zentralafrikanische Republik,2020-03-05,0
+Kongo,2020-03-05,0
+Äquatorialguinea,2020-03-05,0
+Usbekistan,2020-03-05,0
+Thailand,2020-03-06,48
+Japan,2020-03-06,420
+Singapur,2020-03-06,130
+Nepal,2020-03-06,1
+Malaysia,2020-03-06,83
+Kanada,2020-03-06,49
+Australien,2020-03-06,60
+Kambodscha,2020-03-06,1
+Sri Lanka,2020-03-06,1
+Deutschland,2020-03-06,670
+Finnland,2020-03-06,15
+Vereinigte Arabische Emirate,2020-03-06,29
+Philippinen,2020-03-06,5
+Indien,2020-03-06,31
+Italien,2020-03-06,4636
+Schweden,2020-03-06,101
+Spanien,2020-03-06,400
+Belgien,2020-03-06,109
+Ägypten,2020-03-06,15
+Libanon,2020-03-06,22
+Irak,2020-03-06,40
+Oman,2020-03-06,16
+Afghanistan,2020-03-06,1
+Bahrain,2020-03-06,60
+Kuwait,2020-03-06,58
+Algerien,2020-03-06,17
+Kroatien,2020-03-06,11
+Schweiz,2020-03-06,214
+Österreich,2020-03-06,55
+Israel,2020-03-06,37
+Pakistan,2020-03-06,6
+Brasilien,2020-03-06,13
+Georgien,2020-03-06,4
+Griechenland,2020-03-06,45
+Mazedonien,2020-03-06,3
+Norwegen,2020-03-06,108
+Rumänien,2020-03-06,9
+Estland,2020-03-06,10
+Niederlande,2020-03-06,128
+San Marino,2020-03-06,21
+Weißrussland,2020-03-06,6
+Island,2020-03-06,43
+Litauen,2020-03-06,1
+Mexiko,2020-03-06,6
+Neuseeland,2020-03-06,4
+Nigeria,2020-03-06,1
+Irland,2020-03-06,18
+Luxemburg,2020-03-06,2
+Monaco,2020-03-06,1
+Katar,2020-03-06,8
+Ecuador,2020-03-06,13
+Aserbaidschan,2020-03-06,6
+Armenien,2020-03-06,1
+Dominikanische Republik,2020-03-06,2
+Indonesien,2020-03-06,4
+Portugal,2020-03-06,13
+Andorra,2020-03-06,1
+Lettland,2020-03-06,1
+Marokko,2020-03-06,2
+Saudi Arabien,2020-03-06,5
+Senegal,2020-03-06,4
+Argentinien,2020-03-06,2
+Chile,2020-03-06,4
+Jordanien,2020-03-06,1
+Ukraine,2020-03-06,1
+Ungarn,2020-03-06,2
+Liechtenstein,2020-03-06,1
+Polen,2020-03-06,5
+Tunesien,2020-03-06,1
+Bosnien und Herzegowina,2020-03-06,2
+Slowenien,2020-03-06,7
+Südafrika,2020-03-06,1
+Bhutan,2020-03-06,1
+Kamerun,2020-03-06,1
+Kolumbien,2020-03-06,1
+Costa Rica,2020-03-06,1
+Peru,2020-03-06,1
+Serbien,2020-03-06,1
+Slowakei,2020-03-06,1
+Togo,2020-03-06,1
+Malta,2020-03-06,0
+Martinique,2020-03-06,0
+Bulgarien,2020-03-06,0
+Malediven,2020-03-06,0
+Bangladesch,2020-03-06,0
+Paraguay,2020-03-06,0
+Albanien,2020-03-06,0
+Zypern,2020-03-06,0
+Brunei Darussalam,2020-03-06,0
+Vereinigte Staaten,2020-03-06,262
+Burkina Faso,2020-03-06,0
+Vatikanstaat,2020-03-06,1
+Mongolei,2020-03-06,0
+Panama,2020-03-06,0
+China,2020-03-06,80690
+Iran,2020-03-06,4747
+Südkorea,2020-03-06,6593
+Frankreich,2020-03-06,656
+NA,2020-03-06,696
+Dänemark,2020-03-06,24
+Tschechische Republik,2020-03-06,18
+Taiwan,2020-03-06,45
+Vietnam,2020-03-06,16
+Russische Föderation,2020-03-06,13
+Republik Moldau,2020-03-06,0
+Bolivien,2020-03-06,0
+Honduras,2020-03-06,0
+Großbritannien,2020-03-06,164
+Demokratische Republik Kongo,2020-03-06,0
+Elfenbeinküste,2020-03-06,0
+Jamaika,2020-03-06,0
+Reunion,2020-03-06,0
+Türkei,2020-03-06,0
+Kuba,2020-03-06,0
+Guyana,2020-03-06,0
+Kasachstan,2020-03-06,0
+Cayman Inseln,2020-03-06,0
+Guadeloupe,2020-03-06,0
+Äthiopien,2020-03-06,0
+Sudan,2020-03-06,0
+Guinea,2020-03-06,0
+Aruba,2020-03-06,0
+Kenia,2020-03-06,0
+Antigua und Barbuda,2020-03-06,0
+Uruguay,2020-03-06,0
+Ghana,2020-03-06,0
+Jersey,2020-03-06,0
+Namibia,2020-03-06,0
+Seychellen,2020-03-06,0
+Trinidad und Tobago,2020-03-06,0
+Venezuela,2020-03-06,0
+Curacao,2020-03-06,0
+Swasiland,2020-03-06,0
+Gabun,2020-03-06,0
+Guatemala,2020-03-06,0
+Guernsey,2020-03-06,0
+Mauretanien,2020-03-06,0
+Ruanda,2020-03-06,0
+Saint Lucia,2020-03-06,0
+St. Vincent und die Grenadinen,2020-03-06,0
+Surinam,2020-03-06,0
+Palästina,2020-03-06,0
+Kosovo,2020-03-06,0
+Zentralafrikanische Republik,2020-03-06,0
+Kongo,2020-03-06,0
+Äquatorialguinea,2020-03-06,0
+Usbekistan,2020-03-06,0
+Thailand,2020-03-07,50
+Japan,2020-03-07,461
+Singapur,2020-03-07,138
+Nepal,2020-03-07,1
+Malaysia,2020-03-07,93
+Kanada,2020-03-07,54
+Australien,2020-03-07,63
+Kambodscha,2020-03-07,1
+Sri Lanka,2020-03-07,1
+Deutschland,2020-03-07,799
+Finnland,2020-03-07,15
+Vereinigte Arabische Emirate,2020-03-07,45
+Philippinen,2020-03-07,6
+Indien,2020-03-07,34
+Italien,2020-03-07,5883
+Schweden,2020-03-07,161
+Spanien,2020-03-07,500
+Belgien,2020-03-07,169
+Ägypten,2020-03-07,15
+Libanon,2020-03-07,22
+Irak,2020-03-07,54
+Oman,2020-03-07,16
+Afghanistan,2020-03-07,1
+Bahrain,2020-03-07,85
+Kuwait,2020-03-07,61
+Algerien,2020-03-07,17
+Kroatien,2020-03-07,12
+Schweiz,2020-03-07,268
+Österreich,2020-03-07,79
+Israel,2020-03-07,43
+Pakistan,2020-03-07,6
+Brasilien,2020-03-07,13
+Georgien,2020-03-07,4
+Griechenland,2020-03-07,46
+Mazedonien,2020-03-07,3
+Norwegen,2020-03-07,147
+Rumänien,2020-03-07,9
+Estland,2020-03-07,10
+Niederlande,2020-03-07,188
+San Marino,2020-03-07,23
+Weißrussland,2020-03-07,6
+Island,2020-03-07,50
+Litauen,2020-03-07,1
+Mexiko,2020-03-07,6
+Neuseeland,2020-03-07,5
+Nigeria,2020-03-07,1
+Irland,2020-03-07,18
+Luxemburg,2020-03-07,2
+Monaco,2020-03-07,1
+Katar,2020-03-07,8
+Ecuador,2020-03-07,13
+Aserbaidschan,2020-03-07,9
+Armenien,2020-03-07,1
+Dominikanische Republik,2020-03-07,2
+Indonesien,2020-03-07,4
+Portugal,2020-03-07,20
+Andorra,2020-03-07,1
+Lettland,2020-03-07,1
+Marokko,2020-03-07,2
+Saudi Arabien,2020-03-07,5
+Senegal,2020-03-07,4
+Argentinien,2020-03-07,8
+Chile,2020-03-07,4
+Jordanien,2020-03-07,1
+Ukraine,2020-03-07,1
+Ungarn,2020-03-07,4
+Liechtenstein,2020-03-07,1
+Polen,2020-03-07,5
+Tunesien,2020-03-07,1
+Bosnien und Herzegowina,2020-03-07,3
+Slowenien,2020-03-07,7
+Südafrika,2020-03-07,1
+Bhutan,2020-03-07,1
+Kamerun,2020-03-07,1
+Kolumbien,2020-03-07,1
+Costa Rica,2020-03-07,1
+Peru,2020-03-07,1
+Serbien,2020-03-07,1
+Slowakei,2020-03-07,1
+Togo,2020-03-07,1
+Malta,2020-03-07,3
+Martinique,2020-03-07,2
+Bulgarien,2020-03-07,0
+Malediven,2020-03-07,0
+Bangladesch,2020-03-07,0
+Paraguay,2020-03-07,0
+Albanien,2020-03-07,0
+Zypern,2020-03-07,0
+Brunei Darussalam,2020-03-07,0
+Vereinigte Staaten,2020-03-07,402
+Burkina Faso,2020-03-07,0
+Vatikanstaat,2020-03-07,1
+Mongolei,2020-03-07,0
+Panama,2020-03-07,0
+China,2020-03-07,80770
+Iran,2020-03-07,5823
+Südkorea,2020-03-07,7041
+Frankreich,2020-03-07,957
+NA,2020-03-07,696
+Dänemark,2020-03-07,24
+Tschechische Republik,2020-03-07,19
+Taiwan,2020-03-07,45
+Vietnam,2020-03-07,18
+Russische Föderation,2020-03-07,13
+Republik Moldau,2020-03-07,0
+Bolivien,2020-03-07,0
+Honduras,2020-03-07,0
+Großbritannien,2020-03-07,207
+Demokratische Republik Kongo,2020-03-07,0
+Elfenbeinküste,2020-03-07,0
+Jamaika,2020-03-07,0
+Reunion,2020-03-07,0
+Türkei,2020-03-07,0
+Kuba,2020-03-07,0
+Guyana,2020-03-07,0
+Kasachstan,2020-03-07,0
+Cayman Inseln,2020-03-07,0
+Guadeloupe,2020-03-07,0
+Äthiopien,2020-03-07,0
+Sudan,2020-03-07,0
+Guinea,2020-03-07,0
+Aruba,2020-03-07,0
+Kenia,2020-03-07,0
+Antigua und Barbuda,2020-03-07,0
+Uruguay,2020-03-07,0
+Ghana,2020-03-07,0
+Jersey,2020-03-07,0
+Namibia,2020-03-07,0
+Seychellen,2020-03-07,0
+Trinidad und Tobago,2020-03-07,0
+Venezuela,2020-03-07,0
+Curacao,2020-03-07,0
+Swasiland,2020-03-07,0
+Gabun,2020-03-07,0
+Guatemala,2020-03-07,0
+Guernsey,2020-03-07,0
+Mauretanien,2020-03-07,0
+Ruanda,2020-03-07,0
+Saint Lucia,2020-03-07,0
+St. Vincent und die Grenadinen,2020-03-07,0
+Surinam,2020-03-07,0
+Palästina,2020-03-07,0
+Kosovo,2020-03-07,0
+Zentralafrikanische Republik,2020-03-07,0
+Kongo,2020-03-07,0
+Äquatorialguinea,2020-03-07,0
+Usbekistan,2020-03-07,0
+Thailand,2020-03-08,50
+Japan,2020-03-08,502
+Singapur,2020-03-08,150
+Nepal,2020-03-08,1
+Malaysia,2020-03-08,99
+Kanada,2020-03-08,64
+Australien,2020-03-08,76
+Kambodscha,2020-03-08,2
+Sri Lanka,2020-03-08,1
+Deutschland,2020-03-08,1040
+Finnland,2020-03-08,23
+Vereinigte Arabische Emirate,2020-03-08,45
+Philippinen,2020-03-08,10
+Indien,2020-03-08,39
+Italien,2020-03-08,7375
+Schweden,2020-03-08,203
+Spanien,2020-03-08,673
+Belgien,2020-03-08,200
+Ägypten,2020-03-08,49
+Libanon,2020-03-08,32
+Irak,2020-03-08,60
+Oman,2020-03-08,16
+Afghanistan,2020-03-08,4
+Bahrain,2020-03-08,85
+Kuwait,2020-03-08,64
+Algerien,2020-03-08,19
+Kroatien,2020-03-08,12
+Schweiz,2020-03-08,337
+Österreich,2020-03-08,104
+Israel,2020-03-08,61
+Pakistan,2020-03-08,6
+Brasilien,2020-03-08,20
+Georgien,2020-03-08,13
+Griechenland,2020-03-08,73
+Mazedonien,2020-03-08,3
+Norwegen,2020-03-08,176
+Rumänien,2020-03-08,15
+Estland,2020-03-08,10
+Niederlande,2020-03-08,265
+San Marino,2020-03-08,36
+Weißrussland,2020-03-08,6
+Island,2020-03-08,50
+Litauen,2020-03-08,1
+Mexiko,2020-03-08,7
+Neuseeland,2020-03-08,5
+Nigeria,2020-03-08,1
+Irland,2020-03-08,19
+Luxemburg,2020-03-08,3
+Monaco,2020-03-08,1
+Katar,2020-03-08,15
+Ecuador,2020-03-08,14
+Aserbaidschan,2020-03-08,9
+Armenien,2020-03-08,1
+Dominikanische Republik,2020-03-08,5
+Indonesien,2020-03-08,6
+Portugal,2020-03-08,30
+Andorra,2020-03-08,1
+Lettland,2020-03-08,2
+Marokko,2020-03-08,2
+Saudi Arabien,2020-03-08,11
+Senegal,2020-03-08,4
+Argentinien,2020-03-08,12
+Chile,2020-03-08,8
+Jordanien,2020-03-08,1
+Ukraine,2020-03-08,1
+Ungarn,2020-03-08,7
+Liechtenstein,2020-03-08,1
+Polen,2020-03-08,11
+Tunesien,2020-03-08,2
+Bosnien und Herzegowina,2020-03-08,3
+Slowenien,2020-03-08,16
+Südafrika,2020-03-08,3
+Bhutan,2020-03-08,1
+Kamerun,2020-03-08,2
+Kolumbien,2020-03-08,1
+Costa Rica,2020-03-08,5
+Peru,2020-03-08,6
+Serbien,2020-03-08,1
+Slowakei,2020-03-08,3
+Togo,2020-03-08,1
+Malta,2020-03-08,3
+Martinique,2020-03-08,2
+Bulgarien,2020-03-08,4
+Malediven,2020-03-08,4
+Bangladesch,2020-03-08,3
+Paraguay,2020-03-08,1
+Albanien,2020-03-08,0
+Zypern,2020-03-08,0
+Brunei Darussalam,2020-03-08,0
+Vereinigte Staaten,2020-03-08,518
+Burkina Faso,2020-03-08,0
+Vatikanstaat,2020-03-08,1
+Mongolei,2020-03-08,0
+Panama,2020-03-08,0
+China,2020-03-08,80823
+Iran,2020-03-08,6566
+Südkorea,2020-03-08,7314
+Frankreich,2020-03-08,1134
+NA,2020-03-08,696
+Dänemark,2020-03-08,37
+Tschechische Republik,2020-03-08,31
+Taiwan,2020-03-08,45
+Vietnam,2020-03-08,30
+Russische Föderation,2020-03-08,17
+Republik Moldau,2020-03-08,1
+Bolivien,2020-03-08,0
+Honduras,2020-03-08,0
+Großbritannien,2020-03-08,274
+Demokratische Republik Kongo,2020-03-08,0
+Elfenbeinküste,2020-03-08,0
+Jamaika,2020-03-08,0
+Reunion,2020-03-08,0
+Türkei,2020-03-08,0
+Kuba,2020-03-08,0
+Guyana,2020-03-08,0
+Kasachstan,2020-03-08,0
+Cayman Inseln,2020-03-08,0
+Guadeloupe,2020-03-08,0
+Äthiopien,2020-03-08,0
+Sudan,2020-03-08,0
+Guinea,2020-03-08,0
+Aruba,2020-03-08,0
+Kenia,2020-03-08,0
+Antigua und Barbuda,2020-03-08,0
+Uruguay,2020-03-08,0
+Ghana,2020-03-08,0
+Jersey,2020-03-08,0
+Namibia,2020-03-08,0
+Seychellen,2020-03-08,0
+Trinidad und Tobago,2020-03-08,0
+Venezuela,2020-03-08,0
+Curacao,2020-03-08,0
+Swasiland,2020-03-08,0
+Gabun,2020-03-08,0
+Guatemala,2020-03-08,0
+Guernsey,2020-03-08,0
+Mauretanien,2020-03-08,0
+Ruanda,2020-03-08,0
+Saint Lucia,2020-03-08,0
+St. Vincent und die Grenadinen,2020-03-08,0
+Surinam,2020-03-08,0
+Palästina,2020-03-08,0
+Kosovo,2020-03-08,0
+Zentralafrikanische Republik,2020-03-08,0
+Kongo,2020-03-08,0
+Äquatorialguinea,2020-03-08,0
+Usbekistan,2020-03-08,0
+Thailand,2020-03-09,50
+Japan,2020-03-09,511
+Singapur,2020-03-09,150
+Nepal,2020-03-09,1
+Malaysia,2020-03-09,117
+Kanada,2020-03-09,77
+Australien,2020-03-09,91
+Kambodscha,2020-03-09,2
+Sri Lanka,2020-03-09,1
+Deutschland,2020-03-09,1176
+Finnland,2020-03-09,30
+Vereinigte Arabische Emirate,2020-03-09,45
+Philippinen,2020-03-09,20
+Indien,2020-03-09,43
+Italien,2020-03-09,9172
+Schweden,2020-03-09,248
+Spanien,2020-03-09,1073
+Belgien,2020-03-09,239
+Ägypten,2020-03-09,55
+Libanon,2020-03-09,32
+Irak,2020-03-09,60
+Oman,2020-03-09,16
+Afghanistan,2020-03-09,4
+Bahrain,2020-03-09,95
+Kuwait,2020-03-09,64
+Algerien,2020-03-09,20
+Kroatien,2020-03-09,12
+Schweiz,2020-03-09,374
+Österreich,2020-03-09,131
+Israel,2020-03-09,61
+Pakistan,2020-03-09,6
+Brasilien,2020-03-09,25
+Georgien,2020-03-09,15
+Griechenland,2020-03-09,73
+Mazedonien,2020-03-09,3
+Norwegen,2020-03-09,205
+Rumänien,2020-03-09,15
+Estland,2020-03-09,10
+Niederlande,2020-03-09,321
+San Marino,2020-03-09,36
+Weißrussland,2020-03-09,6
+Island,2020-03-09,58
+Litauen,2020-03-09,1
+Mexiko,2020-03-09,7
+Neuseeland,2020-03-09,5
+Nigeria,2020-03-09,2
+Irland,2020-03-09,21
+Luxemburg,2020-03-09,3
+Monaco,2020-03-09,1
+Katar,2020-03-09,18
+Ecuador,2020-03-09,15
+Aserbaidschan,2020-03-09,9
+Armenien,2020-03-09,1
+Dominikanische Republik,2020-03-09,5
+Indonesien,2020-03-09,19
+Portugal,2020-03-09,30
+Andorra,2020-03-09,1
+Lettland,2020-03-09,6
+Marokko,2020-03-09,2
+Saudi Arabien,2020-03-09,15
+Senegal,2020-03-09,4
+Argentinien,2020-03-09,12
+Chile,2020-03-09,8
+Jordanien,2020-03-09,1
+Ukraine,2020-03-09,1
+Ungarn,2020-03-09,9
+Liechtenstein,2020-03-09,1
+Polen,2020-03-09,16
+Tunesien,2020-03-09,2
+Bosnien und Herzegowina,2020-03-09,3
+Slowenien,2020-03-09,16
+Südafrika,2020-03-09,3
+Bhutan,2020-03-09,1
+Kamerun,2020-03-09,2
+Kolumbien,2020-03-09,1
+Costa Rica,2020-03-09,9
+Peru,2020-03-09,7
+Serbien,2020-03-09,1
+Slowakei,2020-03-09,3
+Togo,2020-03-09,1
+Malta,2020-03-09,3
+Martinique,2020-03-09,2
+Bulgarien,2020-03-09,4
+Malediven,2020-03-09,4
+Bangladesch,2020-03-09,3
+Paraguay,2020-03-09,1
+Albanien,2020-03-09,2
+Zypern,2020-03-09,2
+Brunei Darussalam,2020-03-09,1
+Vereinigte Staaten,2020-03-09,583
+Burkina Faso,2020-03-09,0
+Vatikanstaat,2020-03-09,1
+Mongolei,2020-03-09,0
+Panama,2020-03-09,0
+China,2020-03-09,80860
+Iran,2020-03-09,7161
+Südkorea,2020-03-09,7478
+Frankreich,2020-03-09,1217
+NA,2020-03-09,696
+Dänemark,2020-03-09,92
+Tschechische Republik,2020-03-09,31
+Taiwan,2020-03-09,45
+Vietnam,2020-03-09,30
+Russische Föderation,2020-03-09,17
+Republik Moldau,2020-03-09,1
+Bolivien,2020-03-09,0
+Honduras,2020-03-09,0
+Großbritannien,2020-03-09,322
+Demokratische Republik Kongo,2020-03-09,0
+Elfenbeinküste,2020-03-09,0
+Jamaika,2020-03-09,0
+Reunion,2020-03-09,0
+Türkei,2020-03-09,0
+Kuba,2020-03-09,0
+Guyana,2020-03-09,0
+Kasachstan,2020-03-09,0
+Cayman Inseln,2020-03-09,0
+Guadeloupe,2020-03-09,0
+Äthiopien,2020-03-09,0
+Sudan,2020-03-09,0
+Guinea,2020-03-09,0
+Aruba,2020-03-09,0
+Kenia,2020-03-09,0
+Antigua und Barbuda,2020-03-09,0
+Uruguay,2020-03-09,0
+Ghana,2020-03-09,0
+Jersey,2020-03-09,0
+Namibia,2020-03-09,0
+Seychellen,2020-03-09,0
+Trinidad und Tobago,2020-03-09,0
+Venezuela,2020-03-09,0
+Curacao,2020-03-09,0
+Swasiland,2020-03-09,0
+Gabun,2020-03-09,0
+Guatemala,2020-03-09,0
+Guernsey,2020-03-09,0
+Mauretanien,2020-03-09,0
+Ruanda,2020-03-09,0
+Saint Lucia,2020-03-09,0
+St. Vincent und die Grenadinen,2020-03-09,0
+Surinam,2020-03-09,0
+Palästina,2020-03-09,0
+Kosovo,2020-03-09,0
+Zentralafrikanische Republik,2020-03-09,0
+Kongo,2020-03-09,0
+Äquatorialguinea,2020-03-09,0
+Usbekistan,2020-03-09,0
+Thailand,2020-03-10,53
+Japan,2020-03-10,581
+Singapur,2020-03-10,160
+Nepal,2020-03-10,1
+Malaysia,2020-03-10,129
+Kanada,2020-03-10,79
+Australien,2020-03-10,107
+Kambodscha,2020-03-10,2
+Sri Lanka,2020-03-10,1
+Deutschland,2020-03-10,1457
+Finnland,2020-03-10,40
+Vereinigte Arabische Emirate,2020-03-10,74
+Philippinen,2020-03-10,33
+Indien,2020-03-10,56
+Italien,2020-03-10,10149
+Schweden,2020-03-10,355
+Spanien,2020-03-10,1695
+Belgien,2020-03-10,267
+Ägypten,2020-03-10,59
+Libanon,2020-03-10,41
+Irak,2020-03-10,71
+Oman,2020-03-10,18
+Afghanistan,2020-03-10,5
+Bahrain,2020-03-10,110
+Kuwait,2020-03-10,69
+Algerien,2020-03-10,20
+Kroatien,2020-03-10,14
+Schweiz,2020-03-10,491
+Österreich,2020-03-10,182
+Israel,2020-03-10,83
+Pakistan,2020-03-10,16
+Brasilien,2020-03-10,31
+Georgien,2020-03-10,15
+Griechenland,2020-03-10,89
+Mazedonien,2020-03-10,7
+Norwegen,2020-03-10,400
+Rumänien,2020-03-10,25
+Estland,2020-03-10,12
+Niederlande,2020-03-10,382
+San Marino,2020-03-10,51
+Weißrussland,2020-03-10,9
+Island,2020-03-10,69
+Litauen,2020-03-10,1
+Mexiko,2020-03-10,7
+Neuseeland,2020-03-10,5
+Nigeria,2020-03-10,2
+Irland,2020-03-10,34
+Luxemburg,2020-03-10,5
+Monaco,2020-03-10,1
+Katar,2020-03-10,24
+Ecuador,2020-03-10,15
+Aserbaidschan,2020-03-10,11
+Armenien,2020-03-10,1
+Dominikanische Republik,2020-03-10,5
+Indonesien,2020-03-10,27
+Portugal,2020-03-10,41
+Andorra,2020-03-10,1
+Lettland,2020-03-10,8
+Marokko,2020-03-10,3
+Saudi Arabien,2020-03-10,20
+Senegal,2020-03-10,4
+Argentinien,2020-03-10,17
+Chile,2020-03-10,13
+Jordanien,2020-03-10,1
+Ukraine,2020-03-10,1
+Ungarn,2020-03-10,9
+Liechtenstein,2020-03-10,1
+Polen,2020-03-10,22
+Tunesien,2020-03-10,5
+Bosnien und Herzegowina,2020-03-10,5
+Slowenien,2020-03-10,31
+Südafrika,2020-03-10,7
+Bhutan,2020-03-10,1
+Kamerun,2020-03-10,2
+Kolumbien,2020-03-10,3
+Costa Rica,2020-03-10,9
+Peru,2020-03-10,11
+Serbien,2020-03-10,5
+Slowakei,2020-03-10,7
+Togo,2020-03-10,1
+Malta,2020-03-10,5
+Martinique,2020-03-10,2
+Bulgarien,2020-03-10,4
+Malediven,2020-03-10,6
+Bangladesch,2020-03-10,3
+Paraguay,2020-03-10,1
+Albanien,2020-03-10,10
+Zypern,2020-03-10,3
+Brunei Darussalam,2020-03-10,1
+Vereinigte Staaten,2020-03-10,959
+Burkina Faso,2020-03-10,1
+Vatikanstaat,2020-03-10,1
+Mongolei,2020-03-10,1
+Panama,2020-03-10,1
+China,2020-03-10,80887
+Iran,2020-03-10,8042
+Südkorea,2020-03-10,7513
+Frankreich,2020-03-10,1792
+NA,2020-03-10,696
+Dänemark,2020-03-10,264
+Tschechische Republik,2020-03-10,41
+Taiwan,2020-03-10,47
+Vietnam,2020-03-10,31
+Russische Föderation,2020-03-10,20
+Republik Moldau,2020-03-10,3
+Bolivien,2020-03-10,0
+Honduras,2020-03-10,0
+Großbritannien,2020-03-10,384
+Demokratische Republik Kongo,2020-03-10,0
+Elfenbeinküste,2020-03-10,0
+Jamaika,2020-03-10,0
+Reunion,2020-03-10,0
+Türkei,2020-03-10,0
+Kuba,2020-03-10,0
+Guyana,2020-03-10,0
+Kasachstan,2020-03-10,0
+Cayman Inseln,2020-03-10,0
+Guadeloupe,2020-03-10,0
+Äthiopien,2020-03-10,0
+Sudan,2020-03-10,0
+Guinea,2020-03-10,0
+Aruba,2020-03-10,0
+Kenia,2020-03-10,0
+Antigua und Barbuda,2020-03-10,0
+Uruguay,2020-03-10,0
+Ghana,2020-03-10,0
+Jersey,2020-03-10,0
+Namibia,2020-03-10,0
+Seychellen,2020-03-10,0
+Trinidad und Tobago,2020-03-10,0
+Venezuela,2020-03-10,0
+Curacao,2020-03-10,0
+Swasiland,2020-03-10,0
+Gabun,2020-03-10,0
+Guatemala,2020-03-10,0
+Guernsey,2020-03-10,0
+Mauretanien,2020-03-10,0
+Ruanda,2020-03-10,0
+Saint Lucia,2020-03-10,0
+St. Vincent und die Grenadinen,2020-03-10,0
+Surinam,2020-03-10,0
+Palästina,2020-03-10,0
+Kosovo,2020-03-10,0
+Zentralafrikanische Republik,2020-03-10,0
+Kongo,2020-03-10,0
+Äquatorialguinea,2020-03-10,0
+Usbekistan,2020-03-10,0
+Thailand,2020-03-11,59
+Japan,2020-03-11,639
+Singapur,2020-03-11,178
+Nepal,2020-03-11,1
+Malaysia,2020-03-11,149
+Kanada,2020-03-11,108
+Australien,2020-03-11,128
+Kambodscha,2020-03-11,3
+Sri Lanka,2020-03-11,2
+Deutschland,2020-03-11,1908
+Finnland,2020-03-11,59
+Vereinigte Arabische Emirate,2020-03-11,74
+Philippinen,2020-03-11,49
+Indien,2020-03-11,62
+Italien,2020-03-11,12462
+Schweden,2020-03-11,500
+Spanien,2020-03-11,2277
+Belgien,2020-03-11,314
+Ägypten,2020-03-11,60
+Libanon,2020-03-11,61
+Irak,2020-03-11,71
+Oman,2020-03-11,18
+Afghanistan,2020-03-11,7
+Bahrain,2020-03-11,195
+Kuwait,2020-03-11,72
+Algerien,2020-03-11,20
+Kroatien,2020-03-11,19
+Schweiz,2020-03-11,652
+Österreich,2020-03-11,246
+Israel,2020-03-11,109
+Pakistan,2020-03-11,19
+Brasilien,2020-03-11,38
+Georgien,2020-03-11,24
+Griechenland,2020-03-11,99
+Mazedonien,2020-03-11,7
+Norwegen,2020-03-11,598
+Rumänien,2020-03-11,45
+Estland,2020-03-11,16
+Niederlande,2020-03-11,503
+San Marino,2020-03-11,62
+Weißrussland,2020-03-11,9
+Island,2020-03-11,85
+Litauen,2020-03-11,3
+Mexiko,2020-03-11,8
+Neuseeland,2020-03-11,5
+Nigeria,2020-03-11,2
+Irland,2020-03-11,43
+Luxemburg,2020-03-11,7
+Monaco,2020-03-11,1
+Katar,2020-03-11,262
+Ecuador,2020-03-11,17
+Aserbaidschan,2020-03-11,11
+Armenien,2020-03-11,1
+Dominikanische Republik,2020-03-11,5
+Indonesien,2020-03-11,34
+Portugal,2020-03-11,59
+Andorra,2020-03-11,1
+Lettland,2020-03-11,10
+Marokko,2020-03-11,5
+Saudi Arabien,2020-03-11,21
+Senegal,2020-03-11,4
+Argentinien,2020-03-11,19
+Chile,2020-03-11,23
+Jordanien,2020-03-11,1
+Ukraine,2020-03-11,1
+Ungarn,2020-03-11,13
+Liechtenstein,2020-03-11,1
+Polen,2020-03-11,31
+Tunesien,2020-03-11,7
+Bosnien und Herzegowina,2020-03-11,7
+Slowenien,2020-03-11,57
+Südafrika,2020-03-11,13
+Bhutan,2020-03-11,1
+Kamerun,2020-03-11,2
+Kolumbien,2020-03-11,9
+Costa Rica,2020-03-11,13
+Peru,2020-03-11,11
+Serbien,2020-03-11,12
+Slowakei,2020-03-11,10
+Togo,2020-03-11,1
+Malta,2020-03-11,6
+Martinique,2020-03-11,3
+Bulgarien,2020-03-11,7
+Malediven,2020-03-11,8
+Bangladesch,2020-03-11,3
+Paraguay,2020-03-11,5
+Albanien,2020-03-11,12
+Zypern,2020-03-11,6
+Brunei Darussalam,2020-03-11,11
+Vereinigte Staaten,2020-03-11,1281
+Burkina Faso,2020-03-11,2
+Vatikanstaat,2020-03-11,1
+Mongolei,2020-03-11,1
+Panama,2020-03-11,8
+China,2020-03-11,80921
+Iran,2020-03-11,9000
+Südkorea,2020-03-11,7755
+Frankreich,2020-03-11,2289
+NA,2020-03-11,696
+Dänemark,2020-03-11,444
+Tschechische Republik,2020-03-11,91
+Taiwan,2020-03-11,48
+Vietnam,2020-03-11,38
+Russische Föderation,2020-03-11,20
+Republik Moldau,2020-03-11,3
+Bolivien,2020-03-11,2
+Honduras,2020-03-11,2
+Großbritannien,2020-03-11,459
+Demokratische Republik Kongo,2020-03-11,1
+Elfenbeinküste,2020-03-11,1
+Jamaika,2020-03-11,1
+Reunion,2020-03-11,1
+Türkei,2020-03-11,1
+Kuba,2020-03-11,0
+Guyana,2020-03-11,0
+Kasachstan,2020-03-11,0
+Cayman Inseln,2020-03-11,0
+Guadeloupe,2020-03-11,0
+Äthiopien,2020-03-11,0
+Sudan,2020-03-11,0
+Guinea,2020-03-11,0
+Aruba,2020-03-11,0
+Kenia,2020-03-11,0
+Antigua und Barbuda,2020-03-11,0
+Uruguay,2020-03-11,0
+Ghana,2020-03-11,0
+Jersey,2020-03-11,0
+Namibia,2020-03-11,0
+Seychellen,2020-03-11,0
+Trinidad und Tobago,2020-03-11,0
+Venezuela,2020-03-11,0
+Curacao,2020-03-11,0
+Swasiland,2020-03-11,0
+Gabun,2020-03-11,0
+Guatemala,2020-03-11,0
+Guernsey,2020-03-11,0
+Mauretanien,2020-03-11,0
+Ruanda,2020-03-11,0
+Saint Lucia,2020-03-11,0
+St. Vincent und die Grenadinen,2020-03-11,0
+Surinam,2020-03-11,0
+Palästina,2020-03-11,0
+Kosovo,2020-03-11,0
+Zentralafrikanische Republik,2020-03-11,0
+Kongo,2020-03-11,0
+Äquatorialguinea,2020-03-11,0
+Usbekistan,2020-03-11,0
+Thailand,2020-03-12,70
+Japan,2020-03-12,639
+Singapur,2020-03-12,178
+Nepal,2020-03-12,1
+Malaysia,2020-03-12,149
+Kanada,2020-03-12,117
+Australien,2020-03-12,128
+Kambodscha,2020-03-12,3
+Sri Lanka,2020-03-12,2
+Deutschland,2020-03-12,2369
+Finnland,2020-03-12,59
+Vereinigte Arabische Emirate,2020-03-12,85
+Philippinen,2020-03-12,52
+Indien,2020-03-12,73
+Italien,2020-03-12,12462
+Schweden,2020-03-12,599
+Spanien,2020-03-12,2277
+Belgien,2020-03-12,314
+Ägypten,2020-03-12,67
+Libanon,2020-03-12,61
+Irak,2020-03-12,71
+Oman,2020-03-12,18
+Afghanistan,2020-03-12,7
+Bahrain,2020-03-12,195
+Kuwait,2020-03-12,80
+Algerien,2020-03-12,24
+Kroatien,2020-03-12,19
+Schweiz,2020-03-12,652
+Österreich,2020-03-12,302
+Israel,2020-03-12,131
+Pakistan,2020-03-12,20
+Brasilien,2020-03-12,52
+Georgien,2020-03-12,24
+Griechenland,2020-03-12,99
+Mazedonien,2020-03-12,7
+Norwegen,2020-03-12,702
+Rumänien,2020-03-12,49
+Estland,2020-03-12,16
+Niederlande,2020-03-12,503
+San Marino,2020-03-12,69
+Weißrussland,2020-03-12,12
+Island,2020-03-12,103
+Litauen,2020-03-12,3
+Mexiko,2020-03-12,12
+Neuseeland,2020-03-12,5
+Nigeria,2020-03-12,2
+Irland,2020-03-12,43
+Luxemburg,2020-03-12,19
+Monaco,2020-03-12,2
+Katar,2020-03-12,262
+Ecuador,2020-03-12,17
+Aserbaidschan,2020-03-12,11
+Armenien,2020-03-12,4
+Dominikanische Republik,2020-03-12,5
+Indonesien,2020-03-12,34
+Portugal,2020-03-12,59
+Andorra,2020-03-12,1
+Lettland,2020-03-12,10
+Marokko,2020-03-12,6
+Saudi Arabien,2020-03-12,45
+Senegal,2020-03-12,4
+Argentinien,2020-03-12,19
+Chile,2020-03-12,23
+Jordanien,2020-03-12,1
+Ukraine,2020-03-12,1
+Ungarn,2020-03-12,13
+Liechtenstein,2020-03-12,1
+Polen,2020-03-12,49
+Tunesien,2020-03-12,7
+Bosnien und Herzegowina,2020-03-12,11
+Slowenien,2020-03-12,89
+Südafrika,2020-03-12,17
+Bhutan,2020-03-12,1
+Kamerun,2020-03-12,2
+Kolumbien,2020-03-12,9
+Costa Rica,2020-03-12,22
+Peru,2020-03-12,15
+Serbien,2020-03-12,19
+Slowakei,2020-03-12,16
+Togo,2020-03-12,1
+Malta,2020-03-12,6
+Martinique,2020-03-12,3
+Bulgarien,2020-03-12,7
+Malediven,2020-03-12,8
+Bangladesch,2020-03-12,3
+Paraguay,2020-03-12,5
+Albanien,2020-03-12,23
+Zypern,2020-03-12,6
+Brunei Darussalam,2020-03-12,11
+Vereinigte Staaten,2020-03-12,1663
+Burkina Faso,2020-03-12,2
+Vatikanstaat,2020-03-12,1
+Mongolei,2020-03-12,1
+Panama,2020-03-12,11
+China,2020-03-12,80932
+Iran,2020-03-12,10075
+Südkorea,2020-03-12,7869
+Frankreich,2020-03-12,2289
+NA,2020-03-12,NA
+Dänemark,2020-03-12,617
+Tschechische Republik,2020-03-12,94
+Taiwan,2020-03-12,49
+Vietnam,2020-03-12,39
+Russische Föderation,2020-03-12,28
+Republik Moldau,2020-03-12,3
+Bolivien,2020-03-12,2
+Honduras,2020-03-12,2
+Großbritannien,2020-03-12,459
+Demokratische Republik Kongo,2020-03-12,1
+Elfenbeinküste,2020-03-12,1
+Jamaika,2020-03-12,2
+Reunion,2020-03-12,1
+Türkei,2020-03-12,1
+Kuba,2020-03-12,3
+Guyana,2020-03-12,1
+Kasachstan,2020-03-12,0
+Cayman Inseln,2020-03-12,0
+Guadeloupe,2020-03-12,0
+Äthiopien,2020-03-12,0
+Sudan,2020-03-12,0
+Guinea,2020-03-12,0
+Aruba,2020-03-12,0
+Kenia,2020-03-12,0
+Antigua und Barbuda,2020-03-12,0
+Uruguay,2020-03-12,0
+Ghana,2020-03-12,0
+Jersey,2020-03-12,0
+Namibia,2020-03-12,0
+Seychellen,2020-03-12,0
+Trinidad und Tobago,2020-03-12,0
+Venezuela,2020-03-12,0
+Curacao,2020-03-12,0
+Swasiland,2020-03-12,0
+Gabun,2020-03-12,0
+Guatemala,2020-03-12,0
+Guernsey,2020-03-12,0
+Mauretanien,2020-03-12,0
+Ruanda,2020-03-12,0
+Saint Lucia,2020-03-12,0
+St. Vincent und die Grenadinen,2020-03-12,0
+Surinam,2020-03-12,0
+Palästina,2020-03-12,0
+Kosovo,2020-03-12,0
+Zentralafrikanische Republik,2020-03-12,0
+Kongo,2020-03-12,0
+Äquatorialguinea,2020-03-12,0
+Usbekistan,2020-03-12,0
+Thailand,2020-03-13,75
+Japan,2020-03-13,701
+Singapur,2020-03-13,200
+Nepal,2020-03-13,1
+Malaysia,2020-03-13,197
+Kanada,2020-03-13,193
+Australien,2020-03-13,200
+Kambodscha,2020-03-13,5
+Sri Lanka,2020-03-13,6
+Deutschland,2020-03-13,2730
+Finnland,2020-03-13,155
+Vereinigte Arabische Emirate,2020-03-13,85
+Philippinen,2020-03-13,64
+Indien,2020-03-13,82
+Italien,2020-03-13,17660
+Schweden,2020-03-13,814
+Spanien,2020-03-13,5232
+Belgien,2020-03-13,559
+Ägypten,2020-03-13,80
+Libanon,2020-03-13,77
+Irak,2020-03-13,101
+Oman,2020-03-13,19
+Afghanistan,2020-03-13,7
+Bahrain,2020-03-13,189
+Kuwait,2020-03-13,80
+Algerien,2020-03-13,26
+Kroatien,2020-03-13,32
+Schweiz,2020-03-13,1139
+Österreich,2020-03-13,504
+Israel,2020-03-13,161
+Pakistan,2020-03-13,28
+Brasilien,2020-03-13,151
+Georgien,2020-03-13,25
+Griechenland,2020-03-13,190
+Mazedonien,2020-03-13,14
+Norwegen,2020-03-13,996
+Rumänien,2020-03-13,89
+Estland,2020-03-13,79
+Niederlande,2020-03-13,804
+San Marino,2020-03-13,80
+Weißrussland,2020-03-13,27
+Island,2020-03-13,134
+Litauen,2020-03-13,6
+Mexiko,2020-03-13,12
+Neuseeland,2020-03-13,5
+Nigeria,2020-03-13,2
+Irland,2020-03-13,90
+Luxemburg,2020-03-13,34
+Monaco,2020-03-13,2
+Katar,2020-03-13,320
+Ecuador,2020-03-13,17
+Aserbaidschan,2020-03-13,15
+Armenien,2020-03-13,8
+Dominikanische Republik,2020-03-13,5
+Indonesien,2020-03-13,69
+Portugal,2020-03-13,112
+Andorra,2020-03-13,1
+Lettland,2020-03-13,17
+Marokko,2020-03-13,7
+Saudi Arabien,2020-03-13,86
+Senegal,2020-03-13,10
+Argentinien,2020-03-13,31
+Chile,2020-03-13,43
+Jordanien,2020-03-13,1
+Ukraine,2020-03-13,3
+Ungarn,2020-03-13,19
+Liechtenstein,2020-03-13,1
+Polen,2020-03-13,68
+Tunesien,2020-03-13,16
+Bosnien und Herzegowina,2020-03-13,13
+Slowenien,2020-03-13,141
+Südafrika,2020-03-13,24
+Bhutan,2020-03-13,1
+Kamerun,2020-03-13,2
+Kolumbien,2020-03-13,13
+Costa Rica,2020-03-13,23
+Peru,2020-03-13,28
+Serbien,2020-03-13,35
+Slowakei,2020-03-13,32
+Togo,2020-03-13,1
+Malta,2020-03-13,12
+Martinique,2020-03-13,3
+Bulgarien,2020-03-13,23
+Malediven,2020-03-13,9
+Bangladesch,2020-03-13,3
+Paraguay,2020-03-13,6
+Albanien,2020-03-13,33
+Zypern,2020-03-13,14
+Brunei Darussalam,2020-03-13,37
+Vereinigte Staaten,2020-03-13,2179
+Burkina Faso,2020-03-13,2
+Vatikanstaat,2020-03-13,1
+Mongolei,2020-03-13,1
+Panama,2020-03-13,27
+China,2020-03-13,80945
+Iran,2020-03-13,11364
+Südkorea,2020-03-13,7979
+Frankreich,2020-03-13,3672
+NA,2020-03-13,NA
+Dänemark,2020-03-13,804
+Tschechische Republik,2020-03-13,141
+Taiwan,2020-03-13,50
+Vietnam,2020-03-13,47
+Russische Föderation,2020-03-13,45
+Republik Moldau,2020-03-13,6
+Bolivien,2020-03-13,3
+Honduras,2020-03-13,2
+Großbritannien,2020-03-13,801
+Demokratische Republik Kongo,2020-03-13,2
+Elfenbeinküste,2020-03-13,1
+Jamaika,2020-03-13,8
+Reunion,2020-03-13,5
+Türkei,2020-03-13,5
+Kuba,2020-03-13,4
+Guyana,2020-03-13,1
+Kasachstan,2020-03-13,4
+Cayman Inseln,2020-03-13,1
+Guadeloupe,2020-03-13,1
+Äthiopien,2020-03-13,1
+Sudan,2020-03-13,1
+Guinea,2020-03-13,1
+Aruba,2020-03-13,2
+Kenia,2020-03-13,1
+Antigua und Barbuda,2020-03-13,1
+Uruguay,2020-03-13,0
+Ghana,2020-03-13,0
+Jersey,2020-03-13,0
+Namibia,2020-03-13,0
+Seychellen,2020-03-13,0
+Trinidad und Tobago,2020-03-13,0
+Venezuela,2020-03-13,0
+Curacao,2020-03-13,0
+Swasiland,2020-03-13,0
+Gabun,2020-03-13,0
+Guatemala,2020-03-13,0
+Guernsey,2020-03-13,0
+Mauretanien,2020-03-13,0
+Ruanda,2020-03-13,0
+Saint Lucia,2020-03-13,0
+St. Vincent und die Grenadinen,2020-03-13,0
+Surinam,2020-03-13,0
+Palästina,2020-03-13,0
+Kosovo,2020-03-13,0
+Zentralafrikanische Republik,2020-03-13,0
+Kongo,2020-03-13,0
+Äquatorialguinea,2020-03-13,0
+Usbekistan,2020-03-13,0
+Thailand,2020-03-14,82
+Japan,2020-03-14,773
+Singapur,2020-03-14,212
+Nepal,2020-03-14,1
+Malaysia,2020-03-14,238
+Kanada,2020-03-14,198
+Australien,2020-03-14,250
+Kambodscha,2020-03-14,7
+Sri Lanka,2020-03-14,10
+Deutschland,2020-03-14,4585
+Finnland,2020-03-14,225
+Vereinigte Arabische Emirate,2020-03-14,85
+Philippinen,2020-03-14,111
+Indien,2020-03-14,102
+Italien,2020-03-14,21157
+Schweden,2020-03-14,961
+Spanien,2020-03-14,6391
+Belgien,2020-03-14,689
+Ägypten,2020-03-14,109
+Libanon,2020-03-14,93
+Irak,2020-03-14,110
+Oman,2020-03-14,19
+Afghanistan,2020-03-14,11
+Bahrain,2020-03-14,210
+Kuwait,2020-03-14,104
+Algerien,2020-03-14,37
+Kroatien,2020-03-14,38
+Schweiz,2020-03-14,1359
+Österreich,2020-03-14,655
+Israel,2020-03-14,193
+Pakistan,2020-03-14,31
+Brasilien,2020-03-14,151
+Georgien,2020-03-14,30
+Griechenland,2020-03-14,228
+Mazedonien,2020-03-14,14
+Norwegen,2020-03-14,1090
+Rumänien,2020-03-14,123
+Estland,2020-03-14,115
+Niederlande,2020-03-14,959
+San Marino,2020-03-14,80
+Weißrussland,2020-03-14,27
+Island,2020-03-14,156
+Litauen,2020-03-14,8
+Mexiko,2020-03-14,26
+Neuseeland,2020-03-14,6
+Nigeria,2020-03-14,2
+Irland,2020-03-14,129
+Luxemburg,2020-03-14,51
+Monaco,2020-03-14,2
+Katar,2020-03-14,337
+Ecuador,2020-03-14,28
+Aserbaidschan,2020-03-14,15
+Armenien,2020-03-14,18
+Dominikanische Republik,2020-03-14,11
+Indonesien,2020-03-14,96
+Portugal,2020-03-14,169
+Andorra,2020-03-14,1
+Lettland,2020-03-14,26
+Marokko,2020-03-14,17
+Saudi Arabien,2020-03-14,103
+Senegal,2020-03-14,10
+Argentinien,2020-03-14,34
+Chile,2020-03-14,61
+Jordanien,2020-03-14,1
+Ukraine,2020-03-14,3
+Ungarn,2020-03-14,30
+Liechtenstein,2020-03-14,4
+Polen,2020-03-14,103
+Tunesien,2020-03-14,18
+Bosnien und Herzegowina,2020-03-14,18
+Slowenien,2020-03-14,181
+Südafrika,2020-03-14,38
+Bhutan,2020-03-14,1
+Kamerun,2020-03-14,2
+Kolumbien,2020-03-14,22
+Costa Rica,2020-03-14,26
+Peru,2020-03-14,38
+Serbien,2020-03-14,46
+Slowakei,2020-03-14,44
+Togo,2020-03-14,1
+Malta,2020-03-14,18
+Martinique,2020-03-14,9
+Bulgarien,2020-03-14,41
+Malediven,2020-03-14,10
+Bangladesch,2020-03-14,3
+Paraguay,2020-03-14,6
+Albanien,2020-03-14,38
+Zypern,2020-03-14,26
+Brunei Darussalam,2020-03-14,40
+Vereinigte Staaten,2020-03-14,2727
+Burkina Faso,2020-03-14,2
+Vatikanstaat,2020-03-14,1
+Mongolei,2020-03-14,1
+Panama,2020-03-14,36
+China,2020-03-14,80977
+Iran,2020-03-14,12729
+Südkorea,2020-03-14,8086
+Frankreich,2020-03-14,4480
+NA,2020-03-14,696
+Dänemark,2020-03-14,836
+Tschechische Republik,2020-03-14,189
+Taiwan,2020-03-14,53
+Vietnam,2020-03-14,53
+Russische Föderation,2020-03-14,59
+Republik Moldau,2020-03-14,12
+Bolivien,2020-03-14,10
+Honduras,2020-03-14,2
+Großbritannien,2020-03-14,1143
+Demokratische Republik Kongo,2020-03-14,2
+Elfenbeinküste,2020-03-14,1
+Jamaika,2020-03-14,8
+Reunion,2020-03-14,6
+Türkei,2020-03-14,5
+Kuba,2020-03-14,4
+Guyana,2020-03-14,1
+Kasachstan,2020-03-14,6
+Cayman Inseln,2020-03-14,1
+Guadeloupe,2020-03-14,1
+Äthiopien,2020-03-14,1
+Sudan,2020-03-14,1
+Guinea,2020-03-14,1
+Aruba,2020-03-14,2
+Kenia,2020-03-14,1
+Antigua und Barbuda,2020-03-14,1
+Uruguay,2020-03-14,4
+Ghana,2020-03-14,3
+Jersey,2020-03-14,2
+Namibia,2020-03-14,2
+Seychellen,2020-03-14,2
+Trinidad und Tobago,2020-03-14,2
+Venezuela,2020-03-14,2
+Curacao,2020-03-14,1
+Swasiland,2020-03-14,1
+Gabun,2020-03-14,1
+Guatemala,2020-03-14,1
+Guernsey,2020-03-14,1
+Mauretanien,2020-03-14,1
+Ruanda,2020-03-14,1
+Saint Lucia,2020-03-14,1
+St. Vincent und die Grenadinen,2020-03-14,1
+Surinam,2020-03-14,1
+Palästina,2020-03-14,0
+Kosovo,2020-03-14,0
+Zentralafrikanische Republik,2020-03-14,0
+Kongo,2020-03-14,0
+Äquatorialguinea,2020-03-14,0
+Usbekistan,2020-03-14,0
+Thailand,2020-03-15,114
+Japan,2020-03-15,839
+Singapur,2020-03-15,226
+Nepal,2020-03-15,1
+Malaysia,2020-03-15,428
+Kanada,2020-03-15,252
+Australien,2020-03-15,297
+Kambodscha,2020-03-15,7
+Sri Lanka,2020-03-15,18
+Deutschland,2020-03-15,5795
+Finnland,2020-03-15,244
+Vereinigte Arabische Emirate,2020-03-15,98
+Philippinen,2020-03-15,140
+Indien,2020-03-15,113
+Italien,2020-03-15,24747
+Schweden,2020-03-15,1022
+Spanien,2020-03-15,7798
+Belgien,2020-03-15,886
+Ägypten,2020-03-15,110
+Libanon,2020-03-15,110
+Irak,2020-03-15,116
+Oman,2020-03-15,22
+Afghanistan,2020-03-15,16
+Bahrain,2020-03-15,214
+Kuwait,2020-03-15,112
+Algerien,2020-03-15,48
+Kroatien,2020-03-15,49
+Schweiz,2020-03-15,2200
+Österreich,2020-03-15,860
+Israel,2020-03-15,251
+Pakistan,2020-03-15,53
+Brasilien,2020-03-15,162
+Georgien,2020-03-15,33
+Griechenland,2020-03-15,331
+Mazedonien,2020-03-15,14
+Norwegen,2020-03-15,1221
+Rumänien,2020-03-15,131
+Estland,2020-03-15,171
+Niederlande,2020-03-15,1135
+San Marino,2020-03-15,101
+Weißrussland,2020-03-15,27
+Island,2020-03-15,171
+Litauen,2020-03-15,12
+Mexiko,2020-03-15,41
+Neuseeland,2020-03-15,8
+Nigeria,2020-03-15,2
+Irland,2020-03-15,129
+Luxemburg,2020-03-15,59
+Monaco,2020-03-15,2
+Katar,2020-03-15,401
+Ecuador,2020-03-15,28
+Aserbaidschan,2020-03-15,23
+Armenien,2020-03-15,26
+Dominikanische Republik,2020-03-15,11
+Indonesien,2020-03-15,117
+Portugal,2020-03-15,245
+Andorra,2020-03-15,1
+Lettland,2020-03-15,30
+Marokko,2020-03-15,28
+Saudi Arabien,2020-03-15,103
+Senegal,2020-03-15,24
+Argentinien,2020-03-15,45
+Chile,2020-03-15,74
+Jordanien,2020-03-15,8
+Ukraine,2020-03-15,3
+Ungarn,2020-03-15,32
+Liechtenstein,2020-03-15,4
+Polen,2020-03-15,119
+Tunesien,2020-03-15,18
+Bosnien und Herzegowina,2020-03-15,24
+Slowenien,2020-03-15,219
+Südafrika,2020-03-15,51
+Bhutan,2020-03-15,1
+Kamerun,2020-03-15,2
+Kolumbien,2020-03-15,34
+Costa Rica,2020-03-15,27
+Peru,2020-03-15,43
+Serbien,2020-03-15,48
+Slowakei,2020-03-15,54
+Togo,2020-03-15,1
+Malta,2020-03-15,21
+Martinique,2020-03-15,9
+Bulgarien,2020-03-15,51
+Malediven,2020-03-15,13
+Bangladesch,2020-03-15,5
+Paraguay,2020-03-15,6
+Albanien,2020-03-15,42
+Zypern,2020-03-15,26
+Brunei Darussalam,2020-03-15,50
+Vereinigte Staaten,2020-03-15,3499
+Burkina Faso,2020-03-15,3
+Vatikanstaat,2020-03-15,1
+Mongolei,2020-03-15,1
+Panama,2020-03-15,43
+China,2020-03-15,81003
+Iran,2020-03-15,13938
+Südkorea,2020-03-15,8162
+Frankreich,2020-03-15,4513
+NA,2020-03-15,696
+Dänemark,2020-03-15,875
+Tschechische Republik,2020-03-15,253
+Taiwan,2020-03-15,59
+Vietnam,2020-03-15,56
+Russische Föderation,2020-03-15,63
+Republik Moldau,2020-03-15,23
+Bolivien,2020-03-15,10
+Honduras,2020-03-15,3
+Großbritannien,2020-03-15,1144
+Demokratische Republik Kongo,2020-03-15,2
+Elfenbeinküste,2020-03-15,1
+Jamaika,2020-03-15,10
+Reunion,2020-03-15,7
+Türkei,2020-03-15,6
+Kuba,2020-03-15,4
+Guyana,2020-03-15,4
+Kasachstan,2020-03-15,9
+Cayman Inseln,2020-03-15,1
+Guadeloupe,2020-03-15,3
+Äthiopien,2020-03-15,1
+Sudan,2020-03-15,1
+Guinea,2020-03-15,1
+Aruba,2020-03-15,2
+Kenia,2020-03-15,3
+Antigua und Barbuda,2020-03-15,1
+Uruguay,2020-03-15,4
+Ghana,2020-03-15,6
+Jersey,2020-03-15,2
+Namibia,2020-03-15,2
+Seychellen,2020-03-15,2
+Trinidad und Tobago,2020-03-15,2
+Venezuela,2020-03-15,10
+Curacao,2020-03-15,1
+Swasiland,2020-03-15,1
+Gabun,2020-03-15,1
+Guatemala,2020-03-15,1
+Guernsey,2020-03-15,1
+Mauretanien,2020-03-15,1
+Ruanda,2020-03-15,1
+Saint Lucia,2020-03-15,2
+St. Vincent und die Grenadinen,2020-03-15,1
+Surinam,2020-03-15,1
+Palästina,2020-03-15,0
+Kosovo,2020-03-15,2
+Zentralafrikanische Republik,2020-03-15,1
+Kongo,2020-03-15,1
+Äquatorialguinea,2020-03-15,1
+Usbekistan,2020-03-15,1
+China,2020-03-16,80880
+Italien,2020-03-16,24747
+Iran,2020-03-16,13938
+Spanien,2020-03-16,8744
+Südkorea,2020-03-16,8236
+Deutschland,2020-03-16,6378
+Frankreich,2020-03-16,5423
+Vereinigte Staaten,2020-03-16,3802
+Schweiz,2020-03-16,2217
+Großbritannien,2020-03-16,1391
+Norwegen,2020-03-16,1266
+Niederlande,2020-03-16,1135
+Belgien,2020-03-16,1058
+Schweden,2020-03-16,1043
+Österreich,2020-03-16,1018
+Dänemark,2020-03-16,898
+Japan,2020-03-16,845
+NA,2020-03-16,NA
+Malaysia,2020-03-16,553
+Katar,2020-03-16,401
+Australien,2020-03-16,375
+Kanada,2020-03-16,341
+Griechenland,2020-03-16,331
+Tschechische Republik,2020-03-16,298
+Finnland,2020-03-16,269
+Israel,2020-03-16,250
+Portugal,2020-03-16,245
+Singapur,2020-03-16,226
+Bahrain,2020-03-16,221
+Slowenien,2020-03-16,219
+Estland,2020-03-16,205
+Brasilien,2020-03-16,203
+Island,2020-03-16,180
+Irland,2020-03-16,170
+Rumänien,2020-03-16,158
+Polen,2020-03-16,150
+Hongkong,2020-03-16,149
+Philippinen,2020-03-16,140
+Indonesien,2020-03-16,134
+Ägypten,2020-03-16,126
+Irak,2020-03-16,124
+Kuwait,2020-03-16,123
+Saudi Arabien,2020-03-16,118
+Indien,2020-03-16,117
+Thailand,2020-03-16,114
+San Marino,2020-03-16,109
+Libanon,2020-03-16,99
+Vereinigte Arabische Emirate,2020-03-16,98
+Pakistan,2020-03-16,94
+Luxemburg,2020-03-16,81
+Chile,2020-03-16,75
+Peru,2020-03-16,71
+Russische Föderation,2020-03-16,63
+Slowakei,2020-03-16,61
+Südafrika,2020-03-16,61
+Taiwan,2020-03-16,59
+Vietnam,2020-03-16,57
+Argentinien,2020-03-16,56
+Kroatien,2020-03-16,56
+Panama,2020-03-16,55
+Serbien,2020-03-16,55
+Algerien,2020-03-16,54
+Mexiko,2020-03-16,53
+Bulgarien,2020-03-16,52
+Albanien,2020-03-16,51
+Brunei Darussalam,2020-03-16,50
+Kolumbien,2020-03-16,45
+Ungarn,2020-03-16,39
+Palästina,2020-03-16,39
+Ecuador,2020-03-16,37
+Weißrussland,2020-03-16,36
+Costa Rica,2020-03-16,35
+Lettland,2020-03-16,34
+Georgien,2020-03-16,33
+Zypern,2020-03-16,33
+Armenien,2020-03-16,30
+Marokko,2020-03-16,29
+Aserbaidschan,2020-03-16,25
+Senegal,2020-03-16,24
+Bosnien und Herzegowina,2020-03-16,24
+Republik Moldau,2020-03-16,23
+Oman,2020-03-16,22
+Afghanistan,2020-03-16,21
+Sri Lanka,2020-03-16,21
+Malta,2020-03-16,21
+Tunesien,2020-03-16,20
+Mazedonien,2020-03-16,19
+Färöer Inseln,2020-03-16,18
+Türkei,2020-03-16,18
+Venezuela,2020-03-16,17
+Jordanien,2020-03-16,16
+Burkina Faso,2020-03-16,15
+Martinique,2020-03-16,15
+Litauen,2020-03-16,14
+Malediven,2020-03-16,13
+Kambodscha,2020-03-16,12
+Macao,2020-03-16,11
+Dominikanische Republik,2020-03-16,11
+Bolivien,2020-03-16,11
+Jamaika,2020-03-16,10
+Kasachstan,2020-03-16,9
+Reunion,2020-03-16,9
+Neuseeland,2020-03-16,8
+Bangladesch,2020-03-16,8
+Paraguay,2020-03-16,8
+Uruguay,2020-03-16,8
+Guyana,2020-03-16,7
+Französisch-Guayana,2020-03-16,7
+Liechtenstein,2020-03-16,7
+Ghana,2020-03-16,6
+Guadeloupe,2020-03-16,6
+Honduras,2020-03-16,6
+Usbekistan,2020-03-16,6
+Ukraine,2020-03-16,5
+Andorra,2020-03-16,5
+Äthiopien,2020-03-16,5
+Puerto Rico,2020-03-16,5
+Ruanda,2020-03-16,5
+Kamerun,2020-03-16,4
+Elfenbeinküste,2020-03-16,4
+Kuba,2020-03-16,4
+Trinidad und Tobago,2020-03-16,4
+Französisch Polynesien,2020-03-16,3
+Guam,2020-03-16,3
+Kenia,2020-03-16,3
+Seychellen,2020-03-16,3
+Guatemala,2020-03-16,2
+Monaco,2020-03-16,2
+Nigeria,2020-03-16,2
+Aruba,2020-03-16,2
+Curacao,2020-03-16,2
+Demokratische Republik Kongo,2020-03-16,2
+Namibia,2020-03-16,2
+Saint Lucia,2020-03-16,2
+Sudan,2020-03-16,1
+Nepal,2020-03-16,1
+Antigua und Barbuda,2020-03-16,1
+Bahamas,2020-03-16,1
+Bhutan,2020-03-16,1
+Cayman Inseln,2020-03-16,1
+Kongo,2020-03-16,1
+Äquatorialguinea,2020-03-16,1
+Gabun,2020-03-16,1
+Gibraltar,2020-03-16,1
+Guinea,2020-03-16,1
+Vatikanstaat,2020-03-16,1
+Liberia,2020-03-16,1
+Mauretanien,2020-03-16,1
+Mayotte,2020-03-16,1
+Mongolei,2020-03-16,1
+St. Vincent und die Grenadinen,2020-03-16,1
+Surinam,2020-03-16,1
+Swasiland,2020-03-16,1
+Togo,2020-03-16,1
+"Virgin Islands, U.S.",2020-03-16,1
