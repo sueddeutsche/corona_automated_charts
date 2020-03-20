@@ -1,8 +1,7 @@
 #
 # Scrape and save Worldometers table each day
 #
-# RKI: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html
-# This script parses a HTML-table on the website of the RKI.
+# Url: https://www.worldometers.info/coronavirus/
 #
 
 html_file <- read_html("https://www.worldometers.info/coronavirus/")

@@ -91,7 +91,7 @@ Showing the cases in China and Worldwide over time. [You can find the live chart
 
 ### Area chart comparing Cases, deaths and cured numbers
 
-[`area_cases_vs_cured.R`](functions/production/charts/larea_cases_vs_cured.R)
+[`area_cases_vs_cured.R`](functions/production/charts/area_cases_vs_cured.R)
 
 Showing the cases, deaths and cured cum-sums over time. [You can find the live chart here.](https://www.datawrapper.de/_/9vAGe/)
 
